@@ -27,7 +27,7 @@
 - CODE: grep "Chicken Burrito" chipotle.tsv | grep "Pinto Beans" | wc -l
 	- CODE: grep "Chicken Burrito" chipotle.tsv | grep "Black Beans" | wc -l
 	- ANSWER: black beans (N = 282) are paired with chicken burritos more often than pinto beans (N = 105)
-	- CODE RATIONALE: I thought of this as a nested loop. My thinking was find every instance of "Chicken Burrito" then in        that result set count the number of times that "Black Beans" or "Pinto Beans" shows up in this set and since you can         choose one or the other I could count the number of lines.
+- CODE RATIONALE: I thought of this as a nested loop. My thinking was find every instance of "Chicken Burrito" then in        that result set count the number of times that "Black Beans" or "Pinto Beans" shows up in this set and since you can         choose one or the other I could count the number of lines.
 	- 
 6) List the files that end in .csv or .tsv 
 - CODE: find /c/Users/Joshuaw/Documents/GA_Data_Science -name "*.?sv"
