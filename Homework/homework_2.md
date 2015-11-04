@@ -2,7 +2,7 @@
 
 
 1) Look at the head and the tail of chipotle.tsv in the data subdirectory of this repo.
-	- DIRECTORY: C:\Users\joshuaw\Documents\GA_Data_Science\data\chipotle.tsv
+- DIRECTORY: C:\Users\joshuaw\Documents\GA_Data_Science\data\chipotle.tsv
 	- CODE: tail chipotle.tsv
 	- CODE: head chipotle.tsv
 	- DATA DESCRIPTION: flat file structure, in a wide format, with attributes/variables as columns and observations as rows,     where each row is a single item in a single order, hence order number repeats for each item. COLUMN NAME (DESCRIPTION):      order_id (unique identifier per order), quantity (number of item purchased), choice_description (describes attributes of      item e.g. fresh tomato salsa, rice, cheese etc.), item_price (price of the item)
