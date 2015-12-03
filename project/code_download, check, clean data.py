@@ -27,15 +27,57 @@ on the file and its values, as well as formatted frequencies for each variable o
 import requests, zipfile, StringIO
 import pandas as pd 
 
-#download zip file and store it in an response object
-# download each one separately for ease of data quality checking, 
-#that way if we have to correct data we can do isolate in a single file
-r1 = requests.get("http://downloads.cms.gov/BSAPUF/2008_BSA_Outpatient_Procedures_PUF_1.zip")
-r2 = requests.get("http://downloads.cms.gov/BSAPUF/2008_BSA_Outpatient_Procedures_PUF_2.zip")
-r3 = requests.get("http://downloads.cms.gov/BSAPUF/2008_BSA_Outpatient_Procedures_PUF_3.zip")
+##unzip the file
+#zipr1 = zipfile.ZipFile(StringIO.StringIO(r3.content))
+#zipr1.open("2008_BSA_Outpatient_Procedures_PUF_3.csv")
 
-#check status of eacch 
-r1.status_code
+#create a function that downloads and extracts each file into the 'data' folder
+#we extract each file separately to avoid memory limits    
+def extract_zip(url):
+    import requests, zipfile, StringIO
+    zip_file = requests.get(url)
+    f = zipfile.ZipFile(StringIO.StringIO(zip_file.content))
+    f.extractall("/ds_sandbox/project/data")
+ 
+#list of urls for all files  
+urls = ["http://downloads.cms.gov/BSAPUF/2008_BSA_Outpatient_Procedures_PUF_1.zip", "http://downloads.cms.gov/BSAPUF/2008_BSA_Outpatient_Procedures_PUF_2.zip", "http://downloads.cms.gov/BSAPUF/2008_BSA_Outpatient_Procedures_PUF_3.zip"]
 
+#extract each zip file and palce it in the data folder
+#note depending on your connection speed and memory this may take up to 18 minutes
+for url in urls: 
+    extract_zip(url)
 
-zipr1 = zipfile.ZipExtFile(StringIO.StringIO(r1.content))
+#set the path and read in all files
+#create empty list and dataframes for the loop
+import glob
+path = "/ds_sandbox/project/data/medicare"
+files = glob.glob(path + "/*.csv")
+df = pd.DataFrame()
+clist = []
+
+#loop through all csv files in the folder and combine them into a single data frame
+for file_ in files:
+    df = pd.read_csv(file_,index_col=None, header=0)
+    clist.append(df)
+df = pd.concat(clist)
+
+#import icd-9 codes and descriptions file
+df2 = pd.read_csv("THREE_DIGIT_ICD9_CODE_CATEGORIES.csv", sep=',', header=0, index_col=False)
+
+#renamde the icd-9 file column to a column that can be joined to the medicare data
+df2.rename(columns={'icd9_cd':'OP_CLM_ICD9_DIAG_CD'}, inplace=True)
+
+#join icd-9 codes and descirptions file with the medicare data
+dfm= df.merge(df2, on='OP_CLM_ICD9_DIAG_CD', how='left')
+
+#create a new column that converts the integer values for sex into strings 
+dfm['sex'] = dfm.BENE_SEX_IDENT_CD.map({1:'Male', 2:'Female'})
+
+dfm['age_range'] = dfm.BENE_AGE_CAT_CD.map({1:'Under_65', 2:'65-69', 3:'70-74', 4:'75-79', 5:'80-84', 6:'85_and_older'})
+
+#verify file by looking at shape, should have following shape: (31701499, 12)
+dfm.shape
+dfm.head(3)
+
+#export new dataframe into csv
+dfm.to_csv("medicare.csv", encoding='utf-8', index=False, header=True)
