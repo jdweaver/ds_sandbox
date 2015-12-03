@@ -81,3 +81,66 @@ dfm.head(3)
 
 #export new dataframe into csv
 dfm.to_csv("medicare.csv", encoding='utf-8', index=False, header=True)
+
+
+#######################################################################################################
+#######################################################################################################
+#######################################################################################################
+`
+
+import glob
+import pandas as pd
+import seaborn as sns
+import matplotlib.pyplot as plt
+
+plt.rcParams['figure.figsize'] = (10, 8)
+plt.rcParams['font.size'] = 14
+plt.style.use('fivethirtyeight')
+
+#read in the new file and check that everything imported fine 
+medicare = pd.read_csv("C:/medicare.csv", sep=",", header=0)
+
+type(medicare)             # DataFrame
+medicare.head()            # print the first 5 rows
+medicare.tail()            # print the last 5 rows
+medicare.columns           # column names (which is "an index"), 'u' indicates unicode encoding
+medicare.dtypes            # data types of each column
+medicare.shape             # number of rows (including header row) and columns.
+                           # Total of 31701499 rows inclouding the header row
+
+medicare.describe()       # describe all numeric
+
+medicare.isnull().sum()   #count the nulls
+
+
+#create new column that maps integer values for sex into string values
+#leave integer values, for now 
+#BENE_SEX_IDENT_CD.medicare.replace(1, 'Male', inplace=True)
+#BENE_SEX_IDENT_CD.medicare.replace(2, 'Female', inplace=True)
+
+
+#export to file 
+#medicare.to_csv("medicare2.csv", encoding = 'utf-8')
+#
+#medicare.BENE_SEX_IDENT_CD.plot(kind='bar')
+#
+#medicare.BENE_SEX_IDENT_CD.plot(kind='bar', title = "Distribution of Sex in Sample")
+
+
+
+#icd = df2.drop('Primary Diagnosis', axis=1)
+#
+#icd.head(10)
+#
+#icd['icd_short'] = icd.icd9.str[0:3]
+#
+#icdf = icd.drop('icd9', axis=1)
+#
+#icdf2 = icdf[['icd_short', 'Description 1']]
+
+
+
+
+#create a dictionary from a dataframe--->icd_dict = dict(zip(icdf2.icd_short, icdf2.description))
+
+
