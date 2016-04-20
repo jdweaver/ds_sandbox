@@ -1,0 +1,9 @@
+Scrappy data scientist with proven talent for achieving success using innovative and established techniques; whether it is prototyping a machine learning model, doing psychometrics on the fly, or selling executives on the value and virtues of data. I am able to work with a variety of data, think scientifically about problems, effectively evangelize data science and machine learning products, keenly understand end-user needs, and visualize findings in an accessible manner. I do my best work when I am connecting with multiple parts of a business, demonstrating and evangelizing data science and machine learning, and creating integrative solutions that solve multiple and disparate business problems. Core skills are in statistics, research methods/design, machine learning, business strategy, and product management.
+
+My current personal technology stack consists of 
+Python 
+R 
+SPSS
+SQL 
+Tableau 
+Alteryx

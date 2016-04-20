@@ -1,0 +1,122 @@
+DCS ENGINEER CV
+
+
+
+
+  Candidate Name	
+
+Mr. Ajos Francis
+
+  Education Qualification	
+Bachelor Degree in Applied Electronics & Instrumentation Engineering
+From Jyothi Engineering College, Calicut University in 2012
+  Additional Qualification
+Complted training as Automation System Engineer from Ingenious Power and Control Systems Pvt Ltd 
+(Trained in PLC,SCADA, CONTROL PANEL & PLC WIRING)
+
+  Current Employer	
+
+Madox Technologies Pvt Ltd
+
+  Years of Experience	
+
+2 Years & 6 months
+
+  Experience in Brief	
+Currently working on Design, Development & Commissioning of DCS 
+for various Process Automation Job
+Career Objective
+
+To pursue a successful, challenging & exciting career in Applied Electronics & Instrumentation Engineering, while being able to dispense my maximum potential to the benefit of the organization and, at the same time acquiring knowledge on the road to success. 
+
+On Job Training
+
+
+1.   ABB 800xA DCS, AC 500 & Codesys, Digivis 500  at Madox Technologies Pvt. Ltd. for 2 Months
+
+Trained on:
+
+a. ABB 800xA Engineering Workplace.
+b. ABB AC 500 Controller & CodeSys software.
+c. Installation of the system.
+d. Control Builder M. 
+e. Alarms and Trends.
+f. Basics of BMI Library.
+g. Graphics Development.
+h. Basics of Logic Development and Testing in Simulation.
+
+
+
+
+
+
+Job Responsibilities in Project Handled
+
+Project: Commissioning UTCL Cement Plant - Jharsaguda (28th June 2013 to 11th April 2014)
+
+* Commissioning of UTCL JCW line 2 grinding unit including Roller Press and Ball Mill.
+* Logic development & commissioning of wagon tippler using AC500 controller.
+* Screen Development & Integration with AC500 in Digivis 500 .
+* Study of the Project documentation and requirement specification
+* Study and analysis of System Architecture and customer input data's
+* Logic Development for Cement Silo Feeding and Clinker Feeding Groups.
+* Logic Development for sub control systems like VFD, Roller Press, Weigh Feeders.
+* Logic Development for communication with Siemens PAC meters based on the GSD files.
+* Communicating MCC feeders with DCS system through Profibus. 
+* Graphics development.
+* Completed Site Acceptance Test (SAT) for grinding units.
+
+Project: Service Work at Heidelberg Cements-Jhansi (6th Jan 2014 to15th Feb 2014)
+
+* Logic development & commissioning of wagon tippler using AC500 controller.
+* Screen Development & Integration with AC500 in Digivis 500 
+* 800xA 5.1 Rev D FP4 Installation in servers and taking the system online and checking for consistency.
+* Logic Development for New Cement Silo.
+* FAT for Packing Plant with new cement silo inline.
+* Logic Development for Silo Extraction and Aeration at HCIL-Imlai.
+* Logic development for Energy meter through serial modbus communication.
+
+Project: Commissioning Work at CEPL Coal Handling Plant (30th April 2014 to 21st Feb 2015)
+
+* 800xA 5.1 Installation in servers for CHP Area.
+* Logic development & Commissioning for paddle feeders using AC500 Controller. 
+* Screen Development & Integration with AC500 in Digivis 500 
+* Logic development for stacker cum reclaimer to establish communication using Radio Modem with serial modbus communication protocol using an AC500 controller as gateway.
+* Logic development for subcontrol systems like Paddle feeder, travelling tripper, coal sampling unit.
+* Logic and graphics development for MCC's and energy meter communications.
+* Communicated Remote MCC through Fiber Optic (FO).
+* Completed the Site Acceptance Test (SAT) for the CHP Area.
+
+Project: NCCPL Macmet Software & Hardware FAT(24th Feb 2015 to 03rd Mar 2015)
+
+* Installation of ABB Compact HMI 800 5.1.
+* Configuring the controllers and downloaded the project.
+* Signal response, Hard swapping, controller redundancy and panel specification checked.
+* Graphic functionality and Alarm generation checked.  
+
+Project: ACC Sindri Software Development (09th Mar 2015 to 03rd Aug 2015)
+
+* Study of the Project documentation and requirement specification
+* Study and analysis of System Architecture and customer input data's
+* Static and Dynamic Graphic development for the controllers.
+* Logic Development for Material Handling, Coal Mill, Cement Mill, Fly Ash Handling & Silo Storage and Packing Plant Controller.
+* Graphic Development for SLD.
+* Equipment created for IEC relay's.
+* Communicated with IEC relay through OPC communiction for test purpose.
+* Configuring workplace as per requirements.
+* Logic Developed for Loesche Mill as per BID
+* Installation of 800xA 5.1 Rev D FP4 along with BMI 5.1/5a in  Aspect & Connectivity servers.
+ 
+Technical & Personal Skils
+
+* Good Knowledge in OPC, Serial Modbus, Profibus DP, FO communications.
+* Effective computer skills in Microsoft Office software.
+* Effective communication skills
+* Effective analytical and problem-solving skills.
+* Good interpersonal skills.
+Personal Information
+ 
+ Father's Name	 Francis MathewDate of Birth	 02/08/1990Gender	MaleE-mail	ajosjasmine@gmail.comMobile No.+91-9480866387Marital StatusSingleNationalityIndianReligionChristianPassport NoK6704181
+
+
+

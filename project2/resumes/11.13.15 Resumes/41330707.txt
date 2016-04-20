@@ -1,0 +1,92 @@
+                            C.V.PERSONAL INFORMATION
+NameAddressPhone NumberE-mailCitizenshipDate of Birth                               
+                    PROFESSIONAL
+EXPERIENCE
+22.04.2013 - Current
+- Company name: 
+- Type of activity (client) - Software solutions in the TelCo sector
+- Position within company: Software Engineer
+- Responsibilities:
+- Design, architecture and implementation of web applications dedicated for visualization of operational network details in real-time 
+- Part of a team and project whose focus is the development of optical (DWDM) network planning tools
+- Java, EJB, PrimeFaces, jQuery, JIT (JavaScript InfoVis Toolkit), Oracle
+- Implementation of proprietary network optimization algorithms - VB, Java
+- Automation of company business processes (manual and tedious, time-consuming tasks such as generation of documents, generation of software reports, etc) - Java, Selenium, Oracle
+- Automation of build qualification tests (on-demand from other development teams, as well as release qualification tests engineered by ourselves) - Robot Framework
+
+05.10.2012 - April 2013
+- Freelancer
+- Type of activity - Custom software development
+- Responsibilities:
+- Developing a custom software platform using J2EE and JAX/RS Web services to help manage a real estate agency
+- Having technical discussions with the client to develop and agree upon capabilites to implement
+- Presenting weekly status updates about the project, work completed, and scheduled updates
+
+16.01.2012 - 04.10.2012
+- Company name: 
+- Type of activity - E-commerce, software development
+- Position within company: Software Developer
+Responsibilities:
+- Partaking in technical discussions with the teams on the company's current projects and future development directions
+- Developing a mobile version of the company's Magento e-commerce platform (Android SDK)
+- Adding new functionalities to the company's Magento e-commerce platform (secure payment modules, AJAX support, custom REST service)
+- Developing and maintaining a common communication protocol between the company's separate service platforms (automated data synchronizations between Oracle, MySQL and SQL Server databases)
+- Automating business workflows, transposing them in a faster and more efficient way (supplier price feeds processing, client and order management, product information updates)
+
+06.12.2010 - 13.01.2012
+- Company name: 
+- Type of activity - software development
+- Position within company: Software Developer
+Responsibilities:
+- Developing a Java EE platform for assistance in patent search and monitoring
+- Developing a Java EE platform for accountancy automation
+- Developing a C# desktop application for broker trading automation
+- Helping to elaborate the documentation and project scope for the projects under development
+- Finding new ways and strategies to improve the overall development process
+EDUCATION
+BAC+4, Information Technology (Technical University Diploma, a 4-year degree), 2007 - 2011
+Automation, Computers, Electrical and Electronic Engineering College, Galati, Romania
+
+BAC, Mathematics-Informatics bilingual English (Scientific Baccalaureate, a 4-year degree), 2003 - 2007
+"Mihail Kogalniceanu" National High-School of Galati, Romania
+PERSONAL SKILLS 
+Maternal Language
+RomanianForeign Languages
+ (Ability to read / write / speak)
+
+English: advanced / advanced / advanced
+Portuguese: advanced / good / advanced
+French: average / average / averageArtistic and Design Skills
+
+- Professional Software Engineer License
+- Professional PC Operator Degree
+- Professional English Language Degree
+- Courses:
+    - Project Management
+    - Communication
+Technical Skills
+
+
+- Programming languages: Java (SE / EE / Android SDK 10 - 13), C#, (.Net Framework 4.0), PHP (Zend Framework, Magento), SQL / PL-SQL (mySQL, PostgreSql, Oracle), VB6/VBA, JESS/CLIPS, Unix
+- Web: JavaScript, AngularJS, Bootstrap, Jquery, HTML 4/5, CSS 2/3, AJAX
+- Frameworks and adjacent technologies / data formats: Struts 2, Hibernate 3, XML/XSLT, JSON, WebSockets
+- SOA: WebServices, REST, SOAP, Public/Private Web APIs
+- Testing and testing frameworks: JUnit, Microsoft UI Automation, Robot Framework
+- Build tools and project lifecycle management: Ant, Maven, Jenkins
+- Operating systems: Windows, Ubuntu, Fedora, CentOS
+- Team Development : SVN, Git, Perforce
+- MS Office: Word, PowerPoint, Excel, Access, Publisher
+- OpenOffice Suite: Writer, Spreadsheet
+- ERP: Oracle E-Business Suite 11g 
+- CRM platforms: SugarCRM
+- BPA/BPM: Bonita OpenSolution
+- Design and modeling: UML
+- Computer aided design / graphics: Autocad, Coreldraw, Proshow Gold
+- Tools and IDEs: Eclipse (Galileo, Indigo), NetBeans, Visual Studio 10
+Other Skills
+
+
+Hobbies4 years volunteer within Romanian Red Cross non-governmental organisation
+8 months volunteer within AIESEC non-governmental organisation
+
+IT and sports (football, table tennis and kickboxing / k-1)

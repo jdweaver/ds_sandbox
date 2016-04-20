@@ -1,0 +1,92 @@
+THANG VAN TRAN
+SUMMARY:
+Working well with C and C++. 
+Fair in English
+Have knowledge of OOP.
+Experienced outsourcing.
+Have experience in software development and embedded system.
+Good at SVN, Mercurial control.
+
+CAREER HISTORY AND EXPERIENCE:
+
+Sep 2015 - Nov 2015:Software DeveloperWatch-over Station Project
+Watch-over Station remote to watch-over safe of old person.
+Watch-over Station can detect sound, detect living, and detect temperature and humidity in room, shooting when there's movement, VoIP call.
+Responsibilities
+* Investigate requirements; implement Functional Design, Detail Design for some features.
+* Do Unit test.
+* Research up sampling sound data technology.
+* Implement managing play sound data.
+Technologies used in project
+* C, C++
+* IAR Embedded Workbench
+* Programming with uT-Kernel OS
+* Unit Test, analyzes and fix bug.
+* Up sampling sound data.
+* Knowledge about IoT system.
+* Deeply knowledge  in memory management
+       Achievements:
+* Play sound use I2S driver.
+* Embedded development experience 
+* Use IAR Embedded Workbench.
+* use JTAG-ICE for debug.
+Jul 2015 - Aug 2015Software DeveloperEPON Project
+This is project about EPON technologies.
+Responsibilities
+* Investigate requirements.
+* Research MiBs.
+* Implement Basic Investigate for table user vlan information.
+* Implement table user vlan information.
+* Build project on vxWorks
+* Do Unit test.
+Technologies used in project
+* C, C++
+* Unit Test, analyzes and fix bug.
+* Up sampling sound data.
+* Knowledge about SNMP.
+* Achievements:
+* Knowledge about EPON.
+* Work on VxWorks Os
+Jun 2013StudentPhysic Engine
+Handle physic collision.
+Responsibilities
+* Investigate requirements.
+* Research framework is provided for render object, support handle touch & move object.
+* Detect collision between 2 object, detect collision between object & edge, and make object bound.
+* Using mouse force an object, apply the gravity.
+Technologies used in project
+* C++
+* Knowledge about gravity.
+* Knowledge about OOP.
+Achievements:
+* Deep knowledge about OOP/C++
+* How to handle collision.
+
+TECHNICAL AND PROCESS SKILLS:
+
+Skill namesLevel of skillMonths of experienceOperating Systems  Linux36  Windows 7324  Android23Languages  C312  C++312  Java23Database  Microsoft SQL16Software Tools  Visual studio
+  Eclipse
+  Astah3 
+3
+212
+12
+4 	
+OTHER SKILLS:
+
+LANGUAGES:
+* English: Pre-Intermediate.
+* Fluent Vietnamese.
+
+EDUCATION:
+2009 - 2014:Ho Chi Minh City University of Science
+
+
+       Resume
+
+
+Page 3 of 3
+
+Tran Van Thang RESUMEhttp://www.globalcybersoft.comReference: gcs-vn@globalcybersoft.com
+
+QUALITY MANAGEMENT SYSTEMTL-QMS-014 - Rev: 1.2Page: 1 of 1
+

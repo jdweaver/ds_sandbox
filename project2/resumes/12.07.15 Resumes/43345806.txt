@@ -1,0 +1,20 @@
+Personal Statement
+Biomedical Engineer with successful experience in engineering simulation, statistical testing, design, and clinical procedure. Proven proficiency in leadership and teamwork. In-depth knowledge in SOLIDWORKS and MATLAB, with strength in technical problem solving, analysis, planning, and communication. 
+Engineering Project Experience
+Immunostaining and Cell Type Determination 
+Utilized MATLAB, Minitab, and ImageJ to derive statistical data from images of immunostained tissue samples.
+Sinogram Reconstruction
+Utilized MATLAB to process, filter, and perform back projections to reconstruct a sinogram from an array of 32 projection angle data
+Statistical Process Control
+Utilized MATLAB and Minitab to determine statistical control through data acquisition, processing, and analysis using control charts.
+Professional Experience
+Biomedical Technician [July 2015-Present]
+
+Leadership Experience
+Director in Student Organization [April 2013-April 2014]
+
+Technical Skills
+• SOLIDWORKS
+• MATLAB
+• Python
+• Minitab

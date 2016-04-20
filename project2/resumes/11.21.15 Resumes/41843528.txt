@@ -1,0 +1,109 @@
+
+Experience
+Nexius, Reston, VA 1-2015 -present
+Solutions Architect
+Technical virtualization specialist, specializing in RedHat/CentOS Linux, Openstack(Mirantis & RedHat), Ansbile, Vagrant
+
+Qualcomm San Diego, CA	7-2012 - 1-2015
+Senior Staff Engineer, Qualcomm Internet Services
+- On site Push to Talk technical support (on LTE/EVDO/1x) for Sprint/Nextel, based in Sterling, VA 
+- Oversee onsite system integration & test execution, adhoc troubleshooting and assisting Sprint/Nextel with their testing or questions. This includes requests made for QSI issues as well as CSA issues being worked on in the lab. 
+- Manage multiple activities on going in the lab environment and ensure that all teams internal and external are aware of all parallel activities, impacts, outages and so on.
+- Assist client team in testing of new releases/issue fixes in lab & production environments
+- Support/test client & server tool releases in lab & assist introduction into production environment
+- Escalate to Sprint on items that are blocking the parallel testing activities. This includes reporting as well to highlight risks and challenges
+- Help onsite engineers travelling from San Diego with quick onboarding process and mentor them on QSI execution and reporting 
+
+Nexius Wireless /comScore	Reston, VA	7-2002 - 7-2012
+comScore (acquired Nexius product team)
+Senior Engineer
+- Lead engineer for Verizon capacity planning and forecasting tool
+
+Nexius
+Director, Core Networks
+- Interview, hire, train, & mentor wireless engineering staff
+Technical consultant for Sprint/Nextel (6 years, ongoing)
+- Architectural consultant for Sprint/Nextel developing, prototyping, testing, & deploying the next generation push-to-talk service- QChat
+
+Technical consultant for AllTel (4 months)
+- Assist the AllTel RF Engineering team in defining key performance & capacity indicators for each of their CDMA 1xEVDO vendors
+
+Technical consultant for AT&T Wireless (8 months)
+-Clearly documented a strategy to quantify key quality indicators/key performance indicators for UMTS networks prior to service launch
+ 
+Sprint PCS 	Lenexa, KS	5-2000 - 7-2002
+Senior Network Systems Engineer, Wireless Intelligent Network Planning
+- Technical planning lead for an on premise, private, corporate, wireless network that seamlessly interoperates with the Sprint PCS network. Provide detailed end-to-end technical requirements and evaluation of vendor solutions and capabilities.
+- Work with Marketing/Product Development to establish product/project scope and high-level requirements, as well as provide business case input and guidance.
+- Assist the development of a request for proposal for the wireless PBX campus equipment project.
+- Led the search for an alternative vendor for the project that would reduce total project budget from approximately $12 million to approximately $2 million.  Documented the alternative vendors’ capabilities and deficiencies.
+- Maintain a perspective on new products, technologies, and vendors (Push-to-Talk, Softswitch, Media Gateway, PBX integration, PRL download via IOTA, 802.11, etc…) as they related to the project.
+- Define and document detailed technical testing requirements.
+
+Sprint PCS 	Overland Park, KS	5-1998 - 5-2000
+Senior Network Systems Engineer, Network Management Systems Development
+- Responsibilities include; planning and development activities involved with the Sprint PCS Performance Management System.
+- Obtained detailed working knowledge of multiple vendors’ performance measurement data and provided assistance with vendor feature request documents.
+- Provide systems requirements for enhancements & upgrades, including capacity/traffic analysis report definition working with field and engineering teams.
+- Provide testing support in the test-bed & production environments, as needed.
+- Troubleshoot, fix, & maintain performance management system as a third level of support.
+- Develop performance-based alarms that are monitored by the NOCC on a near real time basis (Lucent “island” cell & Nortel BTS “silent death”).
+
+Nortel - Wireless Networks 	Richardson, TX	96-98
+Senior Network Engineer
+- Responsibilities included; assisting customers (large & small carriers) with building and maintaining CDMA, TDMA, & AMPS networks as well as assisting with new feature rollout.  This included putting together high-level network system designs that required RF propagation and link budget analysis tools.
+- Sole engineer responsible for deploying new product (DMS100-Wireless, combined wireline/wireless switch), due to experience with both product lines.
+- Provided technical sales support and proposal collateral.
+
+Nortel - Public Switching Networks 	Richardson, TX	94-96
+Engineering Team Leader/Systems Application Engineer
+- Responsibilities included; Overall engineering responsibility for GTE Local Exchange network in the southwest region.
+- Member of an engineering process improvement team that reduced intervals from 10 weeks to 2 weeks. Sole engineer responsible for reduced interval process for entire GTE Local Exchange network.
+
+Nortel 		Richardson, TX	92-94
+Senior Field Technician
+- Responsible for installation and testing of multiple Nortel product lines (wireline switching and digital loop carrier equipment as well as fiber optic transport equipment.
+- Large scale, multi-site project management (material & resource management).
+- Member of the national consultative testing team.
+
+Education
+1988-1992 Purdue University West Lafayette, IN
+BS, Electrical Engineering Technology, GPA 3.12
+1996-1998 University of Texas Dallas, TX
+MBA, Concentrations in Operations Research & Finance, GPA 3.74
+
+Relevant Technical Coursework
+Qualcomm Wireless Academy
+QXDM Pro Training 
+LTE Technical Overview/Fundamentals for Engineers
+LTE 8/9 Call Processing & Air Interface
+Interworking between 1x/EVDO(eHRPD)-LTE
+VoLTE Technical Overview
+CISSP - Certified Information Systems Security Professional
+Essentials of Red Hat Linux
+CompTIA Linux+ 1.0 
+Small Cell Essentials
+
+Introduction to Session Initiation Protocol (SIP)
+
+Scott Baxter & Associates
+RF100 - Wireless CDMA RF Engineering
+RF200 - CDMA Performance Optimization Principles and Tools
+
+Cisco
+Cisco Internetworking Overview
+Cisco Router Configuration Basics 
+Cisco TCP/IP Addressing
+Cisco TCP/IP Routing Protocols
+Cisco Frame Relay Configuration
+Cisco Voice Over IP
+
+Nortel
+CDMA Traffic Capacity & Planning
+CDMA RF Cell Site Planning
+CDMA RF Engineering Principles
+CDMA Technology & IS-95 Standards
+
+MapInfo
+Introduction to MapInfo
+

@@ -1,0 +1,74 @@
+Profile
+A positive and self-motivated systems engineer with over 12 years of technical experience, currently seeking an opportunity that offers new challenges and experience. Particularly interested in virtualisation technology (VMware/Xen) and mixed Windows/Linux environments, and able to adapt to new systems and procedures with ease.
+Technical Skills
+* VMware VCP 3 and VCP 4 certified.
+* Management of iSCSI SAN and NFS NAS appliances.
+* Management of vRanger and Veeam VM backup solutions.
+* Administration of Windows Server 2003/2008 file serving, print, Active Directory, DHCP and DNS services.
+* Administration of Tivoli TSM 5.2 agent-based backup solution.
+* Management of Exchange 2007 mailboxes and groups.
+* Deploy and management Windows XP/Vista/Win7 within the enterprise.
+* Deploy, configure and secure RHEL/CentOS 4+5 and Debian-based systems.
+* Able to deploy and configure LAMP and LEMP web stacks.
+* Eset NOD32 anti-virus and Secunia CSI enterprise anti-malware solutions.
+* Knowledge of PIX, pfSense and iptables-based firewalls and VPNs.
+* Powershell/VIX, bash, Perl and PHP 5 object-orientated scripting.
+* Management of public-facing SMTP and FTP services using CommuniGate Pro 5.x and PureFTPd.
+* Knowledge of OS X 10.3-10.5 clients with Windows interoperability using Extreme-Z IP.
+
+Hardware familiarity:
+* Dell/EqualLogic iSCSI SAN: installation, config and firmware updates.
+* HP DL-series servers: installation, config and hardware, firmware updates.
+* Cisco routers and 2960/3750 PoE switches: basic configuration.
+* Overland LTO tape library management.
+* F5 BigIP link controllers.
+* Eccessa WAN link controllers.
+Employment History and Achievements
+xxx
+Senior Systems Administrator - xxx
+Responsibilities
+* Management of a technical team of 5, including shift rota covering 18x7x365.
+* Responsible for troubleshooting and maintaining all business infrastructure servers, including communication links and PBX, during office hours and on-call.
+* Responsible for disaster recovery planning, execution and restoration/verification of VM and data backups both on and offsite.
+* Identify areas for development and improvement and provide written recommendations to management.
+* Monitor and maintain company perimeter firewalls, antivirus and security policies.
+* Responsible for writing technical and user documentation for all policies, workflows and apps.
+
+
+Notable Achievements
+* Consolidated and migrated the company's physical servers onto VMware ESX 3 Enterprise platform running on an iSCSI SAN and subsequently upgraded the infrastructure to vSphere 4.0.
+* Achieved 100% product delivery and service uptime 365 days a year for the entire duration of my employment.
+* Implemented a DNS-based resilient link solution for the key internet connections allowing the company to move away from expensive traditional leased lines and enable 100% network uptime.
+* Developed and deployed a fully-automated production workflow using a mixture of VB.net, PHP and MySQL; subsequently enabled savings of over £50000 per year.
+* Developed an automated solution to retrieve and import the financial EDI returns data for the company's circulation system; avoided excessive labour and errors from manual keying.
+* Migrated advertising servers and applications from Leicester to Manchester and subsequently consolidated within the VM environment without impacting on the business.
+* Successfully converted the company's legacy Linux-based digital asset management system into vSphere using custom-compiled kernel and VMware tools.
+
+xxx
+Systems Administrator  - xxx
+Responsibilities
+* Provided 1st, 2nd and 3rd line support for a busy daily newspaper of approximately 100 staff across 2 sites.
+* Assisted in the upgrade of RS/6000 editorial platform to newer Power4 hardware and software, including HACMP clustering.
+* Supported mixed network of Apple PPC+Intel (OS X 10.3-10.5) workstations and Windows clients (XP/Vista).
+* Supported the server environment, at this time consisted of AIX 4.3.3 RS/6000's, RedHat 7.3, CentOS 4, Windows 2000 Advanced Server cluster.
+xxx
+IT Technician (work experience) xxx
+Responsibilities
+* Primarily second line support covering local and remote users.
+* Responsible for supporting highly-customised images of Windows 95 and NT4 deployments across all UK sites.
+
+Notable Achievements
+* Actively involved in a high-level migration project to discretely protect Zeneca Specialities' financial data during the AstraZeneca merger of 1999.
+* Regularly participated in out-of-hours mass-rollouts of new hardware at the company's chemical plants in Grangemouth and Huddersfield.
+Industry Certification
+* VMWare VCP 3 and VCP 4 certified.
+* Currently pursuing LPIC and Citrix CCA certification.
+
+
+Academic Education
+* xxx
+Activities and Leisure
+xxx
+References
+References are available upon request.
+

@@ -1,0 +1,5 @@
+name   : Vu Manh Linh
+age    : 34	
+mail   : toi_chi_la_nguoi_thuong@yahoo.com	
+sky    : lutuhu1
+country: VietNam

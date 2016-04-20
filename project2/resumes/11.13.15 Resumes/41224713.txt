@@ -1,0 +1,48 @@
+CURRICULUM VITAE
+
+
+                                                                                          
+
+
+:::: Education 
+
+2003 - 2006		Bunda Hati Kudus Senior High School
+
+2006 - 2010		Bachelor in Computer Science BINUS University
+
+
+:::: Working Experience 
+	Commonwealth Bank, Jakarta (DKI Jakarta) 
+       Since August 11th  2010 - August 11th 2013
+
+       Position title	:  IT Security Assurance and Reporting
+       Job's nature	:  Full time 
+       Level		:  Staff 
+Responsibility:
+> To handle identity and access management for Bank's network, system and application.
+> To maintain required level of security awareness of all people involve in Bank's process.
+> Managing and administering user's side security control including Antivirus and Email Security.
+> To ensure confidentiality, integrity and availability of Bank's Information by enforcement of security policy and security standards.
+> Monitors and ensures security software (anti-virus, anti-spam, content filtering, email server.) is functioning properly.
+> Resolve security incidents reported by security devices or user for antivirus, email, and vpn
+
+:::: Skills
+
+* Good in English
+* Maintain Antivirus ( Symantec Endpoint Protection )
+* Maintain Email Server ( Mailmarshall )
+* VPN System ( BlueCoat, Sonicwall Aventail )
+* Good knowledge of MS Office package
+* Having knowledge of networking ( LAN, WLAN )
+
+:::: Sertification
+* BSMR (Badan Sertifikasi Manajemen Risiko) lvl 1
+
+:::: Hobbies
+
+o Eager to Learn
+o Reading
+
+
+
+

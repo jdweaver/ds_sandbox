@@ -1,0 +1,124 @@
+
+OBJECTIVE
+
+Following your request to provide my complete resume in regards to my eligibility to apply for the MOT MBA program, please find below a complete list of my technical skills, work experience, and education.
+
+TECHNICAL SKILLS
+
+Operating Systems
+Microsoft Server 2008 R2, Microsoft Server 2003 R2, Microsoft Server 2000, Windows 7, Windows Vista, Windows XP, Windows 2000, Windows 95/98, MAC OS X, Novell Netware, Linux Red Hat Enterprise 6, Ubuntu
+
+Communications and Networking
+Cisco IP Phones, Cisco Series Routers, Cisco Series Switches, Interactive Intelligence Interaction Centre, Polycom phones, various protocols including: TCP/IP, DNS, DHCP, RIP, RIPv2, IGRP, EIGRP, OSPF, Frame Relay, BGP, IS-IS, CDP, HSRP, MPLS, NAT/PAT, Quality of Service
+
+Applications
+Microsoft Exchange Server 2003, Microsoft Office 2003 to 2010, Microsoft Deployment Toolkit, WSUS, Ghost, Clonezilla server, SupportWorks, Request Tracker, Open-Audit, BMC, PGP server and desktop, Interaction Client
+
+Security
+Microsoft ISA Server, Cisco PIX Firewall, Symantec Endpoint Protection 11 server and client
+
+WORK EXPERIENCE
+
+Installation and Service Specialist 
+Equicare Health Inc. - Full Time			 	May 2012 - Present (March 2015)
+* Manage Active Patient Portal and Equicare CS customer projects
+* Schedule kick-off and status update meetings with customers to plan, record and track the installation and configuration of the product that the customer has purchased
+* Provide guidance to customers on setting up a secure and stable environment to house the product.
+* Gather required information for configuring and customizing the product based on the customer needs. 
+* Remotely install and configure the product
+* Train customers on how to use and administer the product
+* Record, track and respond to customer requests and support issues related to the product in a timely manner
+* Remotely troubleshoot and resolve issues relating to the Equicare Health product deployed at customer sites
+* Performing system upgrades/patches as required
+* Provide and track customer feedback, bug reports and feature enhancement to product management and development team
+
+
+
+Systems Administrator
+InComm Canada Pre Paid Inc. - Full Time				May 2010 - May 2012
+* Planning, testing, implementing, documenting and upgrading the Windows 2003 active directory production environment to 2008
+* Migrating and updating Symantec SEP management server and clients from version 9 on server 2003 and windows XP to version 11 on server 2008 and windows 7
+* Planning, testing, implementing and managing Windows Server Update Services
+* Introduced a small Hyper-V configuration in the corporate environment in order to migrate and upgrade utility servers such as WSUS, SEP, Printer server and SharePoint to a Virtualized environment.
+* Supporting and troubleshooting current production and corporate server infrastructure based on Windows server 2008 and 2003
+* Supporting current Corporate Desktop infrastructure based on Windows 7 and XP
+* Configuring and Troubleshooting VOIP systems issues  
+* Perform asset tracking of equipment ordering
+* Contribute to the production of operating procedure documentation
+
+Unemployed				                       		         		      	     April 2010
+* After the Winter Olympics had ended in Vancouver I was unemployed and job hunting
+
+Equipment Deployment Center Technical Assistant
+Atos Origin - Full Time						        December 2008 - March 2010
+* Receive and process IT equipment orders using Equipment Management system
+* Liaise with hardware providers (desktops, reprographics, networking) to manage configuration of equipment
+* Liaise with Logistic staff to ensure timely movement of equipment 
+* Follow defined procedures to configure the equipment
+* Troubleshoot device configuration errors and direct help desk tickets to the appropriate specialists  
+* Perform asset tracking of equipment
+* Contribute to the production of operating procedure documentation
+
+
+Mobile Device Technician - Contract				
+E-Comm 911 Inc.						    October 2008 - November 2008
+* Imaged Data911 mobile workstation units
+* Programmed 3G modems for GPS
+* Programmed SIM cards
+* Performed overall system inspections and troubleshooting as needed
+        		
+Rollout Technician - Contract				
+TRS Contract Consulting Group, Vancouver, BC 		    September 2008 - October 2008
+* Worked as part of a team to disassemble and tag end user workstations in preparation for relocation to the new office
+* Reassembled workstations at the new office and checked for proper display, mouse and keyboard operation
+
+Unemployed				                       		         July 2008 - September 2008
+* After finishing school in July of 2008 I applied for a three year post graduation work permit in order to gather work experience in my field. During this time period I was waiting for the visa to be issued and searching for jobs in my field.
+
+
+Stage Hand / PA - Part Time				
+Nasco Staffing Solutions, Vancouver, BC 		    	         July 2006 - September 2007
+* Worked as production assistant on various TV shows and movies filmed in Vancouver
+* Worked as stage hand helping setup and teardown music stages for various artists that where touring to Vancouver
+
+Shift Supervisor - Part Time				
+Blenz Coffee, New Westminster, BC 		            February 2005 - September 2005
+* Balanced taking orders and handling cash; preparing coffees and food; and clearing tables in Blenz's fast-paced environment, all the while being courteous and attentive to patrons
+* Occasionally took on managerial responsibilities
+
+Heavy Equipment Operator - Full Time				
+Baily West, Surry, BC 		    				  April 2004 - January 2005 
+* Practiced trade-oriented skills including setting up, operating, and fine-tuning steel fabrication machinery
+* Constantly monitored final product to ensure that high quality standards were met
+
+Technical Support and Electronics Technician - Three Month School Work Project	
+Nokia, Tehran, Iran 								 June 03 - August 03
+* Resolved local network and application-related issues
+* Provided hardware support and resolved hardware issues at end user workstation 
+
+EDUCATION
+
+Network Systems Technician Diploma		                   September 2007 - July 2008
+BCIT, Burnaby, BC
+Completed courses in Data Communications, Microsoft Exchange, Microsoft ISA, Cisco CCNP, Cisco PIX firewalls, Novell NetWare and Novell GroupWise
+
+Computer Information Systems Technician                              September 2005 - July 2006	
+BCIT, Burnaby, BC
+Focused mainly on Microsoft Server 2003, Cisco CCNA, Server Hardware, A+, Cabling and Basic Programming
+
+English and Computer Courses                                                   January 2004 - April 2004	
+BCIT, Burnaby, BC
+Part time student taking TOEFL equivalency, Basic Computer Networking and Electronic classes
+
+English Student                                                                 August 2003 - December 2003	
+Winfield Collage, Vancouver, BC
+Full time student taking English as a second language classes. 
+
+High School Diploma						        September 2001 - June 2003
+Karamadan High School, Tehran, Iran
+       Majored in Electronics
+
+
+REFERENCES
+       
+       Available upon request 

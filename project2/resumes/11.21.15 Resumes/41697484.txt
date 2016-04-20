@@ -1,0 +1,67 @@
+ 	
+
+PERSONAL DETAILS
+
+? Name			xxxxxxxxxx
+? Nationality 		Vietnamese
+? Date of Birth 		xx/xx/xxxxx
+? Sex		 	Male
+? Marital status		Single
+? Phone No.		xxxxxxxxxxxxx
+? Email			xxxxxxx	
+
+EDUCATIONAL BACKGROUND
+
+? Electronic and Telecommunication Engineering -Da Nang University of Technology.
+
+CERTIFICATE AND AWARD
+
+? Japanese Language Proficiency: N4
+? Texas Instrument Contest 2013
+
+PROFESSIONAL SUMMARY
+
+? Can work independently, work in teams and work under pressure.
+? Read professional documents in English.
+? Analysis, Design Software Project.
+? Hard working, eager to learn.
+
+SOFTWARE
+
+? Programming Languages: Java, C# , C/C++
+? Databases: Oracle.
+? Programming Tools: Eclipse, Microsoft Visual Studio,, SQL Developer
+
+PROFESSIONAL EXPERIENCE
+
+12/2013
+Project: Smart electronic lock
+Danang University of Technology: Texas Instrument Contest 2013
+Project Description: 
+- This project creates electronic locking devices via central management software.
+Responsibilities:
+? Software, hardware design
+? Testing and Coding
+Technologies Used:
+   ? IAR Embedded Workbench IDE
+   ? Language: C#, C, Assembly
+
+07/2014
+Project: Wireless sensor networks to monitor and manage devices
+Danang University of Technology: Final project (Capstone project)
+Project Description: 
+- This project creates a network to collect sensor data and control devices at the nodes via a system management server. This project is used to manage many rooms in the building.
+Responsibilities:
+? Project management
+? Software and hardware design
+? Testing and Coding
+Technologies Used:
+   ? Visual studio
+   ? IAR Embedded Workbench IDE
+   ? Language: C#, C, XML
+
+CAREER GOALS
+- Learning more knowledge, more technology to become a senior Developer. Increased revenue for company through helping customers have impressive product.
+
+
+

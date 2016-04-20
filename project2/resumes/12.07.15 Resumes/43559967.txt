@@ -1,0 +1,138 @@
+       
+       
+       
+PROFESSIONAL SUMMARY? Having 6.5 years of experience in development and designing of various NetWeaver implementation projects end to end.
+? Involved in implementation design and project planning, managed team member mentored and delivered projects within the time with team.
+? SAP NetWeaver user experience expert with proven ability to work closely with project principals in defining the project requirements, and devising effective development plans for development of UI with SAP WebDynpro for Java Visual Composer and SAP UI5 for large scale enterprise applications.
+? Has hands-on experience in NetWeaver Basis activities like setting up and installation of SAP NetWeaver Development Infrastructure (NWDI), SAP MDM, SAP NW server. Has used NWDI quite extensively for distributed application development, automated deployment, source code versioning and build (DTR, CBS). Posses' in-depth knowledge in handling and resolving source code conflicts in NWDI.
+? Forte in development of enterprise scale products and applications in JAVA Landscape. Portfolio includes experience in designing and development of innovative and disruptive business applications using different tools and technologies. 
+? JAVA Expert with proven ability to work closely with project principals in defining the project requirements, and devising effective development plans for delivering the project on time. 
+? Member of the Solution Owner team responsible for the code standard and technology stack specification of the company.
+
+SKILL SET
+
+As a Lead Architect, I've been undertaking consulting assignments leveraging on my under mentioned NetWeaver skills.
+* Business Process Management (SAP NW BPM)?
+* Master Data Management (SAP NW MDM) ?
+* Knowledge Management (SAP NW KM)?
+* Business Rules Management (BRMS)?
+* Identity Management (SAP IDM)
+* Enterprise Portal (SAP EP).
+* Immerging technologies.
+* Enterprise SOA.?
+* ARIS Business Designer??.
+
+User Experience (U.X) Tools:
+* HTML 5
+* Bootstrap.
+* SAP UI 5
+* SAP Web Dynpro Java (SAP WD4J)?
+* SAP Visual Composer (SAP VC)
+* Adobe Flex
+* Silver Light 
+
+??I have been working in the BPM-MDM project in the SAP functional areas involving Material, Vendor and Customer Masters.
+
+??My key deliverables so far include the following.
+* Pre-Sales: Understanding Requirement mapping best suitable technology component with business, Development of Value Scenarios and POCs, preparing the effort estimation cost loading for required team. Preparation of Scope of Work (SOW), Functional Specification (FS), Technical Specification (TS) and Technical Design (TD) for successful hand every to technical delivery team.
+* Enterprise Architecture: Participation in the development of solution strategies involving SAP and third party component. Finalizing technology component and preparation of landscape architecture. 
+* System Landscape Governance: Setting up, monitoring and troubleshooting the System Landscape required for the smooth development of Software Modules. 
+* ?Project Implementation: Guidance and mentoring of other consultants. Delivery of key Software Components.
+* ?Go-Live and Ramp-Up: Provide expert guidance to end-users during Ramp-up phase and troubleshooting any software deficiencies. Apart from project related deliverables.	
+* I've also been an active contributor in SAP forums and groups. I have accumulated over 1000 contribution points in SDN.
+PROJECT DETAILS
+
+Arvind Lifestyle Brands Ltd.CUSTOMERArvind Lifestyle Brands Ltd. PERIODMay 2015 t0 till dateORGANISATIONIncture Technologies Pvt. Ltd.ROLESTechnical ArchitectLOCATIONBangalore - IndiaENVIRONMENTSAP NetWeaver - BPM, BRMS, SOA, ECC
+SAP Language Services (SLS)CUSTOMERSAP Germany PERIODAug 2014 t0 May 2015ORGANISATIONIncture Technologies Pvt. Ltd.ROLESTechnical ArchitectLOCATIONBangalore - IndiaENVIRONMENTSAP NetWeaver - BPM, BRMS, SOA, ECC
+NOL Quote to CashCUSTOMERNOL Singapore PERIODOct 2013 t0 Aug 2014ORGANISATIONIBM SingaporeROLESBPM Consultant & Sr. CAF DeveloperLOCATIONSingaporeENVIRONMENTSAP NetWeaver - BPM, BRMS, SOA, ECC
+IT ONE BPM SolutionsCUSTOMERSCG Chemicals ThailandPERIODJan 2013 to Oct 2013ORGANISATIONIncture TechnologiesROLESProcess Lead, BPM Consultant & Sr. CAF DeveloperLOCATIONBangalore IndiaENVIRONMENTSAP UI5, SAP BPM, SAP BRMS
+
+Milk link Material Master ManagementCUSTOMERMilk Link (U.K)PERIODMay 2012 to July 2012ORGANISATIONIncture TechnologiesROLESBPM Consultant & Sr. CAF DeveloperLOCATIONLemington Spa U.KENVIRONMENTWebdyn- Pro Java, Netweaver CE, SAP MDM, SAP BPM,SAP CAF
+BAE Systems Product workflowCUSTOMERBAE Systems (U.K) PERIODJuly 2012 - Sept 2012ORGANISATIONIncture TechnologiesROLESSr. CAF Developer, Team LeadLOCATIONLemington Spa U.KENVIRONMENTWebdyn- Pro Java, Netweaver CE, SAP MDM, SAP BPM
+Electrolux Vendor ManagementCUSTOMERElectrolux (Sweden) PERIODSept 2012 - Nov 2012ORGANISATIONIncture TechnologiesROLESSr. BPM Consultant, Integration ExpertLOCATIONLemington Spa U.KENVIRONMENTWebdyn- Pro Java, Netweaver CE, SAP MDM, SAP BPM
+Kraft Material master workflowCUSTOMERKraft Foods (U.K) PERIODNov 2012 - Jan 2013ORGANISATIONIncture TechnologiesROLESSr. BPM & BRMS Consultant, Service Layer ExpertLOCATIONLemington Spa U.KENVIRONMENTWebdyn- Pro Java, Netweaver CE, SAP MDM, SAP BPM
+Dr. Reddy's BOM & Recipe
+CUSTOMERDr. Reddy's LAB (India)PERIODJan 2013 - Oct 2013ORGANISATIONIncture TechnologiesROLESSr. BPM Consultant, Integration ExpertLOCATIONBangalore, IndiaENVIRONMENTWebdyn- Pro Java, Netweaver CE, SAP MDM, SAP BPM
+MDM - BPM Material Master Workflow
+CUSTOMERUNILEVER LIMITED (UL)PERIODNovember 2009 - March 2011ORGANISATIONIncture TechnologiesROLESJAVA Expert, Programmer, U.I DesignerLOCATIONBangalore, IndiaENVIRONMENTWebdyn- Pro Java, Netweaver CE, SAP MDM, SAP BPM
+
+Customer Composite Application Frame Work (C.CAF)
+CUSTOMERHINDUSTAN UNILEVER LIMITED (HUL)PERIODJuly  2009 - November 2009ORGANISATIONIncture TechnologiesROLESJAVA Expert, Programmer, U.I DesignerLOCATIONBangalore, IndiaENVIRONMENTSAP CE Java Server 7.1 ( SAP WebDynpro UI) ,  SAP R/3
+
+Training/Workshop 
+
+? Training provided for IBM Hyderabad for SAP TZCEE & SAP TZBPM
+? Given various in house trainings and workshop for web-dynpro java, MDM web-dynpro configurator, MDM web service generator.
+
+
+Publications
+
+? Generating Web Services Using MDM Web Service Generator 
+This article explains how to use the MDM WS-Generator to Generate MDM web services, to create destination, to modify the default java system property, and how to test MDM WS-Generator generated web service through web service navigator.
+
+? SAP BPM at first glance
+Sap BPM At first glance??"The SAP NetWeaver Business Process Management (SAP NetWeaver BPM) component helps you model, execute, and monitor your business processes based on a common process model. It can help you improve the efficiency of business processes, reduce errors in complex repetitive tasks, and lower exception-handling costs" (SAP NetWeaver BUSINESS PROCESS MANAGEMENT).
+
+? Process Context Keeping it clean and simple
+Common Practices V/S Best practices, few very important points to run a business process model smoothly. The drawbacks of common practices used often and ideas to counter and overcome from such practices. Designing a robust and accurate process model.
+
+? Using ECM API as a web-service to store Document in ECM
+How integrate the ECM API with the web-services so that the document management can be easily incorporated with NON SAP application
+
+? Merits of using ECM APIs as web-services
+ECM (Enterprise Content Management) as a tool for content management is very useful and easy. It can be used as simple plugin or application to handle the content load without affecting the applications performance. The most efficient way to integrate ECM with any client application is by wrapping the APIs of the ECM as web-services and then consuming these in the client application.
+CERTIFICATES 
+
+* BI 4 Platform Innovation and Implementation, BI 4 Platform Innovation and Implementation
+This course covered the following topics in which I scored 78% - 
+¦ Introduction, Architecture and Sizing
+¦ Installation, Upgrade and Promotion
+¦ Troubleshooting, Performance Testing and Authentication
+¦ Performance Optimization
+
+* Sustainability and Business Innovation
+This Course covered the following topics in which I scored 62% -
+¦ The Business Case for Sustainability
+¦ Sustainable Strategies
+¦ Sustainable Business Processes (Part 1)
+¦ Sustainable Business Processes (Part 2)
+¦ Stakeholder Engagement
+¦ Sustainability Reporting
+
+* Business Process Modeling and Analysis
+The course covered the following topics:
+¦ Introduction to Business Process Management 
+¦ Basic Business Process Modeling
+¦ Analyzing Process Behavior
+¦ Advanced Business Process Modeling
+¦ Data in Process Models
+¦ Business Process Choreographies
+
+* Introduction to Mobile Solution Development for the Enterprise, Mobile Solution Development for the Enterprise
+This six-week online course covered the following topics in which I scored 86% -
+¦ Introduction to Mobile Development
+¦ Enterprise Mobility
+¦ Creating an Enterprise-ready Application
+¦ OData
+¦ Client Design and Implementation Choices Enterprise Security Concept & Outlook
+
+* Introduction to SAP Fiori UX
+This six-week online course covered the following topics in which I scored 95% -
+¦ SAP Fiori UX Basics
+¦ SAP Fiori UX Deployment
+¦ SAP Fiori UX Configuration
+¦ Securing SAP Fiori UX
+¦ SAP UI Tools
+¦ Extending SAP Fiori UX
+DECLARATION
+
+I hereby declare that the above mentioned information is correct up to my knowledge and
+I bear the responsibility for the correctness of the above mentioned particular.
+
+      
+
+
+
+
+  
+

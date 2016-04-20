@@ -1,0 +1,42 @@
+
+Software Engineering
+* Fuure BSSE graduate with a strong foundation in software engineering and programming.
+* Experience in object-oriented(OO) programming; software development, system and network administration.
+* Self sufficient learner, participates in Open Source projects in free time. 
+
+Education
+Monash University
+Pursuing Bachelor of Science in Software Engineering (BSSE), Expected Graduation: May 2017
+* Academic Honors: Monash Scholarship for Excellence (4 semesters)
+
+Courses Completed:
+* Data management
+* Computers and networks
+* Programming fundamentals
+* Systems development
+* Project management
+* IT professional practice
+* Discrete mathematics for computer science
+* Continuous mathematics for computer science
+* Introduction to computer science
+* Introduction to software engineering
+* Algorithmic problem solving
+* Algorithms and data structures
+* Software engineering practice
+* Technical documentation for software engineers
+* Computer architecture
+* Operating systems
+* Formal specification for software engineering
+* System tools and programming languages
+* Software engineering: architecture and design
+* Data communications and computer networks
+
+
+Work Experience
+Monash University 	
+Help Desk Technician, October 2015 to Present
+
+* Networking support, account maintenance to faculty. Experienced in troubleshooting and resolving IT issues.
+
+Technology Summary
+* C#, C, C++, Python, R, MATLAB, Java, Javascript, XML/HTML, CSS, Ruby

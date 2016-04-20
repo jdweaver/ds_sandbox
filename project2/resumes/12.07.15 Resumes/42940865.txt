@@ -1,0 +1,15 @@
+CURRICULUM VITAE
+
+PERSONAL INFORMATION
+NameAddressE-Mail AddressMobileDate of birthPlace of birhEDUCATION
+2014 - ...PhD Engineering TechnologyKU Leuven2013 - 2014Post Graduate: Entrepreneurial Engineering Experience: Solar Team VZWKU Leuven campus GroupT, Leuven2013 - 2014Master in Industrial Sciences: Electronics - ICT focus Internet ComputingKU Leuven campus GroupT, Leuven2009 - 2013Bachelor in Industrial Sciences: Electronics - ICT focus Internet ComputingKU Leuven campus GroupT, Leuven2007 - 2009Civil Engineer: ArchitectureKU Leuven, Leuven2002 - 2007Science - MathematicsRozenberg SO, MolSKILLS
+Programming LanguagesJava + Android, C/C++, Python, HTML/CSS/JSPersonal SkillsBoth creative and analytical thinker
+Fast and eager learnerInterested in making a differencePeople-oriented
+LanguagesDutch: Mother tongueEnglish: ExcellentFrench: BasicGerman: BasicEXPERIENCE
+2012 - 2014Punch Powertrain Solar TeamDesign and implementation of custom soft- and hardware for an experimental solar vehicle, ranked 6th on the World Solar Challenge 2013.
+Managing the Energy Department.
+2011 - 2012Student Council Group TStudent representative and IT responsible.
+2010 - 2011Industria Student UnionImplementing new and updating/maintaining old software.
+2010 - 2014Group T Student Server TeamAdministrator of a CentOS server hosting various websites, an e-mail server and user space for the students of GroupT.
+	9/12/2015	2
+

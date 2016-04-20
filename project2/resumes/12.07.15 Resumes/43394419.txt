@@ -1,0 +1,47 @@
+EDUCATION
+
+08.2013-12.2014		Master of Science in Physics, University of Illinois at Chicago
+
+09.2011-07.2013	Master of Science in Applied Mathematics and Physics, Moscow Institute of Physics and Technology, Department of Physical and Quantum Electronics
+
+09.2007-06.2011	Bachelor of Science with Honors in Applied Mathematics and Physics, Moscow Institute of Physics and Technology, Department of Physical and Quantum Electronics
+
+EXPERIENCE
+
+06.2014-current	Device Processing Engineer, SWIR Tech 
+Chicago, IL	HgCdTe Focal Plan Arrays and other semiconductor devices fabrication. Work in a cleanroom environment: contact photolithography, wet/dry etching, e-beam and thermal physical vapor deposition. Material and device characterization. Processing equipment maintenance and troubleshooting.
+
+09.2010-08.2013	Engineer, Kotel'nikov Institute of Radio Engineering and Electronics (IREE RAS)
+Moscow, Russia	Laboratory of Superconducting Devices for Signal Detection and Processing 
+R&D in fabrication of superconducting integrated circuits based on SIS Josephson junctions. Work in a cleanroom: RF and DC sputtering, photolithography, wet chemistry, reactive ion and plasma etching. Electrical measurements of superconducting integrated structures
+
+06.2012-08.2012	Summer Student, CERN
+Genève, Switzerland	Simulations and measurements of superconducting RF cavity resonance frequency
+
+07.2011-09.2011	Intern, Fermi National Accelerator Laboratory
+Batavia, IL	Simulations of dark current in superconducting RF cavities
+
+
+06.2010-09.2010	Intern, California Institute of Technology
+Pasadena, CA	InAlAs solar cells research, deposition of antireflection coating (RF magnetron sputtering). Characterization of solar cells on solar test station with solar simulator.
+
+
+SKILLS
+Microfabrication:
+Work in a cleanroom environment, contact photolithography (positive and image-reversal), DC/RF sputtering, electron beam and thermal vapor deposition of metals and dielectrics, reactive-ion etching, plasma etching, wet chemical etching, anodizing, cryo and turbo pumps operation, wafer dicing, solvent cleaning, fabrication process development
+
+Characterization:
+Optical microscope, scanning electron microscope, atomic force microscope, X-ray diffraction, I-V measurements (at room and cryogenic temperature)
+
+Computer:
+CMS Microwave Studio, AutoCAD, Origin Lab, Microsoft Office
+
+Other:
+Equipment maintenance and troubleshooting, work with cryogenic liquids, cleanroom consumables inventory monitoring, writing reports and process documentation, training of engineers
+
+Languages:
+English (fluent), Russian (native), Spanish (basic)
+
+Hobbies:
+Cooking, sports, literature, foreign languages, travelling
+

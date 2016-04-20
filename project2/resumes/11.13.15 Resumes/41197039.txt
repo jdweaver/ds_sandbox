@@ -1,0 +1,91 @@
+
+I am a proficient, adaptable C# developer with experience of a variety of other .NET languages and technologies. I consistently set high standards for my work and enjoy learning new things via self-development or other means. I am capable of working in a team or by myself. 
+
+EXPERIENCE:
+January 2012 - OngoingWorking as an independent game developer. Currently working on a PC game in C#.  This involves:
+* Previously released two mobile games for Windows Phone (WP), both written in C#. Available on WP store.
+* Designing and documenting a game ideas
+* Building editing tools under WPF / WinForms
+* Developing a mobile game in C# under the XNA framework
+* Use of JSON, HTML, CSS, PHP and MySQL to provide a back-end content system for my games (i.e. news feeds, scoreboards, change-logs)
+* Maintaining code via source control (Visual Studio Online / Team Foundation Server)
+* Building my own multi-threaded C# game engine with SharpDX
+* Implementing gameplay mechanics/features
+* Light form of agile-development for tracking my development tasks/stages
+* Creating 2D / sprite / GUI artwork
+* Managing the purchase, licensing and implementation of
+3rd Party audio/media
+* Unit testing
+* Responding to crash/bug reports
+* Managing & releasing patches/updates
+* Working with a 3rd-party market/store system (WP store)
+August 2005 - September 2005Developed a free tool for building virtual environments for a game development community/language called DarkBASIC. This involved:
+* Research - finding out what features the community wanted most in such a tool
+* Implementing community-requested features
+* Maintaining a development log
+* Unit testing
+* Responding to crash/bug reports
+* Managing & releasing patches/updates
+* Implementing 3rd party APIs and plugins
+
+
+June 2004Two weeks work experience placement at HM Revenue & Customs, known as the Inland Revenue at the time. The placement involved:
+* Sorting and Filing payee records
+* Data entry - updating payee records on system
+* Working in a small team
+
+EDUCATION:
+[Removed]
+(2009 - 2012)Bsc(Hons) Computer Game Development1st class
+
+[Removed]
+(2005 - 2008)BTEC First Diploma For IT PractitionersDistinctionBTEC National Diploma For IT PractitionersMerit[Removed]
+(2000 - 2005)
+Information & Communication Technology
+BReligious EducationCMathematicsCScience Double AwardD DEnglish LanguageDEnglish LiteratureDD&T: Graphic DesignD
+COMPUTING SKILLS
+I am experienced with the following languages:
+
+C# / .NETWorked with C# almost every day for the last 6 years on personal and university projects, so this is what I'm most experienced with. I find it relatively easy to pickup new frameworks and APIs written for use in C#. Currently learning the ins and outs of ASP.NET in my spare time.
+HTML/XML/CSSUsed frequently in the last 7 - 8 years for various personal projects and pages, as well as the website for two of my released mobile games.
+Java Dabbled in Java before starting work on my first mobile game in 2012 - very similar to C# and easy to pickup if I was required to use it in the future
+PHP / MySQLGained a good amount of experience with both PHP and MySQL after making my own web-based back-end system for displaying news, scoreboards and change-logs in my mobile games
+C++Very basic knowledge of C++ syntax. Used for various university projects (basic ones), and a OpenAL plug-in I made for DarkBASIC back in 2006.
+DarkBASICA programming language centred on game development via DirectX 9.0c. Very easy to learn. The first programming language I used.
+Lua ScriptingUsed for several modifications for a game called Garry's Mod.
+
+SOFTWARE & TECHNOLOGIES
+Game DevelopmentCreated two of my own mobile games and released them on the Windows Phone store, with several updates to both over time.
+TCP/IP / InternetCreated client/server programs for a chat system as a personal project. Tested with a couple of friends.
+Forum/Community ModeratorVolunteer forum moderator for gaming community JokerIce.co.uk before I started university.
+Sever administratorVolunteer administrator for gaming community JokerIce.co.uk. Involved updating gaming severs with the latest modifications via a remote desktop connection (VNC), banning players who broke the rules and handling appeals against bans.
+Microsoft WindowsVery experienced user of all versions of Windows since 95. Beta tested Vista, 7 and 8/8.1.
+Adobe PhotoshopExperienced user of Photoshop.
+Microsoft Visual StudioExperienced user of Visual Studio 2008 - 2015.
+Visual Studio Source ControlA source control system integrated into Visual Studio. Experienced User.
+Microsoft OfficeExperienced user of Office 95 - 2013. Mainly Word and Excel.
+Subversion Network (SVN)Managed a game modification(s) via an SVN repository.
+DirectX 11 APIWorking on my own game engine in C# using a DX11 wrapper called SharpDX.
+KEYSKILLS:
+TeamworkI was the main programmer for the development of a game as my 3rd year university project as part of a team of 5.
+Planning and OrganisingI like to stay on top of things, even if it not my area of expertise. I don't like being messed around and like to know when and what needs to be done.
+Analytical Thinking & Problem SolvingI love solving problems, big or small (prefer bigger ones). I have an eye for detail and tend to consider the bigger picture for smaller things which sometimes get overlooked. 
+Personal EffectivenessAlways a positive thinker, even in the worst of situations. Set up habits for health, language learning and computing skills. Long-term goals.
+Communication / Life SkillsGood listener, fairly confident and sociable. Honest person. I'll tell you directly if I lack the knowledge of a topic rather than hiding it. Not afraid of criticism / negative feedback.
+PERSONAL ACHIEVEMENTS
+Gas Systems - Open-source mod for Garry's Mod* Managed source code revisions via an SVN repository
+* Fixed any reported bugs in my spare time
+* Released a 2nd version of the mod a year later with my own models / textures
+* Lua as the scripting languageSpace Mining - Open-source mod for Garry's Mod* Managed source code revisions via a Google SVN repository under the name Syncaidius (still exists).
+* Beta tested on a volunteer's server for a month
+* Never officially released as university took up all my time
+* Lua as the scripting language
+
+HOBBIES AND INTERESTS
+Science Fiction, New Technology, Game Art/Design, Ancient/Medieval History, Music, Space travel - one day it'll happen properly.
+
+REFEREES:
+[Removed]
+
+
+

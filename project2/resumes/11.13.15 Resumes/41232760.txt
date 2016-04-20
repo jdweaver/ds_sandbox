@@ -1,0 +1,31 @@
+
+SUMMARY
+Certified Salesforce Administrator with a focus on customer satisfaction. Personal merits include a propensity for attention to details and an exceptionally high tolerance for working under pressure.
+QUALIFICATIONS
+* Salesforce Certified Administrator (ADM-201)
+* Salesforce Certified Force.com Developer (DEV-401)
+* Two years professional experience as a Salesforce Administrator 
+* Five years professional customer service experience, external and internal
+* Workbench, Data Loader and Excel Connector - knowledge and proficiency
+* Microsoft Office, Google Product Suite, HTML, CSS, Photoshop, Illustrator experience
+PROFESSIONAL EXPERIENCE
+Salesforce.comJun 2014 - Present
+Hillsboro, ORSalesforce Administrator (contractor)
+* Worked alongside a team of 30+ internal administrators to help support over 18,000 employees across multiple orgs, mostly through the Cases system
+* Specific duties included managing user permissions, mass data loads, data analysis, object modification, managing custom reports, workflows, approval processes, and more
+Digital Air StrikeJan 2010 - Jun 2014
+Sunnyvale, CAServing thousands of dealers nationwide, Digital Air Strike is the automotive industry's largest and most experienced provider of social media, reputation management and lead response solutions.
+Salesforce Administrator (Jan 2013 - Jun 2014)
+* Worked with sales and internal support teams to optimize Salesforce for the company
+* Specific duties included managing user profiles, object modification, custom reports, mass data loads, editing, creating, and documenting workflows, approval processes, and more
+Senior Case Analyst (Jan 2013 - Jun 2014) 
+* Handled hundreds of phone and email support cases on a monthly basis, all while maintaining rapport with the customer and ensuring the highest possible level of satisfaction
+Integration Manager (Jan 2010 - Jan 2013) 
+* Helped launch over 400 new customers through integration of their CRM systems with Digital Air Strike's proprietary software
+Other Experience2005 - 2010After graduating in 2005, held a number of positions in various industries; from food services to photography to 3d architectural visualization. More details available upon request.
+EDUCATION
+Brooks College
+A.S. Animation 2003 - 2005
+Long Beach, CA
+
+

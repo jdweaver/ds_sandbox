@@ -1,0 +1,90 @@
+ 			
+
+
+Personal Profile
+
+
+A senior IT professional with over twenty five years' experience in the industry including a broad-ranging history of project successes mainly with international blue chip private sectors. A broad range of skills have been developed through performing in a range of positions involving management, analysis and technical roles, working across the investment banking, retail and broadcasting sectors.
+ 
+
+Career Summary
+
+* Capgemini Financial Services GBU (formerly SSS Ltd) 2000 - 2013 
+o JP Morgan - Development Team Leader (Capital Markets)
+o Deutsche Bank - Business Analyst (Back Office Ops)
+o BSkyB - Senior Project Leader (Commercial)
+o JP Morgan - Analyst Programmer (Treasury)
+o Littlewoods - Lead Developer
+
+* Littlewoods Organisation PLC, 1987 - 1999, 
+o Analyst Programmer
+
+Functional Areas of Experience / Key Skills:
+
+* Languages:  Natural ADABAS, JCL, Oracle PL/SQL
+* Operating Systems: UNIX, CICS, TSO
+* Key Skills: Business Analysis, Requirements Gathering, Project Leading & Management, Team Leading, Mainframe
+
+
+Key Qualifications
+
+BSc Mathematics with Planning & Administration - University Of Leeds
+	
+
+
+
+
+
+
+
+Career History
+
+
+Capgemini Financial Services GBU (formerly SSS Ltd), 2000 - 2013, Senior Consultant 
+
+JP Morgan (through SSSLtd /Capgemini), Development Team Leader (Capital Markets)
+
+Responsible for the full project lifecycle, translating business requirements into functional and technical specifications for the Exchange Traded Funds system, and subsequently ensuring test support and release of changes. Close interaction required with the business users at the requirements stage all the way through the full project lifecycle to post-implementation handover to applications support. . Also provided analysis and development support for any minor enhancements to the system. Delivered several key upgrades to the system to improve reliability and operational performance.
+
+Deutsche Bank (through Strategic Systems Solutions), Business Analyst (Back Office Ops)
+
+Engaged to work on an outsourcing project to reduce costs in primarily Back Office Operations by moving the roles performed in the bank to both on-shore and off-shore suppliers with a lower cost base. This role involved analyzing various back office investment bank functions and using Visio to workflow these, which were then translated into a system used by the call centre staff to manage the work remotely at a much cheaper cost to the bank.
+
+BSkyB (through Strategic Systems Solutions), Senior Project Manager (Commercial)
+
+Lead project manager managing four separate development teams across five locations in the UK, successfully delivering a new suite of management reports to the client. Each team was responsible for analysing and developing system changes to meet the client's requirements, ranging from new business functionality to revenue leakage prevention. Required significant understanding of release process to ensure dependencies for project releases were managed appropriately.
+
+JP Morgan (through Strategic Systems Solutions), Analyst Programmer (Treasury)
+
+Responsible for analysing, designing, testing and implementing solutions to expand the network of partner banks into Eastern Europe and the Baltics and to ensure that the bank was SEPA (Single European Payment Area) compliant. Development of changes to BACS and Crest payments systems.
+
+Littlewoods (through Strategic Systems Solutions), Lead Developer 
+
+Responsible for developing minor enhancements on the Index Shop system and for designing and developing the data migration routines for the move from legacy Adabas / Natural systems to Oracle.
+
+
+Littlewoods, 1987 - 1999, Lead Developer
+
+Involved in various systems analysis, development and support roles for Littlewoods, including Oracle Financial HR/Payroll systems, though primarily Retail & Distribution mainframe systems for Index shops.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Richard Gibson		(c) Opencast Software
+
+Consultant Profile
+
+
+
+
+

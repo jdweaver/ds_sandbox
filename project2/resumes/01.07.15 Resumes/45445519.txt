@@ -1,0 +1,47 @@
+JOHN DOE
+
+ADDRESS  |  Bothell, WA 98011  |  949-555-5555  |  johndoe1@gmail.com
+
+EXPERIENCE
+ABCD Co. 											          Irvine, CA
+Project Manager										      2013-Present
+? Led and managed multiple cross-functional projects ranging from IT, Operations, and Client Services
+? Led the coordination of all activities regarding customer implementation and site renovations
+? Managed project plans and schedules by preparing status reports for clients and leading ongoing staff meetings to ensure project is completed on cost and on schedule
+? Completed Projects: DirecTV Roll Out (finished project ahead of schedule by 1 month), American Express Work At Home, Internal Corporate Renovations Project (achieved project savings of $150,000), Windows 7 Refresh ($3 million dollar budget/20,000+ desktop replacements)
+? Current Projects: Electronic Manufacturer Roll Out in Dominican Republic (175 agents), Tech Warranty Company (Customized application utilizing credit card transactions). 
+
+DEFG Co.                           								         Newport Beach, CA
+Client Service Manager / Security Analyst					       			           2011-2013
+Project Coordinator							       			          	      2011
+? Managed the end-to-end process for creating campaigns for clients
+? Served as the main point of contact between IT, Voice Talents, and clients
+? Created and generated customer reports to clients such as Call Results, Cost Per Dial Analysis, and Efficiency Reports
+? Maintained logs of current IT infrastructure for Payment Card Industry (PCI) Compliance
+? Conducted PCI security training sessions for employees. Created and maintained PCI security policies
+? Completed Projects: Over 70+ ($2.5 million dollar budget) AT&T messaging projects completed varying from email, voice and SMS campaigns
+
+HIJK Co.											          Irvine, CA
+Implementation Project Manager									         2007-2010
+? Managed an inside support team and provided oversight on processing billing and transactional requests
+? Analyzed and prioritized daily problem tickets from clients ranging from system to coverage issues
+? Conducted quarterly steering committee meetings with assigned points of contacts
+? Served as the main point of contact for all risk and issue escalations within assigned accounts and projects
+? Provided consultation to clients with Sprints' latest offerings and devices
+? Performed project management processes for cost, resource (internal and business partners) and schedule in deploying units and for Sprint's online services
+? Notable Deployment Projects:  US Navy Roll Out ($1.5 million dollars/8,000 laptops), Disney Refresh Units (25,000 cell phone and air cards)
+
+LMNO Co.                                         								         Tustin, CA
+Assistant Sales Manager, Eastern Territory							           2005-2007
+? Achieved $800K yearly quota through existing and prospective clients. Focused primarily in medical and gaming industries
+? Managed an internal sales team to achieve customer satisfaction and convert prospective customers to wins
+? Managed exhibits for SID (Society for Information Display) shows. Planned and set up exhibitions
+? Conducted quarterly meetings focusing on the latest LG offerings and roadmaps to existing and potential clientele
+? Notable Achievements: Won bid for Church of Scientology RFP: 5000 units/ $250,000
+
+               EDUCATION / TECHNICAL SKILLS
+
+UNIVERSITY OF CALIFORNIA,                          				 		             	          Irvine, CA
+B.A. in International Studies with emphasis in International Business					           2000-2005
+? Applications: Microsoft Project, SharePoint, Clarizen, Analytics, Salesforce, Microsoft Office Suite
+? Prince2 Foundation Certification

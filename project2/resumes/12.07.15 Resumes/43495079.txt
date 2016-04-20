@@ -1,0 +1,69 @@
+				
+
+
+Career ObjectiveLooking for a prospect where technical competence is valued and where I can make meaningful contribution to the growth of the company and can be a part of the technical innovation, willing to work as a key player in challenging & creative environment.Professional Experience
+Labont Software Pvt. Ltd.
+Website - www.labontsoft.com
+Designation - Test Engineer
+From - June 2014 - Present
+
+Roles and Responsibilities
+I am responsible for complete SDK testing which includes:
+* Sanity Testing
+* Smoke Testing
+* Validation Testing
+* Differential Testing
+* Exploratory Testing
+
+Yuktix Technology Pvt. Ltd.
+Website- www.yuktix.com
+Designation - Embedded Engineer
+From - August 2013 - April 2014
+
+Roles and Responsibilities
+* Testing new hardware
+* Developing basic firmware
+* Making Prototypes
+* Requirement Collection
+* Client Interaction
+* Market Research
+Projects Worked/Developed
+Photometrics and Q-Imaging (PMQI)
+Working under Enterprise mobility practice, complete testing for various SDK's, primarily Sanity, Smoke & Validation testing on a combination of different scientific cameras(CCD, EMCCD and CMOS), operating systems and imaging applications interfacing it through different interfaces like: USB, LVDS, Firewire and SerialLite. 
+Test the camera functionalities like: Live, Snap, ROI, Binning, and Gain etc.
+Technology - Manual Testing
+
+Automatic Weather Station (AWS )
+The AWS is a robust and reliable weather station suited for any needs on weather and soil monitoring.
+Powered by a Solar Panel, it has an internal battery and transmits weather data in real time over GSM/GPRS - thus dispensing infrastructure on the installation location.
+AWS can also send SMS Alarms (user-defined via Internet) to alert for events like frost, rain, temperature, etc.
+Protocols: UART, I2C, SPI
+Technologies/Development Board Used: Arduino, C
+
+Data logger ( DL)
+Data loggers are the most affordable way to track environmental conditions for analysis. Whether 
+your needs are plant disease alerts or soil moisture monitoring, Data Loggers will deliver the information you need for timely, accurate data that will result in increased profits. 
+Protocols: UART, I2C, SPI
+Technologies/Development Board Used: Arduino, CSkill Set
+Technical    :  Manual Testing, C, Assembly
+Educational QualificationGraduation                                                                                                                   2008 to 2012
+Bachelor of Engineering (Electronics & Telecommunication) | Percentage-71.4 %.
+
+Senior Secondary (10+2)                                                                                                         2008
+ Board - CBSE | Institute - K.V  | Percentage - 79.8% 
+
+Secondary (10th):                                                                                                                    2006
+ Board - CBSE | Institute - K.V| Percentage - 85.2%Trainings
+* Completed Manual Software Testing Training from Qspider, Bangalore.
+* Undergone 4 week industrial training in Bhilai Steel Plant, Bhilai 
+* Undergone 4week training at Solwins Technology, Nehru Nagar, Bhilai Achievements
+* Qualified GATE-2012 with 95.539 percentile and securing AIR- 7981
+Declaration
+I, Sameer Sheikh, hereby declare that all the details mentioned above are true and correct to best of my knowledge. 
+
+Place: Bangalore, India                                                                              Sameer Sheikh
+
+
+
+
+

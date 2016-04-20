@@ -1,0 +1,34 @@
+Your Name
+Address  City, State  ZIP
+Phone
+Email
+Objective
+Describe your career goal
+Professional Achievements
+Field or Area of Accomplishment
+* Achievement
+* Achievement
+* Achievement
+Field or Area of Accomplishment
+* Achievement
+* Achievement
+* Achievement
+Field or Area of Accomplishment
+* Achievement
+* Achievement
+* Achievement
+Skills
+* Professional or technical skill
+* Professional or technical skill
+* Professional or technical skill
+* Professional or technical skill
+
+Work History
+Job title  Company Name  City, State  Dates of Employment
+Job title  Company Name  City, State  Dates of Employment
+Education
+Degree  School Name  City, State  Date of Graduation
+\References
+References are available on request.
+www.InstantResumeTemplates.com
+

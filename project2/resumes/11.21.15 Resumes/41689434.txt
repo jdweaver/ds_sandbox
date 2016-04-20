@@ -1,0 +1,42 @@
+Homer Simpson
+123 Fake Street, Brighton, East Sussex, BN1 1AB
+Tel: 07444444444 Email: homer@simpson.com
+
+Second year Computer Engineering undergraduate on track to gain a First, looking to gain experience in hardware engineering and apply analytical and technical skills developed through my degree.
+
+Education
+2013 - 2017 (Expected): University of Sussex
+BEng (Hons) Computer Engineering (with an industrial placement year)
+
+First Year Engineering Maths, Introduction to Programming & Further Programming (Java), Programming for Engineers (C, MATLAB, LabVIEW), Electrical Circuits and Devices, Electrostatics, Electromechanics, Electrical Devices and Circuit Prototyping. 75% average mark
+
+Second Year Engineering Maths, Databases, Digital Systems and Microprocessor Design, Compilers and Computer Architecture, Embedded Systems, Operating Systems, Software Engineering, Professional and Managerial Skills. 77% average mark
+
+- Contributed to group project for Electrical Devices and Circuit Prototyping module. Used Multisim software to simulate a circuit before prototyping and analysis using NI Elvis platform.
+- Covered key professional skills required for accreditation - project management, technical communication, risk and professional ethics.
+
+Extracurricular Projects
+- Built a quadcopter as a member of the University of Sussex Informatics, Design and Engineering Society. Gained valuable practical and group working skills through participation.
+- Set up the University of Springfield Japan Society and organised and promoted social occasions including movie nights, culinary events and sports activities.
+
+2011 - Changed courses to Engineering Foundation Year after a year of BA History with German
+
+2002 - 2009: Tiffin School, Kingston-upon-Thames
+       A-Levels (09): History (A), Japanese (A), Maths (B), German (B)
+GCSEs (07): 11 A*-A grades including A* grades in English, Mathematics and Japanese
+
+Employment
+Sep 2015 - Present: IT Business Placement, Ford Motor Company
+- Providing central support to European plant IT teams
+- Reviewing and standardising business processes
+- Deploying new applications and infrastructure
+
+Skills and Competencies
+- Programming languages and database management systems including Java, C and MySQL
+- Software environments including MATLAB and LabVIEW
+- Languages: Japanese - fluent, German - conversational
+- Soft skills: leadership, public speaking, presentations, interpersonal skills
+
+References
+Academic: Dr Hibbert, University of Sussex, Brighton, hibbert@sussex.ac.uk	
+Previous Employer: Mr Kaz Hirai, Miki Travel, London, kaz.hirai@group-miki.com   

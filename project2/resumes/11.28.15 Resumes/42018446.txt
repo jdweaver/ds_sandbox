@@ -1,0 +1,121 @@
+[Name]
+
+[Office address]
+[city/state]
+[email]
+
+
+Education 
+ 
+1999-2003	Macalester College, Saint Paul, MN 
+       Bachelor of Arts (summa cum laude) in Psychology and Spanish
+       
+2004-2011	University of Pittsburgh, Pittsburgh, PA
+       Master of Science, Cognitive Psychology, 2007 
+       Ph.D., Cognitive Psychology, 2011
+
+2004-2011	Center for the Neural Basis of Cognition, Pittsburgh, PA
+		Joint training program of the University of Pittsburgh and Carnegie Mellon University
+		Cognitive Neuroscience Certificate, 2011
+       
+       
+Honors and Awards 
+
+National Merit Scholarship, 1999-2003 
+Phi Beta Kappa, 2003 
+University of Pittsburgh/Faculty of Arts & Sciences Fellowship, 2004-2005 
+NSF IGERT Fellowship, Sept.-Oct. 2006 
+Andrew Mellon Predoctoral Fellowship, 2008-2009 
+
+
+Professional Affiliations 
+
+2005-2012       Cognitive Neuroscience Society
+2012	            Society for Neuroeconomics
+2005-2014       Society for Neuroscience
+       
+
+Professional employment and experience 
+
+2002-2003	Research Assistant, Reasoning and Language Investigations Lab, Macalester College (P.I., Dr. [name])
+
+2003-2004	Lab Coordinator, Pediatric Autonomic Laboratory, Center for Neurobehavioral Development/University of Minnesota (P.I., Dr. [name])
+
+2004-2011 	Graduate Student Researcher, University of Pittsburgh, in the lab of Dr. [name]
+
+2011-2014	Postdoctoral Researcher, University of Pennsylvania, in the lab of Dr. [name]
+
+2014-present	Research Principal, Geriatric Psychiatry Neuroimaging Lab, University of Pittsburgh 			Medical Center (P.I., Dr. [name])
+
+
+Peer-Reviewed Publications [details removed for deidentification]
+
+[names] (year). [title]. Cognitive, Affective, & Behavioral Neuroscience, [volume/number/pages] 
+
+[names] (year). [title]. Journal of Neuroscience, [volume/number/pages] 
+
+Manuscripts In Preparation 
+
+[names] (year). [title]  
+
+Poster Presentations 
+
+[names] (year). [title] Poster presented at the biennial meeting of the Society for Research in Child Development, Atlanta, GA. 
+
+[names] (year). [title] Poster presented at the annual meeting of the Cognitive Neuroscience Society, San Francisco, CA. 
+
+[names] (year). [title] Poster presented at the annual meeting of the Cognitive Neuroscience Society, New York, NY. 
+
+[names] (year). [title] Poster presented at the annual IGERT Student Research Symposium, Carnegie Mellon University, Pittsburgh, PA. 
+
+[names] (year). [title] Poster presented at the annual meeting of the Society for Neuroscience, Washington, D.C. 
+
+[names] (year). [title] Poster presented at the annual meeting of the Cognitive Neuroscience Society, Montreal, Canada. 
+
+[names] (year). [title]  Poster presented at the annual meeting of the Society for Neuroscience, San Diego, CA. 
+
+
+Professional Service Activities 
+
+2005 - 2006	Cognitive Program Brown Bag Series Coordinator, University of Pittsburgh 
+2006 - 2007	Cognitive Program Student Representative, University of Pittsburgh
+2009 - 2010 	Colloquium Committee, Center for the Neural Basis of Cognition 
+
+
+Ad hoc reviewing
+
+Cerebral Cortex
+Cognitive, Affective, & Behavioral Neuroscience
+Journal of Cognitive Neuroscience (in collaboration with Dr. [name])
+Journal of Neuroscience (in collaboration with Dr. [name] and Dr. [name])
+Journal of Neurophysiology
+Human Brain Mapping
+Neuroimage
+PLOS One
+Social, Cognitive, and Affective Neuroscience
+
+
+Teaching Experience 
+
+Spring, 2009	Instructor, Laboratory in Cognitive Psychology (PSY 0420, Univ. of Pittsburgh)
+Fall, 2010	Teaching Assistant, Developmental Psychology (PSY 0310, Univ. of Pittsburgh)
+Spring, 2011	Teaching Assistant, Introduction to Biopsychology (PSY 0505, Univ. of Pittsburgh)
+
+
+Technical Experience
+
+Programming / scripting:  MATLAB, C, Python 2.7, Unix/Linux shell, Java
+
+Neuroimaging software: AFNI, FSL, NIS, AIR, ITK-SNAP, HistoloZee
+
+Other research-related software: E-Prime (for behavioral task presentation), SPSS (statistics) 
+
+
+
+
+
+
+
+	
+Last updated 9/17/150Page 3 of 3
+

@@ -1,0 +1,57 @@
+
+BUSINESS SKILLS
+
+* Superior reporting skills: able to design, develop and distribute functional, concise reports 
+* Advanced working knowledge of MS Excel; can provide automation in files through v-lookups, if/then statements, indexing/matching, pivot tables and visual basic - significantly improved efficiency in daily reporting (Sun Life Financial)
+* Working knowledge of MS Access: able to extract, analyze, and present large data sets; can create user forms, charts, and reports 
+* Capable of developing and maintaining business relationships - worked alongside external managers and VPs to create dashboards catered to their business needs (Sun Life Financial)
+* Excellent quantitative and qualitative analytical skills coupled with strong time-management in high-pressure environments
+
+PROFESSIONAL EXPERIENCE
+
+
+Test Analyst-Wholesale Banking Technology	   	   	 September 2013 - Present   
+CIBC, Toronto, ON
+
+* Developed, tested, and implemented various reports containing sales and forecast models
+* Automated existing sales, inventory, and forecasting reports to require minimal user effort
+* Analyzed data to optimize allocation of goods to maximize retail sales using MS Excel and AS400
+* Support retail team members in initiatives focusing on improving new product launches, developing and implementing store standards, and growing convenience retail sales
+Allocations & Optimization Intern			   	   	   	   May 2013 - August 2013   
+Adidas Group Canada, Woodbridge, ON
+
+* Developed, tested, and implemented various reports containing sales and forecast models
+* Automated existing sales, inventory, and forecasting reports to require minimal user effort
+* Analyzed data to optimize allocation of goods to maximize retail sales using MS Excel and AS400
+* Support retail team members in initiatives focusing on improving new product launches, developing and implementing store standards, and growing convenience retail sales
+Business Data Analyst Intern
+Sun Life Financial, Waterloo, ON     						       May 2012 - December 2013
+
+* Reduced reporting times by 75%-95% in individual reports through automation; vastly improved overall functionality and ease of use
+* Generated daily productivity reports using Excel for several lines of business; ensured that reports were sent in a timely manner and free of any data errors
+* Designed and implemented a time tracker tool used by 100+ employees; built both a user friendly front-end interface and a concise back-end database in MS Access
+* Resolved various tickets regarding Excel/Access issues sent from various departments involving debugging complex formulas/queries
+
+
+
+
+
+
+EDUCATION
+
+Candidate for Bachelor of Commerce in Finance 					                       2014 
+Ryerson University - Ted Rogers School of Management
+
+
+TECHNICAL SKILLS
+
+Software Applications: Microsoft Office Suite, SAP, JIRA, Lotus Notes, AS400
+
+Programming Languages: VBA, SQL, Python
+
+Databases: MS Access, MS SQL Server 
+
+
+
+
+

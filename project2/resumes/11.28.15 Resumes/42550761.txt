@@ -1,0 +1,49 @@
+XXXX XXX  XXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXX	                      Mobile No.XXXXXXX
+XXXXXXXXXXXXXXXXXXXXXXXXXZZZ                                               XXXXXXXX@gmail.com
+	                                                                                                       
+Objective: To leverage my experience of working in an ITIL compliant application support role and expertise in Telecom OSS, produce effective results by demonstrating sound leadership, logical, business skills.
+Experience:
+   1.  Tech Mahindra Ltd.
+Technical Associate, Application Support, Tech Lead.	          Feb 2007 - Present
+Project: FlowStream -A Fulfilment OSS for British Telecom's Broadband orders
+FlowStream is mid tier system which provides the functionality to define a workflow and execute it thereby automating complex process specifically in the area of provisioning of products.
+FlowStream is a key component in the Broadband Provisioning stack of BT systems.
+Responsibilities 
+24 x 7 support of the production environment
+Monitoring & Administration of the core Middleware infrastructure
+Designing and writing up PLSQL and Shell Scripts for automation and workarounds
+Working on Oracle, PLSQL, Triggers, stored procedures in UNIX and LINUX Environment
+Problem solving, escalation and incident management through Clarify Bridge, meeting SLA Requirements
+Ensuring uniform and cohesive monitoring is applied across the relevant infrastructures
+Exception handling and Repairing Broadband orders
+Suggesting E2E solution designers various Fixes and workflow automation so that majority of the orders go through with zero manual touch so as achieve BT's vendor target of 95% right first time
+Liaising with ISP's and other systems of the OSS like CRM's, Element Managers, Inventory & Billing Systems for queries and issues.
+Knowledge Acquired:
+   •  E2E knowledge of the PSTN and Broadband Provisioning process in UK.
+   •  Strong Expertise in Telecom Operation Support System(OSS) and processes
+   •  Functional Knowledge of BSS and Billing Systems
+   •  Strong understanding of UK's telecom regulatory environment
+I.T Skils
+UNIX, LINUX, Oracle, PLSQL, MQ, XML
+Career Highlight
+Onsite (UK) stint of 7 months (Nov 09 - May 10)
+   1.  Maersk Global Services Centre
+Processing Officer, Operations	        June 2005 - Feb 2007
+Maersk GSC is the captive shared service centre of Denmark headquartered shipping giant Maersk- AP Moller group.
+Handling of Cargo Movements of Central European Ports of Rotterdam, Antwerp, Le Havre, Montoir de Bretagne, Brest & Dunkerque
+Work within the Standard Operating Procedures including Vessel Sharing Agreements, Slot Charter Agreements and Working Procedures
+Ensuring full compliance with the global container flow plan, Transhipment planning, planning & execution of empty equipment flows.
+Updating of in-house tracking and inventory systems ensuring a real-time view of container movements
+Ensure Vessels are fully utilised according to established priorities, Monitor and report Vessel utilization
+Stowage planning, preparing Load and Discharge list's for Vessels, adhering to strict timelines.
+Liaising with port clusters and front offices for enabling proper documentation, rectifying cargo booking discrepancies and exceptional & contingency cargo handling
+Academics:
+B.com (First Class), K.J. Somaiya College, University of Mumbai, June 2005.
+Personal Details:
+Date of Birth:          27/10/1984
+Languages Known: English, Hindi, Marathi and Gujarati.
+Passions:	        Tracking and Investing in Stock Markets, Reading, Travelling
+Date: XX/XXXX/XXXX
+Place: XXXXXXX                                                                           (XXX XXXX XXXX )
+

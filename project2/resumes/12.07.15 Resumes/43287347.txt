@@ -1,0 +1,157 @@
+Address 
+
+ 
+
+NAME 
+
+ 
+
+ 
+
+               email + phone 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+              Summer 2015 
+
+                                                                                                                               EDUCATION 
+Cornell University, College of Arts and Sciences, ​Ithaca NY 
+          ​Aug 2011 ­  May 2014 
+B.A. with distinction in all subjects, ​Cum Laude​, GPA: 4.04 / 4.30 
+Mathematics Major | Nutrition and Health Minor 
+ 
+                                                                                                   RESEARCH EXPERIENCE 
+Junior Research Scientist
+                                Sep 2014 ­ present 
+Department, New York University 
+o Used Bayesian framework studying perception through working visual memories. 
+o Conducted nonsmooth optimization on probabilistic model through smoothing discrete delta functions. 
+o Designed an algorithm partitioning time series data; developed toolbox for MouseTracker 
+o Analyzed behavioral and neuroimaging data. Techniques include supervised learning, categorical data
+ 
+ 
+ 
+analysis, and computational vision model. 
+o Programming wizards: designed platforms for online data collection; stimuli properties control. 
+ 
+Project Assistant 
+Supervisor, New York University & Institute for America’s future 
+o Aided a non­profit research project studying American’s perception of Muslim People 
+o Main duties: all programing aspects of the project, such as implementing reverse correlation techniques. 
+o Other duties include experimental design, data management for 2000+ participants, and data analysis.  
+ 
+Research Assistant
+Department, Cornell University 
+o Developed several theory based tutorials on medical decision making 
+o Analyzed behavioral data using SPSS (reliability, anova, logistic regression, model selection, etc) 
+o Wrote reports on findings as well as presenting findings during lab meetings 
+o Wrote scripts automating data processing using Macro VBA, Python, and Perl 
+ 
+Research Technician 
+Department, Cornell University 
+o Designed experiments using PsychoPy package in Python 
+o Processed fMRI data using SPM8 and maintained matlab scripts for neuroimaging data analysis 
+o Analyzed behavioral data with repeated­measure ANOVA in SPSS 
+o Presented study methods and results during lab meeting 
+ 
+                                                                                                                                  TEACHING EXPERIENCE 
+Consultant Supervisor, CS 1112 / CS1132 
+Course Consultant, CS 1112 / CS 1132 
+Course Assistant, MATH 1110 / MATH 1120
+ 
+                                                                                                                                   HONORS  AND AWARDS 
+
+             May 2013 – May 2014 
+      January 2012 ­ May 2014 
+        August 2012 ­ May 2014 
+
+           December 2012 – August 2014 
+
+                      May 2013 – August 2014 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Dean’s List 
+William Lowell Putnam Math Competition: Scored 29/120 (90th Percentile)                                            2013 
+2012 
+1st place, ##### Math Competition
+2014 
+2nd place, #### Math Competition 
+3rd place, #### Math Competition
+2013 
+2012 
+5th place, #### Math Competition
+Undergraduate consulting award
+2014 
+Top 10, Cornell Math Competition in Modeling                                                                                                  2012 
+
+                Every semester 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+                                                                                                                                                       SPECIAL SKILLS 
+Programming Languages and Computer Software 
+General Coding: 
+Matlab, Python, Java, Pascal, Perl 
+R, Matlab SPSS, JMP, SPM8 
+Statistical Software: 
+HTML, CSS, Javascript, jQuery, PHP, Ruby 
+Web Design: 
+Microsoft Basics: 
+Excel (Macro), PowerPoint, Visual Basic 6 
+PsychoToolbox, PsychoPy, Amazon Mechanical Turk, Qualtrics 
+Study Design: 
+Others: 
+LaTex, Photoshop, FaceGen, AutoHotKey, Bash Scripting 
+ 
+Language 
+Fluent in English and Mandarin Chinese 
+ 
+Certificate 
+fMRI safety, CPR, CITI compliance and human subjects research protocols 
+ 
+                                                                                                                           POSTER AND PUBLICATION 
+1 poster 
+1 manuscript in prep 
+ 
+
+

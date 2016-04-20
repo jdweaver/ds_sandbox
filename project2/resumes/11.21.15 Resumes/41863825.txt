@@ -1,0 +1,86 @@
+Jason Newton
+
+Education
+
+Bath University, BEng(Hons) Aerospace Engineering with Placement Oct 2011 - June 2015
+Acheived First-class honours
+
+My ﬁnal year project was self-initiated and involved using a genetic algorithm in combination with
+a rudimentary form of CFD called Vortex Lattice Method to optimise an aid delivery UAV for
+maximum range whilst weighing below 7kg. As this was a mutlidisciplinary problem it required me
+to be thorough and investigate all the necessary assumptions and constraints necessary so that my
+limited time was allocated eﬃciently to deliver the best results possible.
+
+Notre Dame High School , Norwich, Norfolk, UK,
+
+September 2005 - June 2011
+
+ A-Level: A* in Russian, Maths, Physics and Chemistry.
+
+ GCSE: 10 A*-B including Maths, Physics, Russian and Spanish.
+
+Employment
+record
+
+Abellio Greater Anglia, Norwich, Norfolk, UK
+October 2015 - Present
+I am currently in a temporary role involved with compensation for customers who have been delayed;
+issuing vouchers or cheques where appropriate. Emphasis is placed on speed and accuracy in order
+to process as many forms as possible.
+
+Airbus Defence & Space, Stevenage, Hertfordshire, UK
+August 2013 - July 2014
+I was mostly involved in creating and modifying programs to help with automating and optimising
+existing tasks within the stress oﬃce on site. I also had to become familiar with the preparation and
+publication of documents relating to the work I had performed e.g. manuals for the programs I had
+written. I was most proud of creating an auxiliary tool for automating the ’stress mapping’ process
+of satellites. Previously this would manually take an Engineer up to a month to perform hence this
+tool will save the company thousands every time it is used.
+
+SEP Events, Costessey, Norfolk, UK
+June 2011 - June 2011
+I worked as a Car Parking Marshal at the Royal Norfolk Show. I ensured that cars were directed
+to the appropriate places and to prevent drivers from parking in unsuitable places. This required
+me to be constantly communicating with members of my team and with people entering the event.
+Due to the large number of visitors car parks could quickly ﬁll up meaning that it was necessary to
+quickly react to the situation under the pressure of irate drivers until I could get to my line manager
+to alleviate the situation.
+
+The Advertiser, Costessey, Norfolk, UK
+November 2006 - September 2011
+As a Newspaper Deliverer I ensured that roughly 160 houses in my area received their newspaper by
+noon. Leaﬂets had to be placed manually inside the papers and the newspaper carrier was often not
+big enough for the papers to be delivered in one trip. This required me to develop time management
+and organisation skills to complete the job eﬃciently.
+
+Computing skills I am competent with the use of standard Microsoft Oﬃce applications. I’m proﬁcient in the use
+of LATEX and MATLAB for report writing and numerical analysis. From my industrial placement I
+became familiar with a variety of programming languages such as VB10, VB6, QBasic and Fortran
+which I used to create and modify complex programs for automation and optimisation.
+
+In my spare time I have been learning about Python as part of a hobby using the Raspberry
+Pi. I am also familiar with using html to create websites from scratch.
+
+Activities &
+Interests
+
+Addition
+Information
+
+Piano, Powerlifting, Russian, Programming and Investing.
+
+Awards and Achievements
+• Selected to play piano at the opening of Bath University’s new building for guests such as Prince
+• Received the Bath Alumni fund scholarship in 2011.
+• Received the Barclays bank trophy and the Alice Fitzmaurice cup at sixth form in 2011.
+• Shortlisted in the ALL Russian essay competition in 2009
+
+Edward in 2015.
+
+Professional
+Institution
+Membership
+
+Aﬃliate of the IMechE.
+
+

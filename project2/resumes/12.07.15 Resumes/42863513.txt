@@ -1,0 +1,24 @@
+Education: 
+Bachelor of Computer Science				   Wolfville, Nova Scotia, Canada	    2011 - 2015           
+Acadia University			  
+Skills:
+* Proficient in C++ with experience in Java, C#, C, Javascript, and Ruby on Rails.
+* Fluent in English and Spanish
+Work Experience: 
+
+Kingswood Camp 				                Aylesford, Nova Scotia, Canada - Summer 2015
+Music Director 
+* Planned and executed three week leadership program for ages 14-16, including a one-week canoe trip, hands-on training, leadership workshops, activities and Bible studies
+* Managed and coordinated music and drama related teams 
+* Carried out daily mentorship sessions with most male staff
+Colibri Software				     	  Wolfville, Nova Scotia, Canada - June - December 2012
+Junior Developer
+* Developed web application, on two person team, using the Ruby on Rails framework
+* Managed company Content Management System and implemented interface features using JavaScript and CSS
+Acadia University				      Wolfville, Nova Scotia, Canada - January - April 2012
+Spanish Department Teaching Assistant
+Commonwealth Bank 						            Nassau, Bahamas - Summer 2011
+Accounts Recovery Agent						              			   
+Santander Bank and Trust 			 			     Nassau, Bahamas - May 2009
+Office Assistant
+

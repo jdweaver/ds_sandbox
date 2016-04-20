@@ -1,0 +1,5 @@
+Curriculum Vitae
+
+Contact InformationName:Permanent Address:Temporary Address:Phone:E-mail:EducationSkills SummaryProgramming Languages:Java, C#, C/C++, Visual Basic.NET, PL/SQL, Perl, Unix Shell Scripting (sh, bash, awk...)Technologies:J2EE (EJB, Servlets, JSP, JSF, Struts Framework, Spring Framework), Microsoft .NET(including ASP.NET), Java GUI (Swing/AWT, Eclipse/SWT), Data mining/OLAPWeb Technologies:XML/XSL, HTML, CSS, PHP, ASP/ASPX, WAP/WML, JavaScript, VBScript, various DOMs (W3C, MS IE, Mozilla)RDBMS:Oracle9i, MS SQL, Postgre SQL, MySql, FireBird/Interbase, Sybase, MS AccessDesign skills:UML, Object Design, Database Design
+
+

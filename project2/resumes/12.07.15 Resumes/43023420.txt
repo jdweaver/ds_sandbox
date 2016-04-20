@@ -1,0 +1,112 @@
+Mohamed Zaki
+Dubai, United Arab Emirates
+ +971 55 967 3845
+zakiabusamra@gmail.com
+ae.linkedin.com/pub/zaki-abusamra-mcts-mcpd/28/392/21/
+
+CAREER OBJECTIVE                               
+
+To pursue a career in Software Development within an international organization at a senior level position, offering prospects of growth, career advancement and opportunities to utilize my Information Systems Knowledge to ultimately enhance business capabilities.
+
+CAREER SUMMARY
+
+Information technology specialist with over 6 years of experience developing, supporting software and hardware systems; Analytical IT professional with strong ERP implementation expertise delivers strong technical solutions that solve business problems; always keeps an eye on bottom line business benefit. 
+
+• Possess strong knowledge of the software development and IT product design lifecycle.
+• Outstanding ability to outline business needs. 
+• Recognized for delivering leading edge solutions that consistent meet complex business requirements.
+• Adept in building strong relationships with IT staff, customers, vendors and third party contractors.
+• Solid understanding of application development, computer programming and architecture design.
+
+•     ERP Implementation & Project Management	•     Configuration/Assets Management
+•     Web Applications Development	•     Change and Risk Management
+•     Computer/Network Security	•     Troubleshooting/Problem Solving
+•     Systems Integration/Release Management          •     System Analysis.
+•     MIS Reporting
+		
+
+EMPLOYMENT EXPERIENCE
+
+
+Software Developer                                                                                                                   2015 to present
+GET group Holdings, UAE
+
+* Developing and enhancing applications according to base line design specifications.
+* Executing test cases, resolving reported defects, and communicating with testers to verify their closure.
+
+
+.NET Business Application Developer		                                                                           2013 to 2014 
+El Nefeidi Holding Group, Sudan
+
+* Administrating ERP (Accounting, Sales, Procurement and Inventory) & Remote POS systems. 
+* Draft functional requirements for ERP systems to represent the processes and functions involved. 
+* Developing web application tools & Intra-net portal for reporting and optimizing business process. 
+* Document user requirements and developing specifications for customization. 
+* Developing user manuals and participated in knowledge transfer sessions 
+* Guiding users in using various modules and the management for various functional issues. 
+* SQL server Administration & Performance Optimization. 
+
+
+
+Application Specialist / Application Developer				                        2010 to 2012
+Alzaytouna Specialist Hospital, Sudan
+
+* Managing and assisting in HMIS & PACS implementation. 
+* Developing application tools and Hospital's Website to assist workflow based on HMIS database. 
+* Documentation of software applications & current configurations. 
+* Planning and leading internal and external meetings, and participating in internal projects. 
+* Administering HMIS database (Backup, Scripting, and Reporting) SQL server. 
+* Liaising with end-users (Updates, Training, and Data collection). 
+* Educating users on environment upon updates with quick answers to common questions. 
+
+.NET Developer & Analyst							                        2009 to 2010
+ITagency Technologies, Sudan
+
+* Designing and developing data driven web applications using ASP.NET & SQL server. 
+* Usability testing and reporting. 
+* Stored procedures, triggers using SQL in SQL SERVER 2008. 
+* Technologies included TSQL, ASP.NET, AJAX, LINQ, ADO.NET, Entity Framework, and HTML5. 
+
+ADDITIONAL EXPERIENCE
+
+•	IT Officer, NIIT- Khartoum Academy of Technology, Sudan,                                                                  2009
+
+EDUCATION
+
+•     Bachelors, Information Technology (honors)					                        2009   
+       Future University (Formerly Computer Man College), Sudan
+
+CERTIFICATIONS
+
+•	MCPD- Microsoft Certified Professional Developer (Web)                                                                     2012
+Verification: https://mcp.microsoft.com/authenticate/validatemcp.aspx  Transcript ID (1097516) Access Code (viewtranscript)
+
+PROJECTS
+
+•	Implementation/Administration of Alzaytouna Specialist Hospital Management Information System.
+•	Developed Online Doctor appointment booking portal using existing HMIS database & ASP.NET.
+•	Implementation/Administration of El-Nefeiding Holding group Retail ERP system - Including Production, distribution & POS machines - with over 5 remotes sites and Terminal servers.
+•	Administration of SAMSUNG mobile ERP System - including POS machines - with over 10 Remote branches.
+•     Development of Aswagna Business intelligence reporting tool using existing ERP database & ASP.NET to facilitate management decisions.
+•     Developing Document Tracking System at GET group.
+
+TECHNICAL & COMPUTER SKILLS
+
+•	Adobe Graphics Suit, MS Office Suit & VISIO, Dreamweaver, MS Visual Studio/TFS 2013
+•     HTML/CSS3, C#/ASP.NET 4, JavaScript, T-SQL, LINQ, ADO.NET,EF, Bootstrap, WordPress.
+•     Windows Server, VMWare Virtualization, Active Directory, Exchange Server, IIS.
+
+LANGUAGES
+
+•     English (Fluent)	•     Arabic (Native)
+
+                                                              References available upon request.
+
+
+
+
+
+
+
+
+

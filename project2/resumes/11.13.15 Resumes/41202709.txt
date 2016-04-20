@@ -1,0 +1,308 @@
+TRU?NG Ð?I H?C C?N THO
+          KHOA SU PH?M                                                        
+              ------------------
+
+                                    BIÊN B?N D? GI? CHUYÊN MÔN
+
+
+		Tru?ng :THPT Bình Minh	
+		H? & tên ngu?i d?y : Nguy?n Khánh Phuong
+		L?p : 10.12 Si s? :34 V?ng: 0		
+		Bài d?y : 
+		Ngày : 10/11 Bu?i: Chi?u Ti?t: 2		
+		Môn : Toán (Ð?i s?)
+		H? & tên GSh d? : Ph?m Van Ki?t
+
+Th?i gianN?i dung ti?t d?yHo?t d?ng c?a giáo viên
+Ho?t d?ng c?a h?c sinh
+Bài h?c kinh nghi?m
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- Các cách gi?i h? 2 phuong trình 2 ?n.
+
+- VD:
+
+
+
+
+
+
+- G?i ý:  Ðua v? h? 2 phuong trình 2 ?n.
+Gi?i:
+ 
+T? (1)=>z=2-x-y, th? vào (2) và (3) ta du?c:
+
+<=>, th? vào (1) => z=-2.
+V?y nghi?m c?a h? là (1;3;-2).
+
+- K?t lu?n: Ð? gi?i h? 3 phuong trình 3 ?n c?n ph?i tri?t tiêu 1 ?n d? dua v? h? 2 phuong trình 2 ?n.
+- Cách khác:
+H? dã cho <=>
+L?y (1)+(2), (1)+(3) ta du?c h?:
+
+
+
+Luy?n t?p.
+
+
+
+
+- BT 1.
+Gi?i h? sau b?ng phuong pháp d?nh th?c:
+
+
+Gi?i:
+D==-17
+Dx==5
+Dy==19
+Nghi?m:
+x==
+y==
+BT 2.
+Gi?i h?:
+
+Gi?i:
+H? dã cho <=>
+L?y (1)+(2), (1)+(3) ta du?c h?:
+<=>
+Thay vào (1) => z=2
+V?y nghi?m c?a h? là (4;5;2)
+- BT 3.
+Gi?i h?:
+
+Gi?i:
+L?y (1)+(2) ta du?c 2x=8 => x=4
+L?y (2)+(3) du?c 2y=4 => y=2
+Thay vào (1) => z=5
+V?y nghi?m c?a phuong trình là (4;2;5).
+
+
+
+
+
+
+
+- GV nh?c l?i bài cu
+
+
+- GV cho ví d?.
+
+
+
+
+- GV d?t câu h?i: "Có ai có ý tu?ng gi?i h? phuong trình này không?"
+
+- GV dua ra g?i ý hu?ng gi?i cho HS.
+
+- GV m?i HS lên b?ng gi?i bài t?p.
+
+
+
+
+
+
+- GV nh?n xét và s?a l?i.
+
+
+
+- GV k?t lu?n.
+
+
+- GV gi?i thi?u cách gi?i khác.
+
+
+
+
+
+
+
+
+
+
+
+- GV chép các bài t?p lên b?ng và yêu c?u HS gi?i vào t?p và n?p cho GV ch?m.
+- GV chép bài 1.
+- GV cho HS 5p làm bài.
+- GV ch?m di?m cho 2 HS n?p bài nhanh nh?t.
+- GV g?i 1 HS lên b?ng gi?i bài t?p.
+- GV s?a bài t?p và nh?n xét.
+
+
+
+
+
+
+
+
+
+
+
+
+- GV chép d? bài 2 lên b?ng.
+- GV cho HS 5p làm bài.
+- GV ch?m di?m cho 2 HS n?p bài nhanh nh?t.
+- GV g?i 1 HS lên b?ng gi?i bài t?p.
+- GV s?a bài t?p và nh?n xét.
+
+
+
+
+
+
+- GV chép d? bài 3 lên b?ng.
+- GV cho HS 5p làm bài.
+- GV ch?m di?m cho 2 HS n?p bài nhanh nh?t.
+- GV g?i 1 HS lên b?ng gi?i bài t?p.
+- GV s?a bài t?p và nh?n xét.    - HS l?ng nghe. 
+
+
+
+
+
+
+- HS phát bi?u: "Có th? gi?i b?ng phuong pháp th?"
+
+- M?t h?c sinh lên b?ng gi?i bài t?p.
+
+
+
+
+
+- HS chú ý l?ng nghe, ghi chép thông tin c?n thi?t.
+
+
+- HS ghi nh?n thông tin.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- HS chép d? và làm bài t?p.
+- HS n?p bài làm cho GV.
+- M?t HS lên b?ng làm bài.
+- HS quan sát, ghi chép.
+
+
+
+
+
+
+
+
+
+
+
+
+
+- HS chép d? và làm bài t?p.
+- HS n?p bài làm cho GV.
+- M?t HS lên b?ng làm bài.
+- HS quan sát, ghi chép.
+
+
+
+
+
+
+
+
+- HS chép d? và làm bài t?p.
+- HS n?p bài làm cho GV.
+- M?t HS lên b?ng làm bài.
+- HS quan sát, ghi chép.            
+            Xác nh?n c?a GVHD	Giáo viên d?y	                    	Ngày 07 tháng 11 nam 2015
+        				                 	 				Ngu?i d? gi?
+
+
+
+	Nguy?n Thanh Thúy	Nguy?n Van Phép			Ph?m Van Ki?t
+
+
+

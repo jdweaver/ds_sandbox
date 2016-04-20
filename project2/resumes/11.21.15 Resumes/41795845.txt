@@ -1,0 +1,35 @@
+
+Experience
+Web Application Developer	October 2010 - Present
+* Provided web support for the College of Arts & Sciences Dean's Office and 150+ departmental sites
+* Developed new sites for the College
+* Developed theme framework 
+* Handled updates to server-based Content Management Systems such as WordPress and Joomla
+* Trained and supervised team of student workers
+* Managed digital signage for the College
+Web Developer	May 2009 - September 2010
+* Server migration
+* Developed web applications and web sites
+* Trained faculty and staff in web technologies
+Lorem ipsum dolor	July 2007 - May 2009
+* Met with academic divisions to plan and design new websites
+* Built departmental websites
+* Developed WordPress templates
+* Created user documentation and tutorials
+Education
+Bachelor of Arts, University of Alabama, Tuscaloosa, AL	August 2007 - May 2009
+English major, Chemistry minor
+Skills
+* Knowledgeable in HTML, CSS, PHP, jQuery, and MySQL
+* User Interface/User Experience Design
+* Section 508 Compliance
+* Experience with cPanel and WebHost Manager
+* Adobe: Dreamweaver, Photoshop, Adobe Acrobat X
+* Experience with Content Management Systems: Wordpress, Joomla, Drupal
+* Excellent written and oral communication skills
+
+Page 2
+
+[Type text]0[Type text]0[Type text]
+
+

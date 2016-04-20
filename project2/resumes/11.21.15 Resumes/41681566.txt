@@ -1,0 +1,203 @@
+Ngo Thi Thu Huong
+[Address] Mai Trung,
+ Hiep Hoa District, Bac Giang City
+
+PERSONAL INFORMATION
+Full name		: 	Ngo Thi Thu Huong		
+Date of birth		:          29/08/2015
+Place of birth		:         Bac Giang
+Material status		:       Married    
+Mobile phone		:       84936622792
+Email                           :     huongdao.baby@gmail.com
+CAREER OBJECTIVE
+Learn more things when working in multinational companies to accumulate much experience for future promotion.
+
+EDUCATION
+* Danang University of Foreign Language (Bachelor of English) (1998-2002)
+* Foreign Trade University - Ho Chi Minh City Branch (Bachelor of Economics) (08/2005-present)
+* Certificate of Business Accounting and Tax Declaration (07/2007 - 10/2007)
+
+EXPERIENCE RECORD
+1) From 05/2007 to present	: Foreign-owned bank
+Position	: Personal Assistant  
+Key responsibilities:
+> Arrange meetings with local commercial banks for General Manager, members of Financial Institutions Department from Head Office (if required)
+> Attend the meetings and take notes of meeting minutes
+> Translate all documents in the office (including correspondence and financial statements) and from Head Office as well
+> Make payment and receipt vouchers
+> Prepare daily, monthly reports on cash on hand to submit to Finance Manager and Operations Manager
+> Arrange travel and accommodation to staff (if required)
+> Organize and store paperwork and documents
+> Other administrative duties as required by General Manager 
+
+2) From 12/2003 to 04/2007	:  Meinhardt Vietnam Limited (Australia)
+Position 	:  Administrative Staff/Assistant Project Manager
+Key responsibilities: 
+> Assist Project Manager in arranging meetings with Client, contractors and design consultants (including structural, M&E, and architectural design).
+> Attend the meetings with Project Manager (PM) and other supervisors, takes notes of meeting minutes, and deliver to all attendees
+> Receive and deliver (by courier) all drawings, correspondence from & to Client, contractors and design consultants
+> Assist Office Manager with preparing proposal, pre-feasibility & feasibility study, and capability statement to submit to Client
+> Translate all documents including technical specification, tender documents and others relating to projects
+>  Assist PM in liaising with Client, consultants in case of any queries arising from on-going projects
+> File all documents relating to the undertaking projects
+> Support Client with preparing and issuing tender documents to contractors
+
+3) From 07/2002 - 11/2003	: Project Management Unit of Saigon East West Highway Project 
+Position	: Secretary/Translator 
+Key responsibilities:
+> Do all administrative jobs in the office
+> Translate all documents (from Vietnamese to English and vice versa) relating to the on-going project
+> Attend the meetings between PMU and Consultant PCI (Japan) and take notes of the meeting minutes
+
+SKILLS
+* Fluent written and spoken English and Vietnamese
+* Computer skills - MS Word, Excel, Power Point and Outlook 
+
+
+HOBBIES
+* Reading novel and detective story
+* Listening to music 
+* Traveling
+* Shopping
+
+
+
+
+
+CÁCH TRÌNH BÀY CV 
+
+Personal details 
+Name: 	Nguyen Thi B 
+Date of Birth:	19/ 04/ 1975 
+Age:	33 
+Home Address: 
+Home phone: 
+Hand phone: 
+Personal Email: 
+Gender:	Female 
+Marital Status:	Married 
+Citizen of:	Vietnam 
+Position Applied:	Project Manager 
+
+Career Summary: 
+Jun 2001 to Oct 2005 Eaton Corporation EATON CORP., San Diego, California 
+Sr. Software Engineer/Team Leader 
+
+Feb 1998 to May 2000 Order Fusion, Inc ORDERFUSION, INC., San Diego, California 
+Software Engineer 
+
+Jun 1998 to Feb 2000 Invensys Powerware INVENSYS POWERWARE, San Diego, California 
+Software Engineer 
+
+Jun 1996 to May 1998 ORINCON, Corp., San Diego, California 
+Software Engineer 
+
+Professional Experience 
+Jun 2001 to Oct 2005 Eaton Corporation EATON CORP., San Diego, California 
+Sr. Software Engineer/Team Leader 
+
+Duties 
+- Led the team of 6 in the design, implementation, maintenance, and technical support of multi-platform bundled software for power solution system, which generated annual revenue of over $300 million. 
+- Developed requirements, analysis and design documentation for multi-platform client-server software that detects, connects and manages SNMP/USB enabled devices. Designed and coded the messaging structures and layer to serve as the sole system communication protocol. 
+- Managed bug tracking and software problem report system. Directed the team efforts to quickly reproduce, diagnose and provide solutions to related issues. 
+- Led the re-design, integration, and development of License Key Generator that distributes, translates and stores license keys for various commercial products. Incorporated and encoded license scheme to new software products, enabling software to be securely purchased online and off the shelf. 
+- Led the design and development of .NET Web Services project that allowed external distributed systems to interact seamlessly with corporate power meters and devices. Introduced technology to development group by creating proof-of-concept of system for production workflow process. 
+- Interviewed and trained new hire developers/test technicians to work effectively and efficiently in fast-paced, multi-tasking environment fast-paced, multi-tasking environment. 
+
+Project involved: (if you have) 
+Name of Project: [Project Name]
+Description of Project:	 
+Programming language: Java, ASP,	
+Tools:	
+Database:	
+Position:	
+Number of member in the project: 10-or 2 or alone
+
+Achievements: 
+(if you have)
+
+Feb 1998 to May 2000 Order Fusion, Inc ORDERFUSION, INC., San Diego, California 
+Software Engineer 
+
+Duties 
+- Analyzed and documented migration strategy to convert Enterprise B2B e-commerce software suite built with Apple WebObjects) to Java platform. Heavily involved in the code-level conversion process to translate project framework source code, design patterns and GUI layer from Objective-C to Java. 
+- Converted over 40 enterprise foundation classes from Objective-C to Java. Redesigned and rebuilt 25% of software application suite GUI in Java/Swing. Modified data structures and design patterns; and integrated converted code to n-tier project package. 
+- Researched, acquired and configured complete new set of software tools (IDE, source code control, profiler, automatic test equipment, build/install tools) for Java development staff. Interviewed and helped select candidates (developers and manager) to build up high-performance Java team. 
+- Designed and implemented Java Error Logging library, which became the error handling foundation for all OrderFusion Java projects. 
+
+Project involved: (if you have) 
+Name of Project: [Project Name]
+Description of Project:	 
+Programming language: Java, ASP,	
+Tools:	
+Database:	
+Position:	
+Number of member in the project: 10-or 2 or alone 
+
+Achievements: 
+(if you have ) 
+
+Jun 1998 to Feb 2000 Invensys Powerware INVENSYS POWERWARE, San Diego, California 
+Software Engineer 
+
+Duties 
+
+Developed Windows and Web applications for enterprise power management software. Managed software release, technical support, and bug tracking system. 
+Designed and implemented MFC/Java/Swing GUI for commercial and OEM software. 
+Projects included power management software for Uninterruptible Power System, and Compaq Web Enterprise Power Management System. 
+Developed a brand-new version of interactive web-based power management application for OEM customer using Java and Servlet technology. Designed and implemented an efficient communication and data access mechanism between web presentation layer and middleware service layer. 
+Fixed bugs and enhanced features of OEM software (written in C, C++, and Java) running on different platforms (Unix, Windows, NetWare, and OS/2). 
+Served as technical support contact between OEM clients and development staff. 
+
+Jun 1996 to May 1998 ORINCON, Corp., San Diego, California 
+Software Engineer 
+
+Duties 
+
+Coded, tested and documented signal/image processing applications running on various OS's including Mac, Windows, and different flavors of Unix). 
+Managed the entire process of software configuration and software release. 
+Served as main technical support contact for Orincon's most profitable product. 
+Developed over 25 modules of high speed digital image/signal processing architecture for data acquisition and post processing of large video/image files. 
+Integrated software modules and demos into technical proposals that helped win sub-contracts worth over $2 million from Raytheon, NASA, and Texas Instruments. 
+Converted application GUIs from UNIX (written in C) to Windows environment (MFC/Visual C++) as part of the multi-platform project. Profiled and benchmarked sub-systems, leading to optimization process and implementation that increased system performance by 25%. 
+Served as liaison between internal development staff and external clients for technical support. Coordinated staff efforts and enforced the 48-hour response time policy to customer satisfaction. 
+
+
+Project involved: (if you have) 
+Name of Project: [Project Name]
+Description of Project:	 
+Programming language: Java, ASP,	
+Tools:	
+Database:	
+Position:	
+Number of member in the project: 10-or 2 or alone
+
+Achievements: 
+(if you have)	
+
+Academic 
+1997 to 2000 Bachelor Degree of Computer Science 
+University of California, San Diego 
+
+Professional Developement 
+Operating system: Windows, Linux... 
+Database: Oracle/SQL 
+Programming languages (Web programming): Java, PHP, ASP, C#, Visual basic, 
+ERP: SAP... 
+Networking: LAN, WAN, TCP, CDMA... 
+Web server: IIS, Apache 
+Multimedia Photoshop, Corel, Dream weaver, MS Frontpage... 
+
+Skills 
+Management skills. 
+Leadership skills. 
+Advance English skills 
+Presentation skills 
+Consulting skills 
+Negotiation skills 
+
+Remuneration 
+Current salary: 1800$ Net 
+Expected salary: 2100$ Net
+3
+

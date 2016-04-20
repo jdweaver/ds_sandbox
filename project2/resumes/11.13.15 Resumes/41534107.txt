@@ -1,0 +1,10 @@
+
+In 2009 I graduated in Pharmaceutical Chemistry and Technology from the University of Cagliari, Italy, with a mark of 110/110 cum laude. The MSc dissertation project was performed between Cagliari and the University of Stockholm, and continued during five months of post-graduate internship. Successively, I spent 6 months as a Junior Researcher at CRS4. In May 2011 I started a PhD at the University of Cambridge, UK, completed in September 2014. Consecutively, I spent 10 weeks between the University of Cambridge and Unilever SEAC as Research Assistant. In December 2014 I joined the Clinical Metabolomics group at the University of Cagliari.
+
+During my career I had the opportunity to learn and apply different computational chemistry techniques. In both MSc and following internship I used Molecular Dynamics (MD) to evaluate the hydration of DNA oligomers, whereas MD was used to model Cannabinoid receptors during my experience at CRS4. The PhD instead was focused on Cheminformatics, where I studied in silico mechanism-of-action analysis of small molecules. Cheminformatics tool were also utilised to evaluate the chemical and toxicological space covered by several proprietary, public and internal libraries during the work experience at University of Cambridge and Unilever.
+
+Currently, I am working as Research Associate in the Clinical Metabolomics group at the University of Cagliari. This multidisciplinary team comprises medical doctors, biologists and medicinal chemists, and focuses on understanding the metabolic changes in biofluids and tissues caused by pathological conditions. NMR spectroscopy, GCMS spectrometry and statistical analyses are utilised to identify new biomarkers and possibly predict both prognosis and response to the therapy. Less than one year ago I joined the group as bioinformatician, with the main task of developing of an automated pipeline to deconvolute and analyse the metabolic profile of biological samples deriving from GC/MS analyses.
+ 
+
+
+

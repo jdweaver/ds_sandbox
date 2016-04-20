@@ -1,0 +1,29 @@
+NAME REMOVEDAddress, Phone Number, and Email removedSUMMARYSelf-motivated database administrator with 2.5 years of experience working with SQL Server databases in a fast paced and fast growing organization. Hardworking team player with a strong technical background and excellent communication skills, capable of learning new tasks and environments quickly. Looking to continue developing my career as a DBA and staying current with technological advancements and relational databases.QUALIFICATIONS- Installation and maintenance of SQL Server 2005, 2008 R2, 2012, and 2014 instances.
+- Proficient in database backups and restores using built-in SQL Server functionality as well as the Idera SQL Safe utility.
+- Experience in High Availability using Availability Groups, Database Mirroring and Log Shipping.
+- Expertise in security, focusing on least privilege. Utilization of SQL Server and Windows authentication methods.
+- Proficient with ETL functionality and data movement utilizing SSIS, replication, SSMA, and the Import/Export Wizard.
+- Proficient in SSRS configuration, report deployments, and troubleshooting.
+- Experience with T-SQL in developing and maintaining tables, stored procedures, views, and functions.
+- Experience in performance tuning and query plan analysis.
+- Proficient in index utilization and maintenance tasks.
+- Experience with SSIS package creation and deployment to Integration Services and the SSISDB catalog database.WORK EXPERIENCEAdministrator - Database & Applications I9/18/2013 - CurrentCompany name removed 
+Work in a team of three to maintain the organization's SQL Server environments, consisting of over 50 instances with databases reaching upwards of 4TB in size. I have worked through multiple SQL Server version upgrades to utilize new features and remain within the active Microsoft support periods. I work daily to keep an Operational Data Store as close to real-time with the source systems as possible for reporting purposes and additional processing, this is handled by maintaining replication between multiple SQL Server environments and utilizing SSIS packages. I have become the primary contact for SSRS deployments and troubleshooting, both to Reporting Services servers as well as integration with SharePoint. I work closely with the Windows System Administrators to clean up individual Windows logins on the databases to focus on groups administered through Active Directory for higher security and easier expandability. Took on extra responsibilities that include:
+- Key custodian and administrator of hardware security modules (HSMs) to provide secure credit card processing from mobile platforms.
+- Performed administration duties of the company's campaign platform utilizing IBM's UNICA software.IT Support Services Specialist5/8/2012- 9/18/2013Company name removed 
+Maintained the donor management application. I handled the creation and assignment of security privileges for user accounts within the application. I also took care of the job scheduling within the application, and was responsible for execution of the monthly and yearly fiscal processing. Handled Oracle stored procedure deployments, table and view creation, and Korn Shell script deployments to the Linux servers hosting the application. I was the IT contact for bank file transmissions and FTP processes, and created the documentation and data flow diagrams for these processes to be used as resource material and for Lunch-and-Learn exercises. Took on extra responsibilities that include:
+- Assisted with SSRS report deployments for reports converted from Oracle to SQL Server.
+- Utilization of SSMA (SQL Server Migration Assistant) to convert Oracle databases to SQL Server for data replication as migration began of applications to utilize SQL Server instead of an Oracle backend.
+Help Desk Specialist9/27/2010 - 5/8/2012Company name removed
+Frontline support for all users within the organization. I troubleshoot and document all hardware and software issues that come through and escalate appropriately if needed. I use Active Directory on a daily basis to maintain user accounts, I image and profile laptop and desktop computers for employees on new hardware rollouts or replacements, and I also report and track issues pertaining to the donor database. Took on extra responsibilities that include:
+- Assisted in regional office equipment upgrades. Upgraded desktops, laptops, docking stations and monitors as well as ensured productivity and antivirus software were up-to-date and functional.Level 2 Senior Analyst8/16/2010 - 9/24/2010Company name removed 
+Acted as a point of escalation for Level 1 support. I provided support for layer 2 switches and wireless access points throughout hundreds of hotels. I maintained latency integrity on network equipment and balanced bandwidth allocation to the hotel guests. Took on extra responsibilities that include:
+- Created and maintained port map layouts for troubleshooting hotel networking equipment.Level 1 Help Desk Analyst10/6/2008 - 8/13/2010Company name removed 
+Initial contact providing level 1 support. I provided accurate and easy to follow troubleshooting steps for hotel guests experiencing both wired and wireless networking issues. Created, updated, and deleted MAC address entries for devices connecting to the hotel network. Took on extra responsibilities that include:
+- Tested upgraded GUI for the software used to manage connections on the hotel networks.
+EDUCATION AND CERTIFICATIONS
+School name removed 
+Bachelor of Science in Information Technology - March 2012
+
+Microsoft MCTS: Windows 7, Configuration
+CompTIA Security+, Network+, A+ 

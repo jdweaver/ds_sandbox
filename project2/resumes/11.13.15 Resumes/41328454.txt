@@ -1,0 +1,34 @@
+OBJECTIVEMotivated and dedicated IT professional seeks a rewarding new role with increased responsibilities working on exciting projects with talented, motivated people.SKILLS PROFILE- Three years commercial experience working in all aspects of the software lifecycle
+- Experience taking a product from initial idea to delivery
+- Excellent knowledge of C# and the .NET framework using LINQ, delegates, reflection, generics, iterators, extension methods and dynamic binding
+- Experience of Agile Development especially Scrum
+- Good knowledge of Version Control systems including Mercurial and SVN
+- Experience of using TeamCity, Rhino Mocks, CCTray, Zendesk, Resharper, MSTest, NUnit and RedGate tools
+- Working knowledge of database's and using SQLite with an application
+- Undertaken pre-sales tasks to help out new team
+- Basic skills in using Linux and developing multi-platform C# applications
+- Experience using design patterns in commercial applications
+- Strong oral and written communication skills
+- Works well both in a team and individually to meet deadlines
+
+QUALIFICATIONS
+
+University of Strathclyde
+MEng Computer Science with Merit                                                                                                                               2005-2010
+James Hamilton Academy
+2 Advanced Highers, 7 Highers and 8 Standard Grades                                                                                          1999-2005EMPLOYMENT HISTORYSciencesoft
+Software Development Engineer7/5/2010 - Present- Worked in Pre-Sales demonstrating at exhibitions for a new product
+- Developed company interview pack, interviewed applicants for all new positions in R+D department
+ and mentored new employees
+- Worked on new products making architecture decisions from initial requirements gathering to delivery of first version.
+First developer brought in to start work on a new product line using C# to build 64bit applications for the oil and gas industry. Products allow large datasets of text and binary data to be visualised and manipulated which manage to get around the 2GB object size limit in .NET. With the product, S3control, I have worked on the entire development lifecycle and linked in closely with the pre-sales and sales department to work closely with our clients to bring in new business through new sales and maintenance contracts. From my business experience in employment which at university I promoted the business consequences to all the work done by the department to counter over enthusiastic team members working on special projects. 
+
+ My day to day responsibilities include writing initial specifications for new products, implementing new features and writing unit tests. Continuous integration is done on each commit as well as on nightly builds with any issues being sorted each morning before the daily scrum standup meetings. Finally an amount of time each day is spent on support of clients and current trials. This can involve bug fixes as well as contacting clients to train and listen to suggestions for future updates.
+
+Working in an SME I have had the opportunity to be involved in a variety of interesting tasks. Before the release of S3control I went to a large convention in Denver Colorado for the oil and gas engineers to work on our stand to reveal the product to the market. Additionally, I have taken my experience of management to develop a range of materials to help grow the team of developers in the R+D department include placing adverts in newspapers and on our company website. Graduates and interns which were recruited would then be mentored closely in the initial few months. Code reviews were regularly carried out and advice given if required.
+
+Domino's Pizza                                                                                                                          2007-2010
+Assistant Manager
+- Led a large team in a busy high energy environment
+- Worked on increasing sales and improving product quality
+Started working as a driver before moving to work in the shop as part of the team fulfilling pizza orders. I realised doing this that I wanted to lead teams and run shifts. With intensive training I got fully approved to manage a retail shop and got the position of Assistant Manager in a struggling shop. This allowed me to lead a team of 30 from the ages of 16-60 and develop a range of unique soft skills to drive sales and motivate a unique group of people.

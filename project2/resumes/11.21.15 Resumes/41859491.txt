@@ -1,0 +1,91 @@
+*As my resume does not reflect my exemplary communication skills, please feel free to contact me directly. My interpersonal skills and adeptness in dealing with a varied range of personality types is what sets me apart from other incumbents.  
+
+Profile
+10+ years in corporate IT supporting all levels of users 
+Broad range of enterprise and SMB technology skills
+Exemplary communication and interpersonal skills
+Deep understanding of how technology drives the bottom line
+
+Selected Accomplishments
+Problem:	Desktop environment not patched to comply with PCI requirements
+Solution:  	Researched, deployed and administered a 3rd party patching solution
+Result:		Patching compliance near 95%. PCI auditors rejoice!
+
+Problem: 	Maintaining and deploying images across multiple hardware platforms consumed excessive resources.
+Solution:	Implemented a hardware independent imaging solution. 
+Result:		Maintenance and deployment man hours reduced by over 50%. Imaging computers becomes fun! 
+
+Problem:	Email overload. Time sensitive communications lost in overtaxed inboxes or not routed to key personal.  
+Solution:	Introduction of an enterprise class micro-blogging tool.
+Result:	Key information now freed from inboxes. Transparency soars. Adoption rates grow exponentially!	   
+
+Problem:	Software deployment through GPO failing. End users lack correct software, workflow interrupted
+Solution:	Software distribution via GPO replaced.
+Result:		Software deployment success rate exceeds 95%. End users believe IT dept can do anything!
+
+Problem: 	Geographically dispersed offices. Instant messenger and email communications proving inadequate
+Solution: 	Coordinated the implementation of an enterprise grade HD video conference system.
+Result:		Video replace audio calls. HD enables users to see the flaky croissants in France they're missing.
+
+Technical Skills And Knowledge
+Desktop : 	Windows 2000, Windows XP, Windws Vista, Windows 7. Microsoft Office 2003-2010, Citrix, VMWare WorkStation, VMware Fusion,  Microsoft Virtual PC, Microsoft Lync, DeltaView, Trend Micro AV, Viper AV, TAM Document Management System, Hummingbird Document Management System, 
+
+Server: 	Windows Server 2003-2008 R2, Active Directory, Group Policy, DHCP, DNS, Sonicwall Firewalls, Blackberry Enterprise Server, Veritas NetBackup,  StorageCraft Shadow Protect, Microsoft Exchange, Microsoft WSUS, VMWare Server, Windows Deployment Services, Microsoft Hyper-V,  Scriptlogic Helpdesk Authority, Shavlik Patch Management, SmartDeploy Enterprise Imaging, Vipre Antivirus 
+
+Mobile:	Android, iOS, Blackberry
+
+
+Employment History
+CMIT Solutions, Stamford CT
+10.2011 - Present	Service Delivery Manager, Lead Engineer
+* Managed service provider serving the greater Stamford, CT business community
+* Upgrade and maintain Windows networks of 5-75 users across 20+ businesses using industry best practices
+* Develop and deploy Business Disaster Recovery systems to ensure system uptime and data integrity
+* Perform network / systems audits to identify single points of failure and security vulnerabilities
+* Update clients with monthly executive level reports; Produce IT spending roadmaps and upgrade paths
+* Ensure SLA compliancy using web based ticketing system
+* Quote & procure equipment / software / licenses per client requests
+* Document clients networks, inventory and critical business systems
+
+Vertrue Inc. Norwalk CT
+01.2009 - 10.2011	Technology Services, Site Manager, Lead Analyst
+* Maintain the desktop / server environment (40 Servers, 250+Desktops).
+* Monitor and deploy patches, update antivirus,
+* Respond to end user requests in accordance with in place SLA's
+* Attend daily change management meeting. 
+* Create and maintain corporate gold image, deploy as requested. Deploy software
+* Meet with CIO to discuss ongoing issues / concerns
+* Coordinate onboarding / offboarding with HR department,
+* Troubleshoot and resolve escalated level 2&3 issues
+* Plan equipment budgets. 
+
+03.2007 - 01.2009:	Lead Technology Analyst
+03.2006 - 03.2007:	Technology Analyst
+12.2005 - 03.2006:	Technology Associate  
+
+BuzzQuotes, Rockville Centre NY
+12.2003 To 11.2005:	Systems Administrator / PPC Campaign Organizer
+
+Infinity Consulting:
+11.2001 To 11.2003:	Systems Administrator
+
+Westchester Restaurant Supply:
+04.1998 To 09.2001:	Systems Administrator / Website Administrator
+
+Education
+Syracuse University 1992-1994
+Skidmore College Computer Career Institute 2001-2002
+
+
+
+Christopher Silano
+
+
+
+
+
+
+
+
+
+

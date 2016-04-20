@@ -1,0 +1,52 @@
+
+Qualifications_______________________________________________________________________
+? Strong knowledge of configuration and architecture of the Dayforce HCM application.
+? Understanding of how memory and learning works through my studies in psychology.
+? Numerous years of working with students teaching a multitude of subjects using creative
+methods to suit various learning styles. 
+? Received positive client feedback including recognition from David Ossip.
+Education__________________________________________________________________________
+University of Toronto - H.B.Sc. Computer Science & Psychology with Distinction                              2010 - 2014
+? CGPA: 3.33
+? Dean's List
+Work Experience____________________________________________________________________
+Ceridian Dayforce HCM - Application Analyst						   2014 - Present
+? Provide technical support for Dayforce HCM - a cloudbased, SaaS solution 
+for HR/Payroll.
+? Reconfigure the application to implement requests by clients such as 
+custom reports, creating custom files for importing/exporting, and ensuring 
+system configurations abide to each client's unique policies.
+? Clarify and walk through configurations with clients through virtual meetings 
+to help them better understand the Dayforce application.
+? Received positive client feedback from numerous clients on their experience 
+with support as a result of my interaction with them.
+Instaedu - Online Tutor						                                          2014 - Present
+? Teach and assist students from high school to university through various
+subjects using a virtual lesson space.
+? Over 150 positive reviews from students.
+Kumon - Academic Instructor 								    2006 - Present
+? Assist students in math varying from simple arithmetic to calculus.
+? Record student's progress weekly in their subject of study.
+University of Toronto - Research Assistant                                                                                                 2014
+? Document requirements and develop programs to be run during 
+cognitive neuroscience experiments.
+? Developed tools to track motion of participants and integrate programs
+with functional magnetic resonance imaging (fMRI) techniques.
+Celestica - IT Business Operations Analyst 						                    2012 - 2014
+? Investigated current system (Lotus Notes) and migrated databases to the
+Google Apps platform.
+? Developed business applications to improve IT & Finance project
+management processes by creating requirements and conducting multiple
+User Acceptance Tests to ensure correctness of the solutions implemented.
+? Developed project portfolio dashboards using Google Apps Script to be
+used by global IT.
+Ryouko Martial Arts - Stunt Performer/Choreographer 					         2005-2009
+? Performed and choreographed shows for major events in Toronto.
+Skills______________________________________________________________________________
+
+Proficient in HTML, CSS, Javascript, SQL, Python, Java, C/C#/C++, shell scripting, and R.
+Experience working in Windows, Mac OS X, and Unix Environments
+Sound knowledge of the Software Development Cycle
+Software: MS Office, Visual Studio, Unity3D, SQL Server Management Studio, SQL Server Profiler, SQL Sentry
+
+References Available Upon Request

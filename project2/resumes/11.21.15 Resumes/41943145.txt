@@ -1,0 +1,8 @@
+Create web based software products, forms and templates for large print applications.
+Develop software to monitor communications networks utilizing object oriented design principles.
+Strong knowledge of C, C++, Swing, RMI and network communications programming.
+Design programs in Java, HTML, XML with Javascript and JQuery.Automate processes and problem resolution to enhance productivity of existing computer systems.
+Review systems capabilities, workflow and limitations in order to design programs to improve performance.
+Analyze business requirement and develop best practices within the framework.
+Evaluate programming code for efficiency, debugging and quality assurance.
+Develop and maintain technical documentation, guidelines and procedures.

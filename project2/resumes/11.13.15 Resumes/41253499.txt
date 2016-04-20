@@ -1,0 +1,23 @@
+
+SUMMARYSoftware Developer offering five years leading cross-functional teams and completing projects on strict time lines. Seamlessly manages workload to meet deadlines while bringing superior design and debugging capabilities, innovative problem solving skills and dedication to quality.SKILLS & ABILITIES* Proficient with XML, XPATH, HTML, CSS, XSLT, C#, C++, AngularJS, NodeJS and JavaScript
+* MS Windows, MS Office, MS Excel, MS Visio, Visual Studio, Eclipse, LAMP Stack
+* Agile and waterfall development methodologiesEXPERIENCELEAD DEVELOPER - THE STERITECH GROUP, INC.
+April 2013-Present
+* Managed and trained lower level software developers.
+* Provided daily status updates during critical sprints and helped manage resourcing to ensure goals were met.
+* Managed the road map for product design and development.
+* In-house developer for Rapid Development client enhancements/requests that would normally be handled by vendor. Included C# development for code automation and XSLT/XML for building reports.
+* Selected to be a member of an 'Innovations Team' which rapidly develops and prototypes new ideas for the business. First project was Google Glass use within the business, prototype app was developed using the Google GDK.
+* Used AngularJS to create a front end for an internal notification builder that integrated with a Ruby back end created by another team member.
+DEVELOPER II - THE STERITECH GROUP, INC.
+July 2010-April 2013
+* Converted web-based audit forms from a legacy auditing system to a new proprietary system using a proprietary language (XML, HTML, XPATH Hybrid)
+* Transformed BRDs into audit forms by following established standards or implementing creative solutions when no precedent was available.
+* Coordinated with QA testers for end-to-end unit testing and post-production testing.
+* Joined the team when there were 1,000 audits on the one year old system; expanded the system to where it is today with +150,000 audits.
+* Awarded two World Class Service Awards for exceptional performance.EDUCATIONUNIVERSITY OF NORTH CAROLINA AT CHARLOTTE	2010
+Bachelor of Arts: Computer Science
+WESTERN PIEDMONT COMMUNITY COLLEGE	2005
+Associates of applied science: computer engineering
+Page 2
+

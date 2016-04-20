@@ -1,0 +1,257 @@
+
+Academic Employment	Information School, University of Sheffield, UK.
+			Lecturer in Data Science.
+       Aug 2014 - now
+       
+       eXascale Infolab, University of Fribourg, Switzerland.
+			Post-doctoral researcher.
+       May 2011 - July 2014.
+       
+       L3S Research Center, University of Hannover, Germany.
+       Junior Researcher.
+       Mar 2006 - Apr 2011.
+
+Internships and Visits	AMPLab, UC Berkeley, CA, USA.					           Summer 2012.
+				With Michael J. Franklin, Tim Kraska, Beth Trushkowsky on crowdsourced query understanding.
+
+    Yahoo! Research, Barcelona, Spain.				           Summer 2009.
+				With Hugo Zaragoza and Roi Blanco on Time-aware Entity Ranking in news articles.
+
+Academic Education	Leibniz University of Hannover, Germany.
+Ph.D. in Computer Science (Dr. rer. nat.)
+Supervisors: Wolfgang Nejdl, Arjen P. de Vries.
+Title: "From People to Entities: Typed Search in the Enterprise and the Web".
+Apr 2006 - Apr 2011.
+Summer School participation: "Multimedia Semantics" (2006), and "Advanced Retrieval and Web Mining" (2007).
+       
+       University of Udine, Italy.
+       M.Sc. (cum laude) in Computer Science
+       Supervisor: Stefano Mizzaro.
+       Dec 2003 - Dec 2005.
+       Summer School participation: "Information Retrieval" (2005).
+       
+       University of Udine, Italy.
+       B.Sc. in Computer Science
+       Supervisor: Alberto Policriti.
+       Oct 2000 - Dec 2003.
+
+Research Interests	Crowdsourcing for Human Computation, Information Retrieval, Semantic Web.
+
+Honors and Awards	
+* Invited at the Facebook Faculty London Summit, 2015.
+* Outstanding Early Career Research Achievement Award by the University of Sheffield Faculty of Social Sciences, 2015.
+* Selected for the "Future Academic Leaders Programme" at the University of Sheffield, 2015.
+* Nominated for a University of Sheffield Faculty Learning and Teaching Award, 2015.
+* Nominated for Best Research Paper at the ISWC 2013 conference. Top 2%.
+* Third place at the "Semantic Web Challenge 2013" with "B-hist: Entity-Centric Search over Personal Web Browsing History". Top 18%.
+* Selected for the 1st Heidelberg Laureate Forum, 2013.
+* "Crowdsourcing for Multimedia Ideas Competition" award at CrowdMM 2013.
+* Best Demo Award at the ISWC 2011 conference. Top 1%.
+* 2nd most Outrageous Idea Award at the ISWC 2011 conference. Top 8%.
+* PhD dissertation award - "Diploma Thesis Award 2011", Semiramis Research and Service Unit.
+* 3rd Best Paper Award at the LA-WEB 2009 conference.
+* Selected for the IBM EMEA Best Student Recognition Event 2006.
+* World Finalist (representing Italy) at Microsoft Imagine Cup 2005 Software Eng competition.
+* Finalist at the Italian Microsoft Imagine Cup 2004, 2005, 2006, 2007.
+Research Themes	
+* Entity-Centric Information Access: Improving search engines and Web browsing using entities.
+* Hybrid Human-Machine Data Analysis: Improving machine-based data analysis systems leveraging human computation at scale.
+* Next Generation Crowdsourcing Platforms: More efficient and effective crowdsourcing platforms.
+* Social Computing: Using user-generated content and activities to improve Web user experience.
+
+Selected Publications
+
+Crowdsourcing: Hybrid Human-Machine Systems for Data Analysis
+[omitted]
+       
+Entity-Centric Information Access 
+[omitted]
+Grants
+* EPSRC First Grant (PI, 120'000GBP) "BetterCrowd: Human Computation for Big Data", 2016-2017.
+* AHRC Collaborative Doctoral Partnership (Co-I, 70'000GBP) "Investigating entity-centric methods for information exploration and discovery in big digital archives", 2015-2018.
+* Sheffield Methods Institute Fund (720GBP) "Crowdsourcing Social Science Data Analysis", 2015.
+* ESF ELIAS STSM Travel grant for a research visit at U Udine, Italy, 2015.
+* iSchool Internal Seed Grant (2'300GBP) "Crowdsourcing for Big Data", 2015.
+* Amazon AWS in Education Grants (2'500USD), 2015.
+* MUMIA STSM Travel grant for a research visit at CWI, Amsterdam, The Netherlands, 2013.
+* Co-author of a Google Faculty Award proposal on Crowdsourcing, 2013.
+* International Short Visits grant from the Swiss National Science Foundation (SNSF), 2012.
+* ACM Student Travel grant to attend SIGIR 2010.
+* Co-author of a EU FP7 IP funding proposal (approx. 6.2 Mio. Euro overall, with an L3S share of 1.1M Euro for a period of 3 years), 2009.
+* First place for the scholarship promoted by INSIEL S.p.a. in July 2005 (http://www.insiel.it/).
+
+Invited Talks & Tutorials
+Invited Talks
+* "Crowdsourcing for Data Processing and Search" - Half-day tutorial at Search Solutions 2015, London, UK.
+* "Crowdsourcing for Entity-centric Information Access" - Keynote at AINL-ISMW 2015, St Petersburg, Russia, 2015.
+* "Leveraging n-gram statistics for grammatical correction and entity recognition" - Invited talk at Facebook, London, UK, 2015.
+* "Crowdsourcing for Entity-centric Information Access" - Keynote at KDWeb, Cagliari, Italy, 2015.
+* "The randomForest package" - Sheffield R Users Group, 2015.
+* "MSc Data Science at the University of Sheffield" - Open Data Science Meetup, U Sheffield, 2014.
+* "Entity-Centric Information Access" - NLP Group seminar, U Sheffield, 2014.
+* "Human Computation: Machines are not enough" - Ignite Academy, U Sheffield, 2014.
+* "Crowdsourcing is for the tail" - Dagstuhl Seminar 14282 - Crowdsourcing and the Semantic Web, 2014.
+* "Human Computation for Big Data" - CUSO Seminar on Big Data, Fribourg, 2014.
+* "Entities, Graphs, and Crowdsourcing for better Web Search" - UvA, Amsterdam, The Netherlands, 2013.
+* "Workshop on Crowd-Sourcing" - Heidelberg Laureate Forum, Heidelberg, Germany, 2013.
+* "Next-Generation Micro-task Crowdsourcing Platforms" - Dagstuhl Seminar 13361 on Crowdsourcing: From Theory to Practice and Long-Term Perspectives, 2013.
+* "Entities, Graphs, and Crowdsourcing for better Web Search" - USI, Lugano, Switzerland, 2013.
+* "Getting Semantics from the Crowd" - Dagstuhl Seminar on Semantic Data Management, 2012.
+* "Current Approaches to Search Result Diversification" - Search Computing Workshop, Milano, Italy, 2010.
+
+Tutorials
+* "Crowdsourcing for Data Processing and Search" half-day tutorial at Search Solutions, London, 2015.
+* "Improving the quality of crowdsourced annotations" tutorial at IEEE AINL-ISMW 2015, St.Petersburg, Russia, 2015.
+* "Leveraging Knowledge Graphs for Web Search" - RuSSIR 2015 course (8 hours), St Petersburg, 2015.
+* "Micro-task Crowdsourcing" - PhD course (14 hours) at U Udine, 2015.
+* Full-day tutorial "Microtask crowdsourcing to solve Semantic Web problems" at ISWC 2013 with Elena Simperl and Maribel Acosta. (https://sites.google.com/site/microtasktutorial/).
+* Full-day tutorial "Crowdsourcing for the Semantic Web" at ESWC 2013 with Elena Simperl and Maribel Acosta. (https://sites.google.com/site/crowdsourcingtutorial/).
+* Full-day tutorial "From Expert Finding to Entity Search on the Web" at ECIR 2012 with Peter Mika, Thanh Tran, and Arjen P. de Vries. (http://diuf.unifr.ch/main/xi/EntitySearchTutorial/).
+       Public Engagement Activities
+* "The power of Big Data", Café Scientifique, Sheffield, 2015.
+* "What is Big Data and why should we care?" talk for Mobile University, Sheffield, 2015.
+Invited talk at the University of Sheffield Ignite Academy titled "Human Computation: Machines are not enough" for the Festival of the Mind 2014 (http://festivalofthemind.group.shef.ac.uk/).
+Community activities	
+       Organizer
+* Human Computation and Crowdsourcing Track at the Extended Semantic Web Conference (ESWC 2015)
+* Member of the Local Organization team for CLEF 2014, Sheffield.
+* Entity Ranking Track at the 9th Initiative for the Evaluation of XML Retrieval (INEX 2009).
+* Entity Ranking Track at the 8th Initiative for the Evaluation of XML Retrieval (INEX 2008).
+       Journal Editorial Board Member
+* Journal of Web Semantics, Elsevier, 2015-2016.
+
+Senior Program Committee Member
+* Senior PC member of the International Conference on Web Engineering (ICWE), 2016.
+* ACM International Conference on Information and Knowledge Management (CIKM), 2015.
+
+Program Committee Member
+* International Joint Conference on Artificial Intelligence (IJCAI), 2016.
+* Content Analysis track at the World Wide Web Conference (WWW), 2016.
+* International Workshop on Benchmarks for Ubiquitous Crowdsourcing: Metrics, Methodologies, and Datasets (Crowdbench) at IEEE PERCCOM 2016.
+* Workshop on LINKed EDucation at the ISWC, 2015.
+* Empirical Studies and Experiments track of the International Semantic Web Conference (ISWC), 2015.
+* Workshop on Exploiting Semantic Annotations in Information Retrieval (ESAIR) at CIKM, 2015.
+* ACM SIGIR International Conference on the Theory of Information Retrieval (ICTIR), 2015.
+* International Symposium on String Processing and Information Retrieval (SPIRE), 2015.
+* Symposium on Data-Driven Process Discovery and Analysis (SIMPDA), 2015.
+* International Conference on Knowledge Discovery and Information Retrieval (KDIR), 2015.
+* International Workshop on the Theory and Practice of Social Machines (SOCM) at WWW, 2015.
+* Social Web Applications track at the International Conference on Web Engineering (ICWE) 2015.
+* ACM International Conf. on Research and Development in Information Retrieval (SIGIR), 2012-2016.
+* Social networks and graph analysis track at the World Wide Web Conference (WWW), 2013-2014.
+* The International AAAI Conference on Weblogs and Social Media (ICWSM) 2014.
+* Research track of the International Semantic Web Conference (ISWC), 2012.
+* Replication, Benchmark and Data Track of the International Semantic Web Conference (ISWC), 2014.
+* International Joint Conference on Artificial Intelligence (IJCAI), 2013.
+* Extended Semantic Web Conference (ESWC), 2013-2016.
+* ACM International Conference on Information and Knowledge Management (CIKM), 2011,2014.
+* International Workshop on Social Media in Crowdsourcing and Human Computation at SocInfo, 2014.
+* International Conference on Advances in Semantic Processing (SEMAPRO), 2014-2016.
+* "Crowdsourcing" Session at the Int. Conf. on Communications and Electronics (ICCE), 2014-2015.
+* "Computational Science and Computational Intelligence" Session at the Int. Conf. on Advanced Technologies for Communications (ATC), 2014.
+* CIKM 2012 City Data Management 2012 Workshop.
+* SIGIR 2012 1st Joint International Workshop on Entity-oriented and Semantic Search, 2012.
+* SIGIR Workshop on Time-aware Information Access (TAIA), 2012-2015.
+* Artificial Intelligence meets the Web of Data Workshop at ECAI 2012 and ESWC 2013.
+* International Workshop on Learning and Education with the Web of Data at WWW (LILE), 2012-2016.
+* European Conference on Information Retrieval (ECIR), 2012-2014.
+* First International Workshop on Entity-Oriented Search (EOS) at SIGIR, 2011.
+* Posters and Demonstrations Track of the 9th Intern. Semantic Web Conference (ISWC), 2010.
+* Personal Information Management (PIM) Workshop 2009, 2012.
+       
+       Reviewer for Journals
+* IEEE Transactions on Services Computing (TSC), 2015.
+* Information Processing & Management (IPM), 2015.
+* Information Research, 2015.
+* Information Systems, Elsevier, 2015.
+* Knowledge-Based Systems, Elsevier, 2015.
+* Engineering Applications of Artificial Intelligence, Elsevier, 2015.
+* ACM TIST Special Issue on Crowd in Intelligent Systems, 2015.
+* Semantic Web journal (SWJ) Special Issue on Human Computation and Crowdsourcing (HC&C), 2015
+* Semantic Web journal (SWJ) Special Issue on Ontology and Linked Data Matching, 2014.
+* Journal of Machine Learning Research (JMLR), 2014.
+* International Journal of Human-Computer Studies (IJHCS), 2014.
+* ACM Transactions on Information Systems (TOIS), 2014.
+* Special Issue of the Journal of Distributed and Parallel Databases (DAPD) on "Databases and Crowdsourcing", 2014.
+* Journal of Computer Science and Technology, Springer, 2014.
+* IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2014-2015.
+* ACM Transactions on the Web (TWEB), 2013-2015.
+* Special Issue of the Journal of Web Semantics on "Semantic Search", Elsevier, 2013.
+* Special Issue of the Journal of Web Semantics on "Semantic Web Challenge 2013", Elsevier, 2014.
+* Journal of Data and Information Quality (JDIQ), 2013, 2015.
+* Majlesi Journal of Electrical Engineering (MJEE), 2013.
+* IEEE Transactions on Knowledge and Data Engineering (TKDE), 2012.
+* Springer book series: "Theory and Applications of Natural Language Processing", 2012.
+* Information Retrieval, Springer, 2012, 2015.
+* Interactive Learning Environments, Routledge, 2012.
+* Journal of Web Engineering (JWE), Rinton Press, 2012.
+* IEEE Computational Intelligence Magazine, 2011.
+* Knowledge and Information Systems Journal (KAIS), Springer, 2011.
+* Artificial Intelligence Journal (AIJ), Elsevier, 2010-2011.
+* Journal of the American Society for Information Science and Technology (JASIST), 2010.
+* Journal of Network and Computer Applications, Elsevier, 2010.
+* International Journal of Web Information Systems, Emerald, 2009.
+       
+       External Reviewer for Conferences
+* ACM CHI 2015 alt.chi track, 2015.
+* International Conference on Information Systems (ICIS) 2014, IC Design Science Track.
+* Research track of the 12th International Semantic Web Conference ISWC 2013.
+* AAAI Conference on Artificial Intelligence (AAAI-13).
+* 1st International Workshop on "Crowdsourcing the Semantic Web" at ISWC 2013.
+* Demo Track of the 38th International Conference on Very Large Databases VLDB 2012.
+* Semantic Web Track of the 21st International World Wide Web Conference WWW 2012.
+* Research Track of International Conference on Extending Database Technology EDBT 2012, 2013.
+* In-Use Track of the 10th International Semantic Web Conference ISWC 2011.
+* Poster Track of the International World Wide Web Conference WWW 2008, 2013.
+* Poster Track of the 31st International ACM SIGIR 2008 Conference.
+       
+       Session Chairing at Conferences
+* "Crowdsourcing & Web Science" Session at ESWC 2015.
+* "Crowdsourcing 1" Session at WWW2014.
+* "Social and Collaborative Semantics" Session at ISWC 2012.
+
+       Reviewer for Funding Bodies
+* UK Engineering and Physical Sciences Research Council (EPSRC), 2014-2015.
+* UK Arts & Humanities Research Council (AHRC), 2014.
+* The German Academic Exchange Service (DAAD), 2015.
+* 
+Teaching
+* Module leader of "Data Mining and Visualisation" 2015/2016 for MSc Data Science, U. Sheffield.
+* Teacher for Module "Introduction to Data Science" 2015/2016 for MSc Data Science, U. Sheffield.
+* Module leader of "Data Mining and Visualisation" 2014/2015 for MSc Data Science, U. Sheffield.
+* Teacher for Module "Introduction to Data Science" 2014/2015 for MSc Data Science, U. Sheffield.
+* Leader for Module "Social Computing" 2013/2014 for the MSc in Computer Science, U. of Fribourg.
+* Leader for Module "Social Computing" 2012/2013 for the MSc in Computer Science, U. of Fribourg.
+* Teacher for Module "Social Computing" 2011/2012 for the MSc in Computer Science, U. of Fribourg.
+* Guest teacher for Module "Web Science" 2010/2011 at the Leibniz University of Hannover.
+* TA for "Artificial Intelligence II" 2008/2009 at the Leibniz University of Hannover.
+
+University Administration Roles
+* Deputy program coordinator of "MSc Data Science" 2014-2016, U. Sheffield.
+* Strategy group member, Information School, U. Sheffield.
+
+Mentorship	As a Lecturer at the University of Sheffield I am supervising Ph.D. students as well as M.Sc. dissertation projects. During my PhD and post-doc, I have advised and mentored undergraduate, master, and PhD students. Additionally, I have supervised M.Sc. thesis and 30+ Social Computing student projects at the University of Fribourg.
+
+       Current Ph.D. Students
+* Wasim Ahmed, "Using Twitter data to provide insights into general and specific health conditions and health related events", started in October 2014.
+* Philip Webster, "Investigating entity-centric methods for information exploration and discovery in big digital archives", started in October 2015.
+* Mengdie Zhuang, "Modeling User Actions based on Process", started in October 2015.
+       
+       External Examiner for Ph.D.
+* Michele Catasta, "Memory-based Information Systems", EPFL, Switzerland, 2015.
+* Djellel E. Difallah, "Quality of Service in Crowd-Powered Systems", U Fribourg, Switzerland, 2015.
+
+       M.Sc. Thesis Supervision
+* Supervisor of 10 MSc dissertations (6 in Data Science, 2 in Information Management, 1 in Information Systems, 1 in Information Systems Management) at the University of Sheffield, UK during 2014/2015.
+* Supervisor of 7 MSc Computer Science dissertations at the University of Fribourg, Switzerland during 2011-2014.
+
+EU Project Participation
+* EU FP7 Arcomem project (http://www.arcomem.eu).
+* EU FP7 LivingKnowledge project (http://livingknowledge.europarchive.org/).
+* EU FP7 Okkam project (http://fp7.okkam.org): "Enabling the Web of Entities".
+* EU FP7 Nepomuk project (http://nepomuk.semanticdesktop.org): "The Social Semantic Desktop". WP Leader.
+
+Programming Skills
+* Languages: Java, C#, Python, R, SQL, PHP, C, Scheme, Prolog 
+* Scripting / Formatting: LATEX, HTML, JS, CSS, Bash 
+* Operating Systems: Mac OS X, Linux (Ubuntu), Windows XP/Vista/7/8/10. 

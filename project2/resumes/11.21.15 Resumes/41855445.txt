@@ -1,0 +1,60 @@
+Curriculum Vitae
+John Doe                                              
+Address: XXX Street
+Email Id:  sender@host.com
+Mobile: +XXXXXXXXXXXX
+PERSONAL DETAILS:
+01. Name of the Applicant/Candidate:  John Doe
+02. Father's Name			        : Mr. John Smith
+03. Mother's Name		        	        : Mrs. Jane Doe
+04. Sex				        : Male
+05. Date of Birth			        : 18th October,1990
+06. Blood Group			        : O+
+07. Nationality			        : Indian
+08. Religion			        : Hindu
+09. Carrier Objective		        : To work in a creative and challenging environment,where i can constantly learn and successfully solve the problems and have broader chances of career growth.                                   .
+Educational Qualification
+
+YearExaminationBoard% of marksSchool of Passing2006    ICSE       ICSE88%XXXX
+2008Higher Secondary                      West Bengal Council Of Higher Secondary Education
+(WBCHSE)90%XXXX
+
+
+	
+
+YearExaminationBoardCGPA            College2012 B.Tech in computer science &engineering(CSE)West Bengal University Of technology
+(WBUT)
+8.87XXXX
+SEMESTER RESULTS:
+SemesterSemester Grade Points1st7.972nd8.453rd8.834th8.635th9.156th8.45                             7 th                                    8.58                                                                8 th
+ 
+                    CGPA                                    9.19
+
+                                   8.88                                
+
+
+
+  
+
+	 
+      Familiar with  Operating System : MS DOS,WINDOWS XP,WINDOWS 07, WINDOWS 08.
+     Professional  skills:   Have Knowledge in  C ,C++,Java, J2EE, Ajax,HTML5,CSS3, Javascript, JQuery, SQL, MYSQL, Oracle,DB2, JSP,XML,JSON,Template Engines(Handlebars,Mustache).
+Training & Projects: Successfully completed a training program on "Online Railway           Reservation" using J2ee from IETE. Involved in the coding part of the project.		        
+         Hobbies : a)Watching movies      b)Coding    c)Net surfing
+      Professional  Experience:   Working as a software developer for the past 1 year 4 months in Rinam Softmedia Pvt Ltd. Job is based on asp.net and php. Worked using HTML5, CSS3, Javascript, jQuery as front end tools & used SQL,MYSQL for database work.
+      Professional Projects Done:    A> A business listing site using dot net, html5, javascript,jquery,css3, ajax,sql server. 
+B>  A diagonostic center management software using php and mysql. Involved in both  back end and front end scripting of the project.
+C> A hotel management software using dot net and sql server. Involved in both  back end and front end scripting of the project.
+D> A real estate website using dot net and sql server and html5, css3, javascript ,jquery as front end tools.
+E> A school management software using php and mysql.
+F> Various client websites with html5,css3,jquery,javascript,ajax with the use of different templating engines such as handlebars,mustache etc. 
+ Additional Qualification / Achievements / Certifications:     
+               a)Swimmer certificate
+        Communicational Skills:  English ,Bengali ,Hindi.
+
+DATE: 21.02.2014							       Signature :               	
+				 			
+          				
+
+
+

@@ -1,0 +1,74 @@
+
+EDUCATION
+
+
+   
+June 2010	MIDDLE EAST TECHNICAL UNIVERSITY	Ankara, TURKEY
+Master of Computer Engineering
+•	Language of instruction : English
+June 2007	ÇANKAYA UNIVERSITY	Ankara, TURKEY
+Bachelor of Computer Engineering
+• Scholarship Student
+• Language of instruction : English
+EXPERIENCE	
+2008-2010         SYSTEMS INTEGRATION BUSINESS	NJ / US, Ankara / TURKEY Liaison Office
+Software Engineer - IT Department SIB is an international e-commerce company that has lots of top seller accounts on e-Bay and Amazon.
+• Experience in ASP.NET, AJAX, C#. Customer Support project developed for the customer support
+department in US. MS SQL Server used as RDBMS. Partially involved Shipping, ERP and Finance
+projects.
+• Experience in POP protocol, DevExpress and C#. Mail Management Project developed to manage the
+mail traffic of the support team in Bangladesh.
+• Market Research Project developed for producing reports about products, categories and sale channels
+performance. Involved in e-Battle and Template management projects.
+2007-2008         AKIN BILISIM SISTEMLERI	Ankara University Technology Development Center
+Software Engineer -R&D Department Pecya (http://www.pecya.com) is a digital library project. Project, supported and supervised within the framework of Innovation Support Programs by Tübitak.
+• Experience in PHP, PostgreSQL, Apache and Java. Project uses PHP and AJAX for web interfaces,
+C#.NET for internal company projects. Java is used in to integrate Nutch and Lucene open source
+projects.
+• Image index and search algorithm developed. Language identifier algorithm developed using rank
+histogram logic.
+• Hadoop distributed file system initialized to run on many computers for crawling and indexing processes
+on Linux OS at the same time.
+2006 - 2007        INTERNATIONAL SOFTWARE SOLUTIONS & SERVICES (I3S)	Hacettepe Teknocity Ankara
+Software Engineer - IT Department
+• Experience in Interactive Voice Response (IVR) Systems. Project uses Text to Speech Engine (TTS),
+Exceletel and .NET environment. System informs lawyers using telephone line about appointment
+process to their client.
+• Experience in ASP.NET and MS SQL Server. Social aid and cooperation Fund website developed.
+2005-2006         UNION OF TURKISH BARS (TBB)	Ankara
+Intern - IT Department
+•	Experience in N-Tier applications, C# and .NET Environment. Windows applications developed for E-
+Baro Project using MS Visual Studio. (3- Months)
+
+COMPUTER SKILLS
+• Operating Systems : Windows based OS, Linux based OS
+• Databases : MS SQL Server, PostgreSQL, MySQL, Access
+• Programming:
+
+- C#, Java, C, C++, T-SQL
+- ASP.NET, PHP, JavaScript, AJAX, CSS, HTML, XML
+WCF, Web Services , .Net Remoting
+- Entity Framework, LINQ, ADO.NET, IBATIS
+
+• Office: Microsoft Office, Open Office (PowerPoint, Word ...)
+• Area of Interest: Object Oriented Programming, Software Architectures (Multi-Tier designs), Software design.
+PROJECTS & RESEARCHES - conducted at the University of METU	
+• Rule based image retrieval using Fuzzy logic and color histograms.
+• Main Memory Database System sample on a mobile application using PERST
+• Smart market project using IBATIS as DataMapper framework. Communicates with the e-grocery shopping sites with
+WCF technology. Price checker and advisor included in the web site. TortoiseSVN and Unfuddle online repository
+used for project management.
+• Rule based Turkish grammar checker using Prolog.
+• Real time operating system (RTOS) process scheduler simulator.
+• Formal specification of a Returned Merchandise Authorization (RMA) System. Verification of analysis using Alloy
+Analyzer.
+• Interactive Voice Response project was implemented to inform students about their transcripts and actual grades using
+interactive voice response system using telephone.
+TRAINING AND CERTIFICATES	
+• Microsoft Certified Solution Developer (MCSD) with Microsoft Visual .Net Microsoft C# (6 months)
+• "Designing a Reporting Solution Architecture Using SQL Server Reporting Services training certificate. (1 week)
+• Redhat partner training courses attended about virtualization, satellite servers and global file systems. ( 1 week )
+ACTIVITES AND INTEREST	
+• Amateur Photography
+• Interest in playing musical instruments (Guitar, Drum).
+• Swimming, tennis, basketball

@@ -1,0 +1,79 @@
+Abhishek S
+
+
+
+Objective
+To work in a responsible position in a growing and professionally managed organization that will challenge my skills and abilities. To excel in the progressive and competitive environment by working with my full potential. To work towards the goals of the organization for the benefit and progress of the organization
+
+Professional Summary
+Experienced backup administrator familiar with formulating organizational archive policies. Ready to apply learned skills to any corporate decision making process in regard to protecting data using varying devices, hard drives, database management and archival software. Can research, problem solve and communicate the best ways to perform and coordinate tasks throughout the organization.
+
+Core Qualifications
+* Careful study of Veritas NetBackup Administration guidelines and configurations and the best ways to apply them to an organization's benefit
+* History with solid resources like Symantec Backup Exec and CommvaultSimpana 10
+* Knowledgeable in creating backups for enterprise environments
+* Close monitoring of backup and disaster recovery systems and how to apply and upgrade to an organization's benefit
+
+Experience
+
+GLOBAL SERVICES (September 2011-Till Date)
+
+Working as a Backup and Recovery Specialist (System Analyst-3) 
+Responsibilities
+* take part in Internal Audits and drive the team to complete adherence.
+* SPOC for backup/recovery of multiple clients and their Audits.
+* Provide training/mentoring and set new team targets every month.
+* organize timely meetings between the client and team for smooth operation.
+* proactively handling escalations and drive to closure at the earliest.
+* Participate in the ISO Audit session as assigned.
+
+* Provide the relevant artifacts during the sessions.
+* Provide proper root cause, Corrections & Corrective actions in the AMS tool.
+* All the identified issue/s should be closed by the agreed scheduled end date preferably 
+* before 90 calendar days from the day the issues are raised in the AMS tool and in case of 
+* an exception the timelines as agreed with the ISO Internal Auditor and BSR
+* The change of the closure date to be done in consultation with the BSR and auditee only
+* Assign the auditees for the sessions,
+* Assist the auditee in providing the  Root cause,  Correction action and follow up with the 
+* auditee for closure of the issues and arriving at a target closure date
+* Provide Audit Feedback in the Audit Management system.
+* Help auditee in updating the issue in AMS.
+
+
+Working as a Backup and Recovery Specialist (System Analyst-3) 
+Responsibilities
+• Plan, Implement and Maintain Data backup Solutions based on Symantec NetBackup, Symantec Backup Exec and CommvaultSimpana technologies
+• Troubleshooting data backup errors and problems to resolution. Monitoring and Daily Reporting of backup Success and Failure rates.
+• Worked with clients to assess needs and implemented procedures and tasks for appropriate backup protocols
+• Prepared documentation of practices, processes and policies regarding net backups
+• Installed and managed operating and backup systems
+• Monitored process of data backup in accordance with SLA standards
+• Managed on-call rotation to ensure effective storage of backup data
+• Designed and implemented disaster recovery protocols
+• Restore systems and data per standards and restore objectives
+• Follow the ITIL processes for Service Delivery in line with Project SLAs
+• Perform Tape Library Check and Management
+
+Worked as aSystem Analyst-4
+* Monitoring Mainframes and performing troubleshooting for the errors and problem to the solution .Reboot of Mainframes as per the defined change request. Troubleshooting data backup errors and problems to resolution.
+* Implement, create and Maintain jobs in Production control (Scheduling) as per the change request.
+* Monitoring and Daily Reporting of EMC Replication manager Success and Failure rates.
+* Monitoring and Daily Reporting of backup Success and Failure rates.
+* Provide L1 support.
+* Operating system specific tasks in support of a host environment. Supports and maintains servers, networks, messaging, mainframes, database environments and/or host infrastructures.  This includes responding to service outages and other problems/issues, and being a Tier 1 escalation point for well-defined incidents and basic problems working under general supervision.
+
+Worked as an Infrastructure and Application Support Engineer 
+Responsibilities 
+* Managing Severity Incidents for Network and Server related issues.
+* Handling Time-Critical Clones and Backups for an external customer.
+* First line of contact for issues with Mission Critical Applications such as ITSM 7.6, ITSM 7.1 and Remedy6.
+* Coordinating with resolvers for getting the issues solved in a timely manner and escalating the problems whenever necessary. 
+* Communicating with Incident Management team while handling high priority tickets
+* Understanding SLA requirements and work to ensure those requirements are met when possible
+* Efficient  knowledge with tools like, Remedy 7.6 , 8.1, ITSM, Knowledge base , Citrix , SAP 720 GUI, Windows XP, 7, MS Office 2007, 2010, 2013, MS Lync 2010, 2013
+
+Skills
+* ITIL Foundation V3 Certified
+* General : MS Office
+
+

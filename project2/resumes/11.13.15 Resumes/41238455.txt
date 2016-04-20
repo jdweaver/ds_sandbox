@@ -1,0 +1,73 @@
+-
+
+Expertise Summary
+* Deep knowledge of processes, principles and practices of Market Risk Stress Testing  
+* Good understanding of Market Risk practices, data management and IT implementations
+* Experience in IT + Structured Finance helps in understanding domain principles and constraints better
+* Gold Medalist of the MBA course at Dept. of Management Studies, IIT Madras, India
+
+Professional Experience
+Crisil Global Risk & Analytics (a S&P Company)
+Lead Analyst
+
+As an external consultant with Crisil, I've worked with various top I-banks on various assignments/projects and details summarized here are in chronological order:
+
+Project: Strategic Stress Testing Platform, Deutsche Bank, London, UK (Jul-2014 to present)
+The role deals with a Strategic Stress Testing platform that the bank intends to develop. Specific tasks include:
+* Involvement in the design stages of the solution, with focus on Stress Testing shock calibrations, intermediate-computations, EBA guidelines, CCAR readiness and User-Interface features
+* Developing a standardized way to configure shocks, given a certain macro-economic scenario
+* Translating shocks from a macro-scenario to an implementation-specific shock values for all risk factors across asset classes
+* Aggregating results and developing mechanisms for Portfolio Stress attributions and Risks-not-in-Stress-Testing
+
+Project: Scenario Enrichment for EBA 2014, HSBC, London, UK (Feb-2014 to Jul-2014)
+Getting the bank EBA-2014 ready was the primary objective. Specific and intermediate objectives involved:
+* Creating an enriched-scenario i.e. a robust mapping from EBA scenarios to the lowest atomic level risk factors
+* Develop and implement models based on Principal Component Analysis (PCA) and Panel Regression, using R/Matlab to develop shock mappings
+* Develop templates that will eventually be used to feed EBA templates for Equity, Commodities and Credit Asset classes
+
+Project: Risk Evaluation & Model Validation for Structured Derivatives, RBS, London, UK (Feb-2012 to Feb-2014)
+Primarily, the role involves a pre-trade evaluation of OTC trades and trading models for the Equity Derivatives desk. The model evaluated is used for trade booking for market risk, credit risk and operational flow for different structured derivatives desk within the bank. Specific tasks include:
+
+* Evaluating risk profiles, option greeks and systemic integration of exotic equity derivatives
+* Coordinating with Quants, Market Risk and Credit Risk for any gaps in the structure identified
+* Making recommendations for streamlining the booking and trade maintenance process
+
+Project: Structured Trade Review for a multinational tier-I bank, BofA-ML, Mumbai/London (Jun-2010 to Feb-2012)
+
+Project involved performing a post-trade analysis on a variety of exotic derivative trades (OTC) for the structured trade desk of a top-5 global investment bank. The work involved understanding industry-leading trade-booking models and their analysis to identify any gaps in expected and executed deals. Specific tasks included -
+
+* Charting expected payoffs for executed structured trades and drawing inferences on any gaps in payoffs
+* Analysis of the trade booking, within various systems with their interactions and understanding future cash flows of the trade, vis-à-vis the different booking systems in place
+* Making recommendations for streamlining the booking and trade maintenance process
+* Developing in-house tools and tweaks that would connect different systems for a smoother interaction between the processes
+
+Awarded the ACE award for Process Improvement for this project in Dec 2010
+
+Wipro Technologies, Pune/London (Oct 2005 to Jul 2008)
+Project Engineer
+Worked for a UK Insurance major for over 2.5 years. 
+
+Lifestyle Project: The project, executed of The U.K. involved coordinating with 3 IT teams on requirement gathering and 
+functional mapping of business requirements to IT systems of the client organization for risks to a particular product group.
+
+Integrated Commissions and Agency (INCA): Project included a deep analysis of UK Agency systems and the commissions set-up, along with the valuation mechanism for risk-centric products. 
+
+Awarded with the 'Feather in my cap' award for Lifestyle and INCA projects in 2008
+  
+Educational Qualifications
+* Master of Business Administration (Finance), 2008-2010, Gold Medalist, Department of Management Studies, IIT Madras CGPA 9.13
+* Bachelor of Engineering (Electronics), 2001-2005, VES Institute of Technology, Mumbai Marks: 65.3%
+
+Additional Information
+* IBM-Certified SOA Associate
+* 'Knowledge Officer' for Wipro UK, responsible for maintaining knowledge repositories
+* Gold Medal at IIT Madras for academic performance during the MBA course
+* More than 200k hits on slideshare.com page
+* Research paper on Greenhouse automation presented at the AIM Conference, California and published in The Journal of Advanced Intelligent Mechatronics, 2005
+* Won the best internship project competition at a national level for work with the M&A team at Wipro Technologies
+* Winner of South zone CFA Investment Research challenge, 2009; broadcasted live on CNBC-India
+
+
+
+
+

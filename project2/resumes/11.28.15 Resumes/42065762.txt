@@ -1,0 +1,56 @@
+FULL NAME
+Contact Address
+Phone number • Email address
+
+Experience[Date]            Event manager                    [Company Name]
+* Design and launch email marketing campaigns
+* Lead the process around all events management (evaluations, tracking, planning, logistics, recaps)
+* Assist on the promotion of products and services through public relations initiatives
+
+[Date]            Front-end developer             [Company Name]
+* Plan, write and test code delivered from design mock-ups
+* Working with HTML5, CSS and Javascript
+
+[Date]           iOS app developer               [Company Name]
+* Breaking down program specification into its simplest elements and translating this logic into a programming language
+* Combining all elements of the program design and testing it
+* Updating, repairing, modifying and developing existing software and generic applications
+Education
+
+
+
+
+
+
+
+
+
+
+[Date]            [Course]           [Institution Name] 
+* High-school degree
+
+[Date]            [Course]           [Institution Name] 
+* Bachelor of Informational Technology 
+
+[Date]            [Course]           [Institution Name] 
+* Masters degree in Human - Computer InteractionSkills and AchievementsAchievements:
+
+* Winner of Seattle 2013. IOT Hackaton 
+
+Skills: 
+
+* HTML5
+* CSS3
+* Ajax 
+* Ruby
+* C++References[Referee 1 full name]				 
+[Job position / company name]			
+Address: [insert here]
+Tel: [insert here]						 
+Email: [insert here]						 
+
+[Referee 2 full name]				 
+[Job position / company name]			
+Address: [insert here]
+Tel: [insert here]						 
+Email: [insert here]

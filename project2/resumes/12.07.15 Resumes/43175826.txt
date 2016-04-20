@@ -1,0 +1,37 @@
+Digital Forensics / Security AnalystRelevant Qualifications for Task RequirementsEducation:B.S., Criminology/Digital Forensics, University of Rhode Island (URI), 2013Relevant ExperienceDigital Forensics / Security AnalystNET ESOLUTIONS CORP.April 2014 - PresentNational Institutes of Health (NIAID/NIH)
+* Analyzing systems for digital evidence and malware using EnCase Enterprise and EnCase Cyber Security 
+* Provide guidance and assistance to the technical staff of NIAID in effectively addressing IT security
+incidents
+* Promptly address the user's needs when a security incident occurs
+* Assist in creating and improving a workflow for the incident response process at NIAID and integrating a dashboard to better visualize the work performed
+* Monitor network and log activity using SIEM to find potential threatsComputer Crimes Unit Intern Rhode Island State PoliceSept. 2012 - May 2013* Assist on forensic analyses using forensic tools to find case specific information
+* Conduct research on forensic topics and social network investigations
+* Attend a search warrant and observe forensic and legal procedures
+* General forensic duties (Imaging media for analysis + wiping old drives)
+* Process clerical data regarding evidence items, training, case loads and chain of custody forms Relevant Skills & Certifications* Forensic techniques and toolsets including EnCase Enterprise, EnCase CyberSecurity, FTK, WinHex, PRTK, and Registry Viewer
+* CompTIA Security+ SYO-401 Certification
+* FTK - ACE Certification
+* File systems/platforms - Windows {95, 2000, XP, 7, 8}, Mac OSX, Linux, Kali Linux, FAT, NTFS, HFS, RAIDs, and VMWare Fusion
+* Disk Imaging with EnCase Imager, LinEN, Norton Ghost, dd Linux, and FTK Imager
+* Malware Detection using Enterasys SIEM
+* Live/Memory Forensics using the Volatility Framework
+* Network Intrusion Detection - Security, Firewalls, VPNs, Network Security Monitoring and Management 
+* Network and Systems Security - Threats, Encryption, Linux/Windows Network Security
+* Windows Artifacts (Prefetch, JumpLists, User Assist, USB Tracking), ESE Databases, and Windows Recycle Bin
+* Ethical Hacking - Scanning Networks, System Hacking, Sniffers, DOS, Social Engineering, SQL Injection, Cryptography, and Penetration Testing
+* Proficient with Microsoft Office products (Excel, Word, PowerPoint, etc.)
+I certify that, to the best of my knowledge and belief, all of the information contained in this resume is correct and accurate. I have only given permission to the NETE Team to submit my resume for this Request for Quotation.
+
+
+
+
+
+
+
+Page 1 of 1 
+Use or disclosure of data contained on this sheet is subject to the restriction on the title page of this proposal or quotation.
+
+
+
+
+

@@ -1,0 +1,203 @@
+
+SUMMARY
+
+* Has strong business analysis skills needed to develop, design and implement Billing Systems used mostly by utility and financial companies.
+* Reviews and analyse documents provided by peers/colleagues to ensure validity against requirement from the Client.
+* Has the ability to work closely with lead architects, subject matter experts and team leaders to ensure that any requirement that should be delivered will be finished when it is expected.
+* Manages defects raised during testing and assigns it to the development team for bug fixing.
+* Manages and reviews code drop releases for the Client and distributes across team members for Acceptance Testing.
+* Acts as a liaison between the Vendor and Client's team to discuss any issues encountered during testing.
+* Strong interpersonal skills demonstrated on meetings for both Client and Internal.
+* Actively participated in business meetings, data gathering sessions and workshops in order to get the necessary business requirement needed for analysis.
+* Has in-depth work experience on different stages of testing such as Unit, System and Regression tests in order to verify validity of code delivered.
+* Significant years of experience working closely with Business Users to provide production support and address any queries.
+* Creates Training materials and User Guides to be used for internal, partner and/or client training. 
+* Has in-depth functional and technical knowledge in Oracle Customer Care and Billing (CC&B) for utilities and Oracle Revenue Management and Billing (RMB) for financials.
+* Highly organised, motivated and learns new challenges quickly.
+
+
+PROFESSIONAL EXPERIENCE
+Aug 2012 - Present	                 Oracle EMEA Ltd - Dublin, Ireland
+
+Principal Consultant - Oracle Financial Services Global Business Unit (FSGBU)
+
+Deutsche Bank, October 2014 - Present
+
+* Reviews Business Requirements Documents and identifies any potential gaps that need to be customised for the client.
+* Actively participates in client meetings to learn more about the requirements.
+* Prepares fit/gap documents to assess each requirement and match it with what ORMB has out of the box.
+* Creates Training materials and User guides to be used for training sessions with Business Users and Business Analysts.
+* Manages defects raised during testing and ensure that it gets allocated to the correct development resource.
+
+
+Marsh Corporate (USA), February 2013 - February 2014
+
+* Worked as the QA Lead and addressed any defects encountered during testing and/or provide additional information on how to properly test functionality. 
+* Managed bug fixes to be included for client delivery and assigns to appropriate resource for testing.
+* Checked and managed the production ticketing system for new issues raised by the Business Users and assign it across the team for proper analysis and investigation.
+* Worked as Oracle's first level of support for Business Users, third party counterpart and testers.
+* Performed internal smoke tests for code drop releases before sending it to the Client for User Acceptance to make sure that the functionality has been delivered correctly.
+* Raised defects and assigns to the Offshore Development team whenever an issue that needs to be addressed via code change has been detected.
+* Worked as a liaison between the Development team and Business Analysts/Users to make sure that any clarifications/questions are addressed.
+* Prepared technical design document for Change Requests raised by the users against Oracle RMB.
+
+Worldpay-IBM (London, United Kingdom), November 2012 - February 2013
+
+* Performed application walk through with the implementation team, as necessary, how the out-of-the-box product (RMB) works and how it fits the business requirement raised by Worldpay.
+* Recommended solution for business requirements provided by Worldpay that will fully utilise the out-of-the-box functionality of Oracle RMB.
+* Worked as a liaison between the implementation team (IBM) and Oracle Product/Delivery managers to consult the solution the team has come up with and compare against other implementations, especially if it something that might be part of a future release/roadmap.
+* Participated in workshops with Business Analysts for data gathering sessions.
+* Analysed the solution recommended by the implementation team and informs them of a better approach, whenever required.
+* Reviewed the gaps identified in Oracle RMB by the implementation team and ensured the validity of the known gaps.
+
+
+Oracle FSGBU Administrative Tasks
+
+* Prepared ORMB training slide packs to be used for internal and partner training. 
+* Provided assistance with various pre-sales activities related to RMB such as preparing presentation slides and materials.
+* Prepared a high level functional analysis feedback to InfoSys for their RMB Solution Documentation for Worldpay.
+
+Aug 2009 - April 2012	DB Results - Melbourne, Australia
+
+Consultant - Oracle CC&B & Oracle RMB Consultant
+
+TRUenergy-IBM (Melbourne, Australia), March 2011 - April 2012
+
+* Part of the team that conducted Bill Accuracy Testing (BAT) and ensured the quality of the bills generated by Oracle Customer Care and Billing (CC&B).
+* Compared bills generated by CC&B against the bills generated by the client's old billing system.
+* Created documents to elaborate how CC&B's billing work especially for Interval Metered customers.
+* Performed Regression testing for the different modules in CC&B particularly in Billing, Market Messaging, Letter extracts and Third Party Uploads.
+* Identified issues with the module being tested and triage it accordingly with the subject matter experts, testing lead and designer in order to raise a defect accordingly.
+
+Suncorp (Brisbane, Australia), August 2010 - February 2011
+
+* Created product configuration to ensure that the customer specific requirements are properly defined in Oracle RMB V2.2.0.
+* Implemented the release strategy to be followed by the client in order to apply any custom code and/or configuration within the base product.
+* Participated in business workshops and data gathering sessions in order to identify key deliverables to the client using Oracle RMB.
+* Analysed the business requirements and recommended solution to cater for the client's needs. 
+* Created design documents containing the customisations needed to meet the business requirements.
+* Worked closely with the client's implementation team as an Oracle RMB specialist to provide functional and technical information about the product.
+
+
+TRUenergy-IBM (Melbourne, Australia), August 2009 - August 2010
+
+* Created conceptual solutions, external designs, configuration and high level documents as per client's requirement for various enhancements in CC&B, majority for Billing.
+* Conducted assessment for defects identified by testers and recommended the solution to fix the problem.
+* Performed testing of new configuration / functionality to ensure that everything is working as required.
+
+Aug 2008 - Jul 2009	Emerio GlobeSoft Pte Ltd - Singapore 
+
+Associate Consultant - Oracle Customer Care and Billing Consultant
+
+PowerSeraya (Singapore), August 2008 - July 2009
+
+* Attended business meetings and data gathering sessions in order to get the requirements needed for the enhancements.
+* Provided functional specifications and technical design documents as per client's requirement for various enhancements in CC&B.
+* Designed and developed COBOL programs in Oracle Customer Care and Billing V1.5.15 using Micro Focus Netexpress and TOAD.
+* Prepared the custom codes and configuration package to be delivered to the client.
+* Provided CC&B on-site support to address various defects raised by the users.
+
+
+Feb 2005 - Jul 2008	Oracle Corporation - Philippines 
+
+Senior Consultant - Developer and Designer
+
+Southwest Waters (USA), May 2008 - July 2008
+
+* Designed and developed Java programs in Oracle Customer Care and Billing V2.2.0 using Eclipse and SQL Developer.
+* Reviewed junior consultant's development work to ensure that all the functionalities outlined in the design document are included in the code.
+* Prepared and tested the custom codes, configuration package and release documents to be delivered to the client.
+
+
+Enersource (Canada), February 2008 - May 2008
+
+* Designed and developed Java programs in Oracle Customer Care and Billing V2.1.0 using Eclipse and SQL Developer.
+* Reviewed fellow senior consultant's design work to ensure that all the functionalities included in the business requirement are part of the technical design document.
+* Reviewed junior consultant's development work to ensure that all the functionalities outlined in the design document are included in the code.
+* Reviewed the custom codes and configuration package to be delivered to the client.
+
+Trigen (USA), October 2007 - May 2008
+
+* Developed Cobol programs in Oracle Customer Care and Billing V2.1.0 using Micro Focus NetExpress and MS SQL Server 2005.
+* Developed reports and stored procedures in Oracle Customer Care and Billing V2.1.0 using Crystal Reports XI and MS SQL Server 2005.
+* Prepared and tested the custom codes, configuration package and release notes to be delivered to the client.
+
+Utilities Inc (USA), June 2007 - May 2008
+
+* Developed Cobol programs in Oracle Customer Care and Billing V2.1.0 using Micro Focus NetExpress and SQL Developer.
+* Prepared and tested the custom codes, configuration package and release notes to be delivered to the client.
+
+CapGemini Energy (USA), February 2005 - June 2007
+
+* Provided back-office production support for various defects raised by the users for Oracle Customer Care and Billing V1.3.13
+
+
+Skills / Competencies
+
+Operating Systems
+* Microsoft Windows
+
+Database
+* MS SQL Server 2005
+* Oracle
+
+
+Software / Technologies
+* Java / JSP
+* Micro Focus COBOL
+* SQL
+* Oracle/SPL Customer Care and Billing
+* Eclipse
+* Crystal Reports
+
+Seminars and Training Courses
+Customer Care and Billing V2
+Oracle, Philippines
+Java Programming
+Oracle, Philippines
+Crystal Reports
+Oracle, Philippines
+Customer Care and Billing V1
+Oracle, Philippines
+
+Database Management
+Mapua Institute of Technology
+CCNA 1 - Networking Basics
+Mapua Institute of Technology
+
+
+Education
+Tertiary
+Mapua Institute of Technology, Makati City, Philippines
+Bachelor of Science in Computer Science, June 2001 - November 2004
+Graduated in the top 10% of the class
+
+* Achievements
+              Academic Scholarships
+
+* Affiliations
+           Junior Philippine Computer Society (Mapua Branch) - External Vice-President
+
+Secondary
+Mary, Cause of Our Joy Catholic School, Muntinlupa City, Philippines
+High School Diploma, June 1997 - March 2001
+
+
+
+
+
+
+
+
+
+
+2
+Curriculum Vitae of Sarah Audal
+
+
+Kristina Sarah Audal
+
+
+
+	                         
+

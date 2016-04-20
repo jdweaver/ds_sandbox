@@ -1,0 +1,32 @@
+X
+PRESENT POSITION
+X Company, Inc.
+Senior Research Engineer, X Department
+EDUCATION
+M.S. Mechanical Engineering, 20XX, X University
+B.S. Mechanical Engineering, 20XX, X University
+PROFESSIONAL EXPERIENCE
+2010-2015                    Research Engineer, X Company, Inc., Birmingham, AL
+·         Responsible for solar and wind energy research for X Company and its affiliates 
+·         Manage solar photovoltaic technology demonstrations and evaluations
+·         Wind and solar energy resource measurement and evaluation
+·         Solar PV power modeling development and application
+·         Industry collaboration on research and best practices
+ 
+2010                               Technical Temp, X University
+·         Application of software models to simulate adsorption chiller cycles for solar applications
+ 
+2008-2010                    Research Assistant, X University
+·         Experimental and mathematical fluids work for a Master's thesis
+·         Development of a novel wind energy harvesting system using vortex induced vibrations
+·         Designed, constructed, and utilized a soap-film water tunnel for experimentation and flow visualization
+ACADEMIC/PROFESSIONAL QUALIFICATIONS RELEVANT TO THIS PROJECT
+·         Developed robotic platform for application of solar photovoltaic plant inspection.
+RELEVANT SELECTED PUBLICATIONS
+·         X Conference Paper
+·         X Conference Paper
+ 
+SYNERGISTIC ACTIVITIES
+·         Advisor representing X Company and affiliates for X Organization Solar and Wind Power Generation Programs.
+RECOGNITIONS
+·         Recipient of X Organization Technology Transfer Award for "X Task"

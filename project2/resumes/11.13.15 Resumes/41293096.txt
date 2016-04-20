@@ -1,0 +1,64 @@
+
+Name	:    				 Address: 
+Email	:    			
+Mobile:    			
+,
+									
+CAREER OBJECTIVE: 
+
+A strong desire to extend my knowledge and to solve the most demanding problems faced by the modern industry today motivated me to pursue a Master's in Electrical Engineering.
+
+EDUCATIONAL QUALIFICATIONS:
+
+LEVEL OF EDUCATIONINSTITUTIONBOARD/UNIVERSITYYEAR OF PASSINGAGGREGATE     (in %)         B.Tech         (Branch ECE)Sri Indu College Of Engineering and TechnologyJawaharlal Nehru Technological University,Hyderabad201582.69 Intermediate (Science+Maths Stream)Narayana Junior CollegeBoard of Intermediate Education, A.P.201196.00S.S.CNarayana Concept SchoolBoard of Secondary Education A.P.200991.66
+Skills:
+
+* Ability to provide technical assistance and resolution.
+* Able to modify electrical parts, prototypes, systems and meetings.
+* Able to work together with other engineers and individuals to solve and define the developmental problems.
+* Excellent communication and organization skills.
+
+ACADEMIC PROJECTS:
+
+Title: RF controlled Robotic Boat to travel in water for ocean research applications.
+
+Technology:   
+  
+ Domain		:   Robotics, Wireless Communication.
+ Microcontroller	:   AT89S52.
+
+Description:                     
+      This project is a prototype boat that can travel in water. This robot is powered by 9V rechargeable battery. The direction of the robot can be controlled by an RF remote. This can be moved forward and reverse direction using geared motors of 60RPM. Also this robot can take sharp turnings towards left and right directions. This project uses AT89S52 MCU as its controller. 
+          The RF modules used here are STT-433 MHz Transmitter, STR-433 MHz Receiver, HT12E RF Encoder and HT12D RF Decoder. The encoder continuously reads the status of the switches, passes the data to the RF transmitter and the transmitter transmits the data.
+ACHIEVEMENTS:
+The Following Certification Courses were attended at BSNL Regional Telecom Training Center, Gachibowli, Hyderabad.
+Course TitleSubjectsDurationBSNL SILVERi) Digital Switching Systems (DSS)6  MonthsCERTIFIED COURSEii) Digital Transmission Systems (DTS)(Completed) iii) Telecom Support Infrastructure(TSI)  BSNL GOLD i)  Broadband Technology (BB)6  MonthsCERTIFIED COURSEii) Optical Fiber Technology (OFT)(Completed)BSNL PLATINUM i) Mobile Communication (MOB)6  MonthsCERTIFIED ENGINEERii) IP Networking & Cyber Security (IPC)(on going)
+TECHNICAL SKILLS:
+
+* Operating System     : WINDOWS
+* Software Language   : Basics in C Language
+* Computer Application: MS-Office (Word, Excel, Access, PowerPoint)
+
+EXTRA CURRICULAR ACTIVITIES:
+
+* Participated in Seminars during training at BSNL.
+* Participated as Coordinator and Volunteer in Technical Functions.
+* Participated and won first Prize in contraption during college fest.
+* Participation in Social Welfare Activities during Summer Stay at Ramakrishamath.
+
+PERSONAL SKILLS:
+      Strengths : Verbal and Written communication skills, Zeal to learn and interact, Comprehensive problem solving abilities, Quick learner, Self confident to achieve goals. 
+PERSONAL PROFILE: 
+Name           		 :                             
+D.O.B                     	 :  24-08-1994                                                           
+Nationality                :  Indian                                                                        
+Languages               :  Telugu, English &Hindi.                                                                                   
+Hobbies                    :  Listening to music, Reading books, Playing chess & surfing internet.
+
+DECLARATION:    
+           
+I hereby certify that all the information provided above is true to the best of my Knowledge.
+				                                          
+
+Place: 
+Date: 13-07-2015                                                                 

@@ -1,0 +1,48 @@
+
+SUMMARYCreative, efficient, and reliable IT professional with 16+ years of experience. Diversified skill sets covering all aspects of technology including workstations, servers, networking, and phone systems. Excellent budgeting, planning and team leadership skills.PROFESSIONAL EXPERIENCELab Manager II xxx University - 2008 - Present
+Develop, deploy, and support Microsoft Windows 7 configurations for ~1400 lab and staff computers at 6 locations using Norton Ghost and DeepFreeze. Created scripting using AutoIT and Windows PowerShell to manage domain joining and other post install tasks reducing manual interaction with the process by 90%.
+Member of the National Academic Image Team working to standardize lab configurations to over 10,000 computers enterprise-wide with Microsoft OSD and System Center 2012. 
+Build, manage, and back up Windows Server 2008 R2 and earlier file and print servers both physical and HyperV. Maintain server security settings, folder permissions, and updates. Played an instrumental role in the design and selection of NAS backup system. Successfully performed both small and full volume restores from backups.
+Member of the Operation Excellence Team a committee tasked with identifying and resolving interdepartmental inefficiencies.
+Manage Active Directory users, groups, computers, and settings for the region in Active Directory Group Policy including logon scripts using VBScript.
+Supported remote servers and clients using a combination of Remote Desktop, Remote Assistance, and Microsoft Lync.
+Perform Microsoft System Center 2012 and 2007 Package creation, testing, and deployment both regionally and nationally. This includes deploying an ASVAB testing application to over 29 sites nationwide which allowed testing to begin two months ahead of schedule. 
+Manage all regional software licensing and reporting. Implementing centralized license management solutions such as FlexLM when available. Scored a rating of "Excellent" on internal audits due to organized and thorough documentation.
+Deploy and support over 95 unique applications including Adobe Creative Suite 6, MS Office 2010, National Instruments LabView, and applications delivered through Citrix XenApp.
+System administration of production and experimental Redhat Enterprise Linux servers used for classes. Assist in building Oracle VirtualBox configurations for other classes.
+Installation, repair, and troubleshooting of all LAN/WAN and Blue Socket Wireless technologies across 6 sites. This includes Cisco routers, switches, IP phones, and associated wiring with both physical and logical troubleshooting.
+
+
+Interim Metro IT Manager xxx University - Jan. 2013 - Present
+Managed regional projects such as deployments of Windows servers, Windows operating systems, upgrades of Cisco networking technologies, and software deployments ensuring they were completed on-time and within budget. These duties included task assignment, oversight, and training of both local and remote employees. Many projects also required a high level of interdepartmental cooperation for successful completion.
+Worked closely with students, faculty, and staff to provide on time and effective resolutions to requests and problems. BMC Remedy was used to track, prioritize, and delegate tasks.
+Created and managed capital and expense budgets in coordination with organizational objectives. Including obtaining vendor quotes, coordinating vendors, and oversight of work.
+Network Administrator, xxx University - 2003 - 2008
+Served as a subject matter expert and key participant in deploying 10 new locations including Cisco WAN routers, Cisco switches, APC UPSs, Cisco IP phones, and workstations.
+Managed, supported, and backed up Microsoft Exchange Server 2003 for 200 users. 
+Developed, deployed, and supported Microsoft Windows XP configuration for ~1200 lab computers.
+Deployed and managed McAfee ePolicy Orchestrator server and all clients.
+Assistant Network Administrator, xxxx - 1999 - 2003
+Developed, deployed, and supported Microsoft Windows 2000 configuration to ~150 computers.
+General PC repair and troubleshooting.
+Premise wiring installation, documentation, troubleshooting, and repair.
+EDUCATIONXXXX
+BACHELOR OF SCIENCE IN COMPUTER INFORMATION SYSTEMS - 1999
+Graduated Summa Cum Laude
+Team leader of both Senior and Junior Projects.
+Worked 30+ hours per week as an IT Help Desk Intern while attending.VOLUNTEERMember, Board of Directors - xxxx.   Nov. 2012 - Present
+Recruit, organize, and manage volunteers to complete organizational objectives.
+Review and approve budgeting and purchasing decisions.
+Served on a committee to review and rewrite the organizations policies and procedures manual.
+
+
+
+
+
+
+Page 3	
+
+
+
+
+

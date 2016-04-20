@@ -1,0 +1,47 @@
+Job
+Morgan Stanley
+Investment Banking Analyst                                                                                                                                      
+Education
+Dartmouth College                                                                                                                                      June 2013
+> Major: Economics 
+> Minors: Computer Science, Mathematical Finance
+
+Gwinnett School of Mathematics, Science, and Technology                                                 Graduated May 2009	
+> GPA: 3.99/4.0; Cumulative Average: 97%
+> Coursework: 
+* Georgia Tech Number Theory and Cryptography, and Applied Combinatorics                                      2014 - 15
+* AP Physics C: Mechanics & Electricity and Magnetism                                                                            2013 - 14
+* Foundations of Electronics 
+* Nanotechnology and Materials Science/Materials Engineering                                                               2012 - 13
+
+Work Experience & Projects
+NanoLumens                                                                                                                                  Lawrenceville, GA
+Research and Development Intern                                                                                                                  2014 -15
+> Designed a portable transparent display kiosk (NanoClear Kiosk) to aid in marketing the NanoClear product and accurately portray NanoLumen's vision with its NanoClear line
+> Researched the integration of quantum dot technology into NanoLumen's LED displays
+
+Emory University Dept. of Chemistry	Atlanta, GA
+Research Intern, Lian Group	Summer 2014
+> Developed a quantum dot electrode photo-electrochemical cell to perform efficient photo-driven hydrogen evolution through water-splitting 
+
+Emory University Dept. of Chemistry	Atlanta, GA
+Research Intern, Lian Group	Summer 2013
+> Synthesized, and studied quantum confining materials using transient absorption spectroscopy,
+> Improved group efficiency by implementing an equipment and substrate organization service, as well as a central Cloud based location for easy access to in progress research papers, and other group documents
+
+Combination Reverse Electrowetting & Piezoelectric Generator                    Oct. 2012 - Feb. 13
+> Designed a mechanical energy harvester in Autodesk Inventor, combining piezoelectric film with a reverse electrowetting tubing system, capable of being inserted into shoe soles
+> Received 2nd Place at the Gwinnett Science and Engineering Fair from this project's submission
+
+Programming Languages	
+> SAGE
+> Python
+
+Extracurricular Activities 	
+> Founded GSMST Stock Market Game/ Personal Finance Club                                                                2013 - 15
+> GSMST Engineering Honor's Society 
+> GSMST National Honor's Society 
+> GSMST Mu Alpha Theta
+
+
+

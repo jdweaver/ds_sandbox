@@ -1,0 +1,150 @@
+Curriculum Vita
+
+PROFILE AND OBJECTIVE:
+
+I see myself as an enthusiastic learner with a unique and keen outlook on things; I am an ambitious person who works well alone or within a team. I am very organised; I plan my objectives well and seek perfection in my work. 
+Seeking a position that is both intellectually stimulating and rewarding, which will benefit from my skill set while allowing me to further grow in knowledge and experience by granting me the opportunity to work with experts from various domains.
+PERSONAL INFORMATION:
+
+
+
+
+
+
+
+Education:
+? (October 2012) Participated in Microsoft certified course "MCTS: .NET Framework 3.5, ASP.NET Applications".
+? (January 2012) Participated in PMI certified course "Effective Project Management".
+? (February 2011) Participated in UNIX shell scripting course.
+? (2003-2008) Bachelor degree (B.S.c) in Computer Sciences, University of Bahrain, Kingdom of Bahrain.
+
+Work Experience: -
+? (March 2015 - Current) Information Systems Specialist, Mobile Billing and Network Support Systems, Batelco IT
+Responsibilities:
+• Analysing, designing and implementing business requirement requests pertaining to:
+o Batelco mobile app
+• Coordinating with other teams to deliver cross-functional objectives and projects.
+Achievements:
+o Successfully participated in the development of the Batelco mobile app.
+?  (November 2012 - March 2015) Senior Analyst/Programmer, Mobile Billing and Network Support Systems, Batelco IT
+Responsibilities:
+• Analysing, designing and implementing mobile billing development requests such as:
+o Billing system module enhancements.
+o Postpaid mobile offers and Promotions.
+• Coordinating with other teams to deliver cross functional objectives and projects.
+• Coordinating with the external vendors and business owners to fulfill any needed business requirements.
+• Coordinating with the support team to ensure a graceful and smooth introduction of newly developed modules to the production environment.
+  Achievements:
+o Enhanced the NRTRDE process (brought down total run time of the process from 2 days to 1 and half hours).
+o Successfully integrated multiple systems using SOAP web services to deliver a cross functional project.
+
+? 
+(October 2009 - November 2012) Analyst/Programmer, Mobile Billing and Network Support Systems, Batelco IT
+Responsibilities:
+• Primarily attending to development requests related to the mobile billing platform.
+o Creating new modules according to business requirements and the software design life cycle.
+o Developing system enhancement to existing functionality and addressing any issues in the mobile billing platform such as:
+? Adding further alarms and notifications to notify support team.
+? Documenting many aspects of the system and the development process.
+  
+• Provided Second line support for any Mobile Billing issues such as:
+o Credit Control and Collection processes
+o TADIG (Mobile Roaming Billing) issues such as testing and monitoring of TAP file flow as well as setting up any new rates in the system.
+o General inquiries and system up-keep and maintenance.
+o Generating any ad-hoc reports and extracts
+• Monitor and ensure normal day to day system operation and participate in future system development and enhancement.
+
+?  (February 2009 - October 2009) Freelance Web/Systems Developer
+Responsibilities:
+• Developing multiple the following systems and websites such as:
+o Web based Content Management System (ASP.NET, PHP)
+o Web based Salon Management System (ASP.NET)
+
+? (October 2008 - February 2009) Technical Officer, Etisalcom NOC
+Responsibilities:
+• Monitor Network/Telecoms infrastructure and Datacenter.
+• Provide first line troubleshooting for any Datacenter issues.
+• Provide IT support for Etisalcom products and services.
+• Provide support for Etisalcom's IT infrastructure such as Microsoft Exchange and AD.
+• Telecoms service provisioning and configuration for various VoIP devices.
+
+? (July 2008 -September 2008) Retail Officer, Batelco. 
+Responsibilities:
+• Marketing Batelco products and services.
+• Selling Batelco's products portfolio.
+• Providing support to Batelco customers if needed.
+
+? (February 2008 - Mars 2008) working for the e-government agency in e-government awareness and marketing team. Specifically, promoting and educating the populace about the eGate.
+Responsibilities:
+• Part of the e-government awareness team.
+• Work with the e-government agency in their awareness strategy.
+• Educate and assist travellers in the use of the eGate.
+
+? (1st July-31st August 2007) working as an Industrial Trainee in the University of Bahrain (UOB) in building a full management system for the Public Relation and Information Department.
+Responsibilities:
+• Developed the Public relations and information department archive system.
+• Helped integrate the archive system with various other aspects of the system. 
+? (1st July-31st August 2006) working as an Industrial Trainee in Al-Moayed Networks as a programmer. Involved in developing .Net applications, specifically a record keeping system for Public Security Market.
+Responsibilities:
+• Collected requirements for the system.
+• Designed the needed Database backend.
+• Developed the system as well as integrating it with a bar-code scanner for easier data entry.
+
+
+
+TECHNICAL EXPERIENCE:-
+
+? Languages: 
+o C/C++ (fair). 
+o C# (good). 
+o PHP (good). 
+o PL/SQL (good).
+o VB.net (good).  
+o JavaScript (good).
+o Assembly (good).
+o Java (good).
+o ASP .Net (good).
+o AJAX Methodologies (fair).
+o Python (fair).
+o Objective-C (fair).
+? Platforms: Familiar with most major operating systems such as Windows ( Most editions), Mac OS X, as well as Linux and Unix Platforms
+? Systems: Familiar with Microsoft Exchange 2007, Active Directory, MySQL, MS SQL, Oracle DBMS, Visual Studio, Eclipse (Android SDK), and XCode (iOS SDK). 
+? Concepts: System Analysis, Development, Databases, Networking, Telecoms billing.
+MEMBERSHIPS & ACTIVITIES:-
+
+? active member in Batelco's IT social committee.  Participated in organising staff outings and activities.
+? Active member in the College of Information Technology Society-UOB and its Head of cultural activities in academic year (2007-2008).
+Assisted in creating the web portal and membership systems of two major events such as:
+• Update week (from 27-05-2007 to 31-05-2007).
+• Supernova (due date from 04-05-2008 to 08-05-2008).
+
+LANGUAGES:-
+
+? English and Arabic (Written & Spoken) 
+? German and French (Basic)
+OTHER SKILLS & ABILITIES:-
+
+? Proficient in various Microsoft Office applications.
+? Excellent Communication skills.
+? Excellent Presentation skills
+? Excellent Team player.
+? Excellent Time management skills.
+? Fast learner and self-motivated.
+? Ability to work under pressure.
+? Ability to handle multiple projects/tasks.
+? Committed to the completion of any task at hand.
+
+GENERAL STATEMENT:-
+
+? Honest hardworking individual with a firm grasp on things.
+? Fast learner and ready to take responsibility.
+? Active in teamwork environment.
+HOBBIES & INTERESTS:-
+
+? Constantly seeking the successful acquisition and utilisation of knowledge. 
+? Voracious reader, with interest in many literary genres.
+? Passionate about IT and development.
+
+
+3
+

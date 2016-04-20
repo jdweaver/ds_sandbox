@@ -1,0 +1,36 @@
+107 Ram Residency, Apt 432
+Hyderabad 502032, APSANTOSH V. YADAV9505043960
+sanvenyad@gmail.com 
+EMPLOYMENTFreelancerOdesk/Mturk/Fiverr Since Jan 2015* Automation of Process using MS Access, Excel/VBA , SQL 
+* Application development  using MS Access and MS Office
+
+Quality AnalystTech MahindraMay 2011 to Jan 2015* Ahlstrom (Manufacturing) : Quality Analyst - ITIL Service Now usability testing and validation of all ITIL Modules 
+* Amlin (Insurance) Quality Consultant - ITIL Topdesk  web application usability testing
+* CISCO (Technology): QA Manager - Bugs identification and  usability issues  tracking  and recording in HP ALM 
+* Philips (Pharmacy) : Test Lead - Test data and Testing Infra migration.
+Software Quality Engineer 
+
+HSBC Software Development (I) Pvt LtdNov 2007 - Apr 2011* Developed dashboard for Service Availability and Critical/High incident reporting for Top Management.
+* Developed tools for Space Management and Project management using MS Access, Excel and VBA
+* HP QC 9.2 Global support and customization  using workflow script editor
+AnalystKPIT CumminsJun 2005 - Oct 2007* Equity Stock Priority Tracker: Developed tracker to publish the stock handling priority (MS Access, Excel/VBA ) 
+* Part of Opex  (operational Excellence) dashboard development Team (Open source Tech.: Lifray, Postgres)
+* Developed Call Management tool (MS Access, Excel, SQL)
+AnalystSobha DevelopersFeb 2003 - May 2005Construction Company, ERP and Finance Role
+* Supplier and utility payment management. Automated cheque printing and bank reconciliation system (MS Access).
+* Developed Verification of Invoices, Purchase Orders and settlement of payments Tracker (MS Excel VBA).
+ACADEMIC EDUCATIONPune, MHUniversity of PuneJun 1995 - May 2000* M.Com. in Finance, Accounting and Taxation- Jul 1999. 
+* Diploma in Computer Management - Jan 1999.
+* B.Com in Economics, Accounting and Taxation - May 1997.
+
+PROFESSIONAL EDUCATION* Diploma in Business Admin from Institute of Chartered Financial Analysts of India University - May 2012
+* HP0-46 ALM 11.x S Certification from HP ExpertONE - Jul 2012
+* Business English Certificate Preliminary from University of Cambridge, ESOL Examination - Jan 2009
+* Higher Diploma in Software Engineering from Aptech Computer Education - Jan 2002
+* Software Quality Testing Analyst from Computer Society of India - Jun 2007
+* Certified Equity Expert from Etrade Financial - 2007
+TECHNICAL EXPERIENCEProjects * Associate Performance Assessment (2013). Developed Tracker to assess associate performance across the bands and departments. This helped manager to plan the associate career development plan.
+* TargetScore(c) (2012). Developed tool to assess the projects meeting the CMMI 1.3 framework standards.
+* Call Management (2005 - 2007). Multiuser Ms Access application to manage the call handling process
+ADDITIONAL EXPERIENCE AND AWARDS* Developer (2007 - 2012): Two times U Made a Difference award for consistent effort for automation and Process improvement (2007).Two times PAT on back for automation and process improvement (2012).
+Languages and Technologies* Ms Office , Ms Excel/VBA, SQL, Test Management Tools - HP QC/ALM , MS Access, CA Clarity, HP PPM, RDBMS

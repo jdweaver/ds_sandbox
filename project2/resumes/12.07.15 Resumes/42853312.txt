@@ -1,0 +1,47 @@
+Education
+Drexel University, Philadelphia, PA 
+Master of Science in Information Systems, Anticipated Graduation - June 2014 
+Cumulative GPA: 3.44 
+
+Drexel University, Philadelphia, PA 
+Bachelor of Science in Information Technology, Anticipated Graduation - June 2014 
+
+Central High School, Philadelphia, PA 
+High School Diploma, June 2009 
+GPA: 3.6
+
+Honors 
+Dean's Scholarship 2009-2013
+
+Experience 
+SAP America, Newtown Square, PA 
+Network Engineer Intern, September 2011 to March 2012; September 2010 to March 2011 
+Managed/Installed hardware and cabling in a data center environment 
+Handeled cabling between switches and users 
+Configured Cisco and HP hardware 
+Created a private network in a lab environment 
+Supported users with networking problems 
+Trouble shoot and support networking hardware 
+
+Central High School, Philadelphia, PA 
+IT Assistant, September 2007 to June 2009 
+Analyzed problematic computers and if possible repaired any damaged components 
+Installed Windows XP and Mac OS X 
+Installed necessary secruity software and office suite 
+Performed regular system backups 
+
+Computer Skills 
+Windows XP, Mac OS X, MS Office (Word, Excel, Powerpoint)
+Setting Up Hardware and performing basic trouble shooting tests 
+Replacing necessary components in a computer 
+Installing and configuring network hardware 
+
+Relevant Coursework 
+Applied Data Management
+Foundations of Software
+Web Systems / Services I & II 
+Information Technology Infrastructure 
+Computer Networking Tech I & II 
+Server Technology I, II, III
+Information Evaluation, Organization & Use 
+Distributed Systems Security 
