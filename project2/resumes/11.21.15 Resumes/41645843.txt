@@ -1,284 +1,0 @@
-Miyuru	  Dias	  	  
-
-	  
-
-	  
-
-Mobile:	  +44	  (0)7723	  888577	  
-	  
-
-	  
-
-	  
-
-	  
-
-	  
-
-	  
-
-	  
-
-	  
-
-	  	  	  	  	  	  	  	  	  	  	  
-
-	  	  	  	  	  	  	  	  	  	  	  
-
-	  	  	  	  	  	  	  	  16,	  Havelock	  Street,	  Sheﬃeld,	  S10	  2FP	  
-
-	  
-
-	  
-
-	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  Email	  Address:	  miyuru.dias@gmail.com	  
-
-Enter	  a	  challenging	  graduate	  programme	  to	  broaden	  my	  understanding	  and	  gain	  mulNdisciplinary	  engineering	  skills	  in	  
-path	  to	  becoming	  a	  chartered	  engineer,	  whilst	  striving	  to	  make	  a	  signiﬁcant	  contribuNon	  to	  the	  organisaNon	  at	  which	  I	  
-am	  employed.	  
-
-OBJECTIVE	  
-
-!
-!
-
-EDUCATION	  AND	  QUALIFICATIONS	  
-
-!
-
-!
-
-!
-!
-!
-
-!
-
-University	  of	  Sheﬃeld	  
-MEng	  Systems	  and	  Control	  Engineering	  
-
-	  
-
-	  
-
-	  
-
-	  
-
-	  
-
-	  
-
-	  
-
-	  
-
-	  
-
-(2009	  -­‐	  2014)	  
-
-• Areas	  of	  study	  -­‐	  Advanced	  AutomaNon	  &	  Control	  Systems	  Design.	  Data	  Modelling,	  SimulaNon	  &	  Analysis.	  
-Systems	  IdenNﬁcaNon.	  MulN-­‐Sensor	  Data	  Fusion.	  Hybrid	  Control	  Systems.	  Fuzzy	  Logic.	  State	  Space	  Control	  
-Design.	  Digital	  Signal	  Processing.	  Embedded	  Systems.	  OpNmal	  and	  Robust	  Control.	  Distributed	  Real-­‐Time	  
-Control	  Systems.	  Space	  Systems.	  AccounNng	  &	  Finance.	  Project	  Management	  &	  HRM	  for	  Engineers.	  
-
-• MEng	  Individual	  Project	  -­‐	  ComputaNonal	  systems	  idenNﬁcaNon	  for	  linear	  state-­‐space	  models	  using	  GPU	  
-
-compuNng	  methods.	  
-
-• MEng	  Group	  Project	  -­‐	  Designed	  and	  built	  an	  acNve	  suspension	  system,	  and	  developed	  PID	  control	  algorithms	  
-
-enabling	  the	  system	  to	  autonomously	  counteract	  and	  reduce	  vibraNons	  by	  up	  to	  50%	  of	  the	  input.	  
-
-MEng	  Mechanical	  Engineering	  
-Completed	  one	  semester	  before	  changing	  to	  Systems	  and	  Control	  Engineering	  based	  on	  academic	  preference.	  	  
-
-• Modules	  studied	  include	  -­‐	  Design	  &	  Manufacturing.	  Engineering	  Mechanics.	  Java	  Programming.	  
-
-!
-
-College	  of	  InformaFon	  CompuFng	  and	  Management,	  Sri	  Lanka	  
-
-	  
-
-	  
-
-	  
-
-• Diploma	  in	  AutoCAD	  2D	  and	  3D	  
-• Diploma	  in	  Graphics	  and	  Web	  Design	  
-
-Colombo	  InternaFonal	  School,	  Sri	  Lanka	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  
-
-	  
-• Edexcel	  A	  Levels	  -­‐	  Further	  MathemaNcs	  (B),	  MathemaNcs	  (A),	  Physics	  (A)	  
-• Edexcel	  AS	  Levels	  -­‐	  Further	  MathemaNcs	  (A),	  MathemaNcs	  (A),	  Economics	  (A),	  Physics	  (A)	  
-
-	  
-
-	  
-
-	  
-
-	  	  	  	  	  	  	  	  	  	  	  	  	  (2010)	  
-
-(2008	  -­‐	  2009)	  
-
-WORK	  HISTORY	  
-
-University	  of	  Sheﬃeld,	  SURE	  Scheme	  -­‐	  Student	  Researcher	  -­‐	  	  Sheﬃeld,	  UK	  
-Project	  Title	  -­‐	  Parallel	  CompuNng	  of	  the	  Generalised	  Frequency	  Response	  FuncNons	  (GFRFs)	  for	  Nonlinear	  Systems.	  
-
-	  	  	  	  	  	  	  	  	  	  	  	  	  	  (June	  2013	  -­‐	  July	  2013)	  
-
-	  
-
-• Funded	  by	  the	  AutomaNc	  Controls	  &	  Systems	  Engineering	  department	  of	  the	  University	  of	  Sheﬃeld.	  
-• Gained	  insight	  into	  parallel	  compuNng	  techniques	  and	  the	  CUDA	  C/C+	  environment.	  
-• Generated	  CUDA	  scripts	  to	  derive	  the	  GFRFs	  of	  a	  non-­‐linear	  suspension	  system	  that	  executes	  on	  a	  NVIDIA	  Tesla	  
-
-C1060	  GPU	  supercomputer.	  
-
-TRW	  -­‐	  Student	  Engineer	  (Systems	  Department)	  -­‐	  Solihull,	  UK	  
-
-	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  (July	  2012	  -­‐	  Sept	  2012)	  
-• Responsible	   for	   remodelling	   requirements	   of	   the	   Volkswagen	   EPS	   project	   by	   debugging	   and	   reconstrucNng	   a	  
-
-	  	  	  	  	  	  	  	  
-
-	  
-
-funcNonal	  requirement	  secNon	  and	  its	  sub-­‐secNons	  from	  the	  ground	  up.	  
-
-• Managed	  the	  upper	  column	  sub-­‐system	  requirements	  document	  as	  the	  module	  administrator.	  
-• Conducted	  regular	  meeNngs	  and	  baseline	  reviews	  with	  team	  leaders	  and	  higher	  management.	  
-• Gained	  a	  holisNc	  understanding	  of	  requirements	  gathering	  and	  management.	  
-
-General	  Electric	  -­‐	  Engineering	  Intern	  -­‐	  Bangalore,	  India	  
-
-	  
-
-	  
-
-	  	  	  	  	  	  	  	  	  
-
-	  
-
-(July	  2011	  -­‐	  Aug	  2011)	  
-
-• Worked	  on	  a	  SubstaNon	  AutomaNon	  System	  project	  at	  GE	  Energy	  Industrial	  SoluNons.	  
-• Gained	   insight	   into	   diﬀerent	   IED’s	   (Intelligent	   Electronic	   Devices)	   used	   globally	   in	   grid	   protecNon	   and	   power	  
-
-systems,	  their	  hardware	  funcNons	  and	  the	  diﬀerent	  communicaNon	  methods	  and	  protocols	  used	  in	  industry.	  
-
-• Carried	   out	   acceptance	   tests	   during	   the	   commissioning	   period	   of	   the	   project	   using	   GE’s	   Proﬁcy	   HMI/SCADA	  
-
-Cimplicity	  and	  EnerVista	  sokware	  suites.	  
-
-LTL	  Holdings	  -­‐	  Engineering	  Intern	  -­‐	  KerawalapiFya,	  Sri	  Lanka	  	  
-
-	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  (July	  2010	  -­‐	  Sept	  2010)	  
-• Assisted	  a	  team	  of	  specialist	  engineers	  in	  scheduled	  turbine	  shak	  maintenance	  and	  borescope	  inspecNons	  of	  
-
-	  	  	  	  	  	  	  
-
-	  
-
-two	  GE	  9E	  Heavy	  Duty	  Gas	  Turbines	  at	  the	  Yugadhanavi	  300MW	  Combined	  Cycle	  Power	  Plant.	  	  
-
-• Gained	  experience	  in	  instrumentaNon,	  safety	  systems	  and	  SCADA	  sokware	  calibraNons,	  among	  other	  daily	  tasks	  
-
-of	  the	  power	  plant.	  
-
-University	  of	  Sheﬃeld	  -­‐	  InternaFonal	  Oﬃce	  Ambassador	  
-
-University	  of	  Sheﬃeld	  -­‐	  Bar	  &	  Cloak	  Room	  Staﬀ	  	  
-
-	  	  
-
-	  	  
-
-	  
-
-	  
-
-	  
-
-	  
-
-	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  	  (Sept	  2013	  -­‐	  Present)	  
-
-	  	  	  	  	  	  	  	  	  	  	  	  
-
-	  
-
-	  	  	  (Nov	  2011	  -­‐	  Present)	  
-
-!
-
-SKILLS	  
-
-Teamwork	  and	  Leadership	  
-
-• University	  halls	  block	  representaNve	  –	  Liaison	  between	  the	  residents	  and	  AccommodaNon	  and	  Campus	  Services	  
-
-to	  ensure	  the	  wellbeing	  of	  120	  students’	  (ranging	  from	  UG	  to	  PG).	  
-
-• Elected	  on	  to	  the	  University	  of	  Sheﬃeld	  Community	  Development	  Commioee	  2009/10.	  Organised	  and	  managed	  
-
-events	  for	  over	  3500	  ﬁrst	  year	  students.	  
-
-• Experience	   in	   various	   team	   environments	   such	   as	   university	   project	   groups,	   the	   InternaNonal	   Students	  
-
-Commioee	  &	  The	  Sheﬃeld	  University	  Rowing	  Team.	  
-
-Interpersonal	  and	  CommunicaFon	  
-
-• Bilingual	  -­‐	  ﬂuent	  in	  English	  and	  Sinhala.	  	  
-• Developed	  key	  organisaNonal	  skills	  and	  coaching	  styles	  as	  the	  departmental	  mentor	  for	  MSc	  students.	  
-• Highly	  adaptable	  internaNonal	  student	  capable	  of	  interacNng	  with	  a	  broad	  spectrum	  of	  people	  from	  diﬀerent	  
-
-backgrounds.	  
-
-• Developed	  proﬁcient	  communicaNon	  skills	  by	  working	  with	  diﬀerent	  student	  and	  professional	  bodies,	  as	  well	  as	  
-
-with	  various	  customers	  during	  internship	  and	  part-­‐Nme	  work	  opportuniNes.	  
-
-IT	  Literacy	  
-
-• Competent	  in	  Windows,	  UNIX	  (Mac	  OS	  X),	  and	  Linux	  environments.	  
-• Professional	  Tools	  -­‐	  MATLAB,	  Simulink,	  C/C++,	  CUDA,	  Java,	  PLC,	  PIC	  Assembly	  &	  Telelogic	  Doors.	  	  
-• Design	  &	  Web	  Tools	  -­‐	  Adobe	  CreaNve	  Suite,	  AutoCAD,	  ProDesktop,	  Solidworks	  &	  HTML.	  
-
-AWARDS	  AND	  ACHIEVEMENTS	  
-
-!
-
-• University	  of	  Sheﬃeld	  scholarship	  based	  on	  academic	  achievements	  2009	  -­‐	  2014.	  
-• Best	  MEng	  Group	  Project	  of	  the	  AutomaNc	  Control	  &	  Systems	  Engineering	  department	  for	  2013.	  
-• Edexcel	  High	  Achievers	  Award	  for	  AS	  Levels.	  
-• Awarded	   the	   ‘Most	   Outstanding	   Oarsman	   of	   the	   Colombo	   Rowing	   Club’	   (2007)	   and	   Royal	   College	   Rowing	  
-
-Colours	  (Achievements	  RecogniNon	  Award).	  
-
-• ‘Skills	  for	  Work’	  -­‐	  A	  cerNﬁcate	  endorsed	  by	  a	  range	  of	  organisaNons	  (BT,	  Outokumpu,	  PWC)	  Awarded	  	  by	  the	  
-
-University	  of	  Sheﬃeld	  careers	  service.	  
-
-!
-
-!
-!
-!
-
-!
-
-!
-
-!
-
-!
-
-REFERENCES	  -­‐	  Available	  upon	  request
-
-

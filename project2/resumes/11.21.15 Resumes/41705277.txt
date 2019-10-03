@@ -1,60 +1,0 @@
-John Smith
-123 Sesame Street    					Home Tel: 12345678910
-England							Mobile: 12345678910
-England					             		Email: An.Email@email.com
-England England
-
-Profile
-I am a responsible and reliable individual who has, through the experience of University and an apprenticeship with BT gained many skills necessary to be successful in both life and the working world.  I hold a broad set of IT skills that have been obtained through many years of computing both educational and in leisure as well as more in-depth skills within network design and configuration.  I feel that this job plays to my strengths and provides a great opportunity to contribute further to BT and progress through with my career.
-
-IT Skills
-
-SkillInfoStrengthNetwork DesignDesigning a network solution for a customer scenarioHighNetwork ConfigImplementing the network solutionHighJunosOperating system for Juniper routersHighCiscoOperating system for Cisco routersMedium/HighCOSMOSSMedium/HighOne SeibelMedium/High
-Education
-2014 - 2017		University			Foundation Degree ICT
-
-Relevant University Modules
-
-- Network Architectures- ICNA- Professional and Academic skills	
-2009 - 2012		University 			BSc (Hons) Computing
-
-Relevant University Modules
-
-- Software Management- Software Engineering- Work-based experience in Computing Education- Mobile Device Programming- Professional Practice and social responsibilities- Database Development- Web Development Platforms- Website Development- Databases- The IT Professional- Human-Computer Interaction- System Requirements and Design- IT Legislation and Ethics2002 - 2009 		School
-
-A-Levels:  Information Technology B, Mathematics C, Design Technology C
-
-GCSEs:  10.5 Grade A-C including English, Maths, Science and I.C.T
-Employment History
-
-Nov 2014 - Present			BT apprenticeship
-
-3 year apprenticeship within DFTS performing a networking role that required designing and building customer networks.
-
-Jan 2013 - Nov 2014			Freelance Website Design
-
-Met with clients, elicited their requirements for a website and then proceeded to produce the website to their specifications with my own creative input.
-
-Sept 2012 - Jan 2013			Customer Assistant, 
-
-Working within a department of the wider store I had to develop a good relationship with my co-workers and be approachable by customers in order to aid them in selecting and purchasing their products.
-
-August 2007 - August 2009		Sales Assistant, 
-
-Working in small Convenience store I had to develop a good rapport with the customers making myself approachable so that customers feel comfortable and at ease.  I was also in charge of opening/closing the shop and cashing up the tills showing great reliability and responsibility.
-
-Skills
-Technical:
-Whilst studying at University and undertaking a BT apprenticeship I have gained and developed numerous computer skills.  The main skills I have built up an in-depth knowledge of lie within the field of networking.  University gave me a basic grasp of the field as a whole that I was able to narrow down and master whilst at BT.  The commercial environment allowed me to design, configure and test live networks that would be delivered to customers.  I was able to learn each stage of the process and come the end take a leading role in its production.  I have become proficient in the programming languages 'Junos' and 'Cisco', both of which are used to create the networks we delivered to customers.
-
-Project Management and Organisation:
-At University I have learnt how to structure my time in order to complete work that has specific deadlines with the most amount of functionality possible.  During my time in higher education I was involved in a number of modules that centred on project management.  I gained experience with many methods including PRINCE2, Incremental Development and the Waterfall Method.  As well as the methods of management I was also able to gain a greater understanding how to achieve project success and avoid failure by learning the main causes and how to combat them.
-
-Team Work:
-As an employee of BT teamwork is essential and without it any projects will fail.  During the last three years I have become an integral part of my team and am able to aid other people as well as receive guidance myself.
-
-Referees
-Dave Green						
-an address						
-Somewhere							 
-England 						

@@ -1,3 +1,0 @@
-Name: Binh
-Location: Vietnam
-Age: 29

@@ -1,55 +1,0 @@
-BLANKBLANK Office BLANK  Cell BLANKEmail:  BLANKSummaryInnovative Senior Manager with 20 years at BLANK.  Strong combination of technical and management expertise.   Expert knowledge of Wireless and Wireline Networks.  Recognized for technical leadership and program/project management skills. 
-Areas of Expertise* Program and Project Management
-* Product Development and Design
-* LTE Wireless Network
-* Data Communications 
-* Network Planning and Engineering
-* Network Operations
-
-Experience
-BLANK,2009-Present
-Senior Technical Project Manager,  BLANK Strategic Program Organization
-Program Manager supporting the introduction and build out of the Wireless LTE nation wide network.  
-Responsible for managing key program milestones and program risks, issues and jeopardies and for ensuring the corporation meets program objectives.
-? Currently responsible for Program Integration of the VoLTE Service (VoIP) on to the IMS based Universal Service Platform (USP) and Telephony Application Server Platform (TAS).
-? Partnered with NP&E and Mobility to deliver the UPS Platform on time for VOLTE FFA testing in 2012.	
-? ASPO Manager responsible for the introduction of Circuit Switch Fall Back (CSFB) Service into the LTE network in 2011.
-? Project managed the on time delivery of a Universal Core IMS FRP to nine vendors in support of kicking off the LTE Program.
-? Expert in both OAA and NTD development processes.
-? Developed key LTE KPI metrics for presentation to Executives.
-? Led Program Standardization effort across ASPO Programs in 2013.	
-
-BLANK2005-2009Lead Product Development Manager, Product Development
-Product Developer with Wireline/Wireless Convergence Team. 
-Worked with representatives from all aspects of the business to deliver new telecommunications products and services.
-? Launched BLANK HomeManager product on time and on budget in 2008.
-? Received SVP Award from BLANK for role on HomeManager launch.
-? Delivered E911 Project for Chicago, Ill PSAP in 2006.
-? Volunteered to work on short term process mapping and requirements development efforts in between projects.
-
-Experience cont.BLANK2004-2005Lead Product Development Engineer, Long Distance Data Product Development
-Technical lead for Customer Network Management (CNM), ATM/Frame Relay Enhancements, and International Private Line products.
-Lead technical core teams with representatives from Operations, Engineering, IT and SBC Labs.
-? Documented streamlined Operational Readiness Test in support of the on time launch of ATM/Frame Relay IMA/Multilink enhancements.
-? Authored technical strategy document in support of SBC's effort to offer International Private Line outside of U.S. and Mexico.
-? Recognized for project leadership--Offered and accepted role as Product Development Manager.
-
-BLANK2000-2004Senior Network Manager, Advanced Solutions Inc. Network Operations
-Tier 3 Technical Support for the BLANK NAP and Metasolv Resolve.
-Responsible for providing 99.99 network availability of Cisco ATM network to ISP customer set. Provided technical leadership and project management for major network systems upgrades
-? Installed and maintained NMS Systems (Cisco Wan Manager, Alcatel 5620, HP Open View, Metasolv Resolve and Concord Network Health) to support network provisioning, maintenance and surveillance.
-? Eliminated Cisco engineering support contract that resulted in $390,000 annual savings.
-EducationSouthern Methodist University, Dallas, TX
-? M.S., Telecommunications  1997
-
-University of California, Berkeley, CA 
-? B.A., Philosophy  1983
-AffiliationsProject Management Institute
-? PMP Certification Awarded 2006
-
-Boy Scouts of America Troop 8
-? Scoutmaster since 2012
-? Presidential Volunteer Service Award
-
-	- 2 -
-

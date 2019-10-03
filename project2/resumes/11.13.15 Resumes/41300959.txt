@@ -1,73 +1,0 @@
-Career ProfileAn experienced, disciplined, and highly-motivated Business Analyst with a technical background who has worked on a wide range of projects within the Energy and Utilities sector. An excellent communicator with strong investigation, problem-solving and decision-making skills.Key Skills and Qualifications* Requirements Elicitation
-* Use Case Modelling
-* Requirements and Functional Documentation Authoring
-* UML
-* Management and supervision of staff
-* Full project life cycle experience
-
-* Programming Languages
-C,  PL/SQL, JAVA, Korn Shell
-
-* Foreign Languages
-French - IntermediateProfessional Experience2006 - PresentTotal Gas and Power
-Business Analyst
-Responsible for conducting the Business Analysis on a major business improvement project to update the legacy Power system. I delivered comprehensive requirements documentation. I acted as an information conduit between the business stakeholders and IT.
-* Worked with stakeholders at all levels, (Directors through to Users)
-* Requirements Capture
-* Ran Workshops
-* Interviewed Stakeholders
-* Produced Documentation for both Business and Technical stakeholders
-* Mentored Business Analysts
-* Championed Business Improvement Initiatives
-* Conducted Job Interviews
-Lead Developer
-Responsible for develepment in the Projects team working on Business Improvement Projects such as the Automated Meter Readings web portal for Gas. This was an external facing system used by our customers to obtain meter read data.
-
-* Mentored Staff
-* Reviewed Code and Documentation
-* Conducted Job Interviews
-* Created and Managed Development Standards1998 - 2006LogicaCMG
-Senior Developer / Tester
-Client: Elexon
-Responsible for the development and testing of enhancements to the 'Funds Administration Agent' system used for effecting the transfer of funds between Balancing and Settlement Code Parties and to the 'PARMS' system used to monitor the performance of suppliers in the electricity market.
-* Implemented 'Funds Administration Agent' enhancements using Oracle Forms 10g and Oracle Reports 10g
-* Implemented PARMS enhancements using Java, Visual Basic and PL/SQL
-* Produced functional specifications and other technical documentation
-* Provided guidance to junior team members
-* Provided assistance to the client on their site
-Developments Team Leader
-Client: Centrica
-Managed a medium sized development and system test team concurrently working on a number of different enhancements. Responsible for maintaining the Service Contract Management System which is used for the collection, management and reporting of customer, premises, service contract and account information. The system was developed on a Solaris box running an Oracle 9i database.
-* Managed up to 10 staff
-* Provided training for team members
-* Managed software quality control and systems safety reviews
-* Planned delivery milestones
-* Ensured timely delivery of software to the client
-* Liaised with the client
-* Produced functional specifications and other technical documentation
-* Implemented enhancements using C, PL/SQL, Oracle Forms 6i and Korn shell scripts
-Technical Manager
-Analyst / Programmer 
-Client: Northern Electric
-Managed the design and development and testing of a Non Half Hourly Data Collection System which is used to collect electricity meter readings and meter details for home consumers. The system was developed on an HP/UX box running an Ingres 1.2 database.
-* Managed up to 3 staff
-* Responsible for configuration management
-* Ensured timely delivery of software to the client
-* Liaised with the client
-* Produced functional specifications and other technical documentation
-* Implemented enhancements using C, Ingres SQL and Korn shell scripts
-
-Analyst / Programmer
-Client: East Midlands Electricity
-Responsible for the development and testing of enhancements to the 'Metering 98' product used to manage the client's business from meter readings to customer billing. The system was developed on a Solaris box running an Oracle 8 database.
-* Implemented enhancements using C, PL/SQL and Oracle Reports
-
-Graduate Interviewer
-Client: Internal LogicaCMG Graduate Recruitment Centre
-Performed both one to one interviews and group activity assessments as part of the company's ongoing recruitment programme. This was done on a part time basis alongside other project work.
-* Graduate interviewingEducation and Training1994 - 1998Southampton Institute of Higher Education
-BSc (Hons) Computer Studies 2:1
-HND Computing1986 - 1994Ridgeway School
-'A' Levels: 	English, General Studies
-GCSEs: 	Nine, including English, Mathematics and SciencePersonalDate of birth: 2 October 1974
-Full, clean, UK driving licenceInterestsI have a keen interest in strategy board games and play regularly. I also enjoy bird-watching, wildlife photography and walking in the country.ReferencesAvailable on request

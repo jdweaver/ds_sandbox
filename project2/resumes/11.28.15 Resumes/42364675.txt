@@ -1,26 +1,0 @@
-
-
-
-
-
-
-
-PROFILE	
-A computer professional with over a decade of experience in computer systems, with a wide-range of skills in desktop support and trouble-shooting.
-
-EDUCATION	
-	BTEC National Diploma in Computer Studies 
-	Derby College, Derby, UK
-
-SKILLS
-Help DeskHardware/software support both onsite and remote.
-Microsoft System Configuration Manager 2007Both setup and use, deploying operating systems, software and software updates as well as general reporting.
-Active Directory/Group Policy
-Administering AD and Group Policy as well as creating policies for various situations.Microsoft Exchange Upgrade/Migration
-Client-side support (Outlook, Blackberry etc.)Microsoft Office 2000 through to 2010Both use and support
-EXPERIENCE	
-2000 - 2003
-Self-employed, running a small computer repair business that mainly supported home users and small businesses. 
-
-2003 - present day
-Working as a volunteer in the London branch of a global charity in a computer support role.  While working there I have gained many of the skills listed above, supporting a network of around 600 computers over several sites as well as remote workers.  I have also performed some contract work during this time.

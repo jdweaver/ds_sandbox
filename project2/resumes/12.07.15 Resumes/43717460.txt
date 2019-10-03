@@ -1,107 +1,0 @@
-Gaurav Thakur 
-OBJECTIVE   Intend to build a career with leading corporate of hi-tech environment with committed and dedicated people who will help me explore my full potential and develop quality software applications there by benefiting the organization I represent. Educational Background     I have been an above average student through out my educational career being really keen to absorb things and relate to the logic behind them. 
-§       Secured 77.8% in X 
-§       Secured 75.6 % in XII 
-§       B. E. with 74.13 %Computer Skills   Technologies : Core Java,  Servlets,  JMS,  WebServices,  XML,  Oracle, PostgresSQL,  JBoss Cache, Spring,  Apache Service Mix 
-Tools : Eclipse 3.3,  Axis2 1.4.1,  SoapUi, iBatis, Maven 2.0. 
-Servers Operated Upon : Geronimo 2.0,  Jboss 4.1, ServiceMix, Jboss. 
-Professional Experience  
-I`m working as a Senior Software Engineer with Eroad from last one year. My project experience can be summarized as below. 
-
-1. Project Name : CPAN 
-Client :  
-Role And Responsibility: Software Engineer; Design Analysis, Build, Performance Improvement. 
-Team size : 4 
-Duration of the project : 9 months 
-Description of the project :  The first project involved fetch and update for client`s customer profiles and preferences along with some batch jobs to maintain data consistency. The design-phase was customer driven, due to which there was a performance bottleneck, which was identified and resolved. It resulted in being able to stick to the deadline commitment for the client. We were able to stand up against stringent performance parameters for huge file sizes. The resolution was implemented before UAT to ensure savings for the customer. 
-I was awarded a Spot Award, for defect less delivery and quick learning skills. 
-Technologies Involved : Core Java, JMS, XML,  Webservices,  PostgresSQL, Apache Geronimo, Maven.
-  
-2. Project Name : MTOM 
-Client :  
-Role And Responsibility : Software Engineer; Design Analysis, Build
-Team size : 5 
-Duration of the project : 4 months 
-Description of the project: The second project was again a web services development. It involved XML Processing and file attachment handling on webservices using MTOM. More than seventy percent of the total build was my responsibility. It involved creation of an adaptor between two applications to ensure easy migration of clients to a newer version of the application.
-Technologies involved : Core Java, XML, Webservices Axis2 with MTOM, Servlets,  Apache Tomcat, Apache Geronimo,  Maven, Java NIO.
-3. Project Name : CTFValidation 
-
-Client :  
-Your Role : Software Engineer, Build, Maintenance, QA support.
-Team size : 3 
-Duration of the project : 4 months 
-Description of the project : The next project was developed as a windows validation service using Maven. It involved using quartz component to ensure that the jobs were triggered at continuous intervals. Complex queries were executed to pick up data from the db on a regular basis and perform the validation in case of errors the support system was notified.
-Technologies involved :  Core Java, JDBC, Quartz Scheduler, Maven, DB2,  Checkstyle. 
-
-4. Project Name : RBCB 
-Client :  
- Roles And Responsibilities : Senior Software Engineer, POC, Design, Build. 
-Team size : 10 
-Duration of the project : 9 months 
-Description of the project : The fourth project was a component development project. It involved developing new Service Mix components which performed the requirement specific functions. The components could be configured to be used together for a complete flow.  The main objective was to process the incoming files to a desirable output. It was done by passing files through different components running as services.
-The challenge here was to learn and start development of service mix component in two weeks time without any proper documentation or training of the same. It also involved web services development. 
-We won the Best Team Award along with client accolades and goodies.
-Technologies involved : Service Mix,  JMS,  Maven,  Zdecimal api for EBCDIC-ASCII Conversion, Java NIO, Maven,  PMD, FindBugs, Spring, Spring - JDBC, Spring - JMS, Spring - Transaction Management. 
-
-5. Project Name : Cigital Rules 
-Client :  
-Roles And Responsibilities: Senior Software Engineer, POC, Build
-Team size : 2 
-Duration of the project : 2 months 
-Description of the project : The project involved creation of code checking rules to ensure code quality using automated builds. The code was verified against the Cigital Java Security RulePack 1.1. A plugin was created for Jlint, maven sonar integeration. 
-Technologies involved : FindBugs, PMD, Sonar 
-6. Project Name : ePRes 
-Client : SYMCOR 
- Your Role: Onsite Developer 
-Team size : 4 
-Duration of the project : 8 months 
-Description of the project: The project involved enhancing a product offering of the client, which involved strigent performance criteria and high volume transactions. The product was created considering 100% availability and anytime access. It involved creation of multiple webservices and web apps. 
-Technologies involved : Java, Servlets, Webservices. 
-7. Project Name : Sprint
-
-Client : Sprint
-
-Role : Senior Developer
-
-Team Size : 20
-
-Duration of the project :  11 months
-
-Description of the project: The project involved customizing the Amdocs CRM product offering for client. Solution design, detail design and coding were the main activities performed during the project.
-
-Technologies involved : Java, Amdocs Clarify Smart Client 8.0
-8. Project Name : AccessManager
-Client : 
-
-Role : Senior Developer/Lead
-
-Team Size : 9
-
-Duration of the project :  3 months
-
-Description of the project: The project creating a product for a oil and gas consulting company to be able to handle the gas flow for the storage operators. I'm a part of two teams, one creating the technical specifications to be used for build and the other team which is responsible for the stability and support for the base foundation layer of the product.
-Technologies involved : Java, Spring, JPA,  Adobe Flex, DWR.
-I have also been a part of the Code Quality Expert group, working on Sonar tool to ensure a centralized Code Quality Reporting and automated review to findout reoccurring design and architecture issues at the time of development. The responsibility of setting up Sonar at the whole account level was handled by me. Interpersonal qualities                1. Confident 
-              2. Communication skills And Presentation Skills 
-              3. Team player Achievements 
-    CO CURRICULUR  ACTIVITIES 
-  
-·       Organized a state level inter-college technical festival called "JUVENTAS". 
-·       Winner of the debate competition in college on Science Day. 
-·       Secured third position at state-level inter-college debate competition. 
-·       Secured second in the 'Ad promulgation' contest at state level. 
-·       Was appointed as the School Captain. 
-  
-EXTRA CURRICULAR ACTIVITES 
-  
-·       Participated in Cricket championship at National Level, as Captain of the team. 
-·       Lead school team to victory in Cricket championship at Regional level. 
-·       Runner up in the U-19 Cricket championship at regional level. Languages   English 
-Hindi Hobbies   Cricket 
-Listening music Personal Profile   
-
-Sex: Male 
-Nationality: Indian 
-Martial status: Single 
-Current Location :Declaration     I hereby declare that the above information given is true to my knowledge. 
-                                                                                          

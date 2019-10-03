@@ -1,205 +1,0 @@
- 
-NationalityRomanianDate of birth5th of November, 1989Gender
-Male
-Job applied forAnalog Design Engineer at Texas Instruments -  Integrated Signal Chain design center in Delft, The NetherlandsOccupation  field 
-MicroelectronicsProfessional Profile 
-   I am interested in the design of analog and mixed-signal integrated circuits such as amplifiers, comparators, bandgap references, low voltage regulators, data converters, analog and digital filters, both at transistor and system level and in every feature concerning signal processing, device modeling, noise and nonlinearities linked with these types of circuits.
-    The successful research undertaken for both my Bachelor's and my Master's theses entitle me to believe that I can also perform very well in research and development-associated tasks.Work Experience
-Dates
-Occupation or position held
-
-Main activities and responsibilities
-
-
-
-
-
-
-
-Name and address of employer
-  December  2012 - October 2013
-Master scholarship offered  by Infineon Technologies   
-  Design of  rail to rail operational amplifiers in bipolar technology
-    - Design and documentation of an  operational amplifier in bipolar technology with rail to rail swing at the input
-    - Input bias cancellation with adapting current mode circuit for the bias 
-    - DC gain of 110dB,
-    - Unity gain bandwidth at  1.7MHz  
-    - Output current limitation at 40mA in slew rate mode 
-
-Infineon Technologies, Blvd Dimitrie Pompeiu 6, 020335, Bucharest, Romania
-Dates
-Occupation or position held
-
-Main activities and responsibilities
-
-Name and address of employer   September 2012 - October 2012
-    Internship student  
-
- Design of low drop-output voltage regulators, operational amplifiers and oscillators.  High power switches.   Infineon Technologies, Blvd Dimitrie Pompeiu 6, 020335, Bucharest, RomaniaEducation and training
-Dates
-
-Title of qualification awarded
-
-
-Name and type of organisation providing education and training2012 -  July 2014
-
-Master of Science (expected graduation date July 2014) First year G.P.A.: 9.90/10, Expected number of ECTS credits: 125 ECTS credits 
-
-"Gheorghe Asachi" Technical University, Faculty of Electronics, Telecommunication and Information Technology, Modern Techniques of Signal Processing section, Iasi, Romania
-                                    Principal subjects
-
-AnalogDigital
-- Complements of signals and systems theory
-- Nonlinear circuits and systems
-- Design of analog integrated circuits for signal processing
-- Advanced semiconductors and analog circuits for automotive power applications- Hardware and software architecture for signal processing
-- Design of  integrated circuits for signal - processing
-- Functional verification of digital integrated circuits
-- Object oriented programming
-                          
-                        Master's thesis description
-
-
-
-
-
-
-
-
-
-
-
-
-
-                             
-
-
-
-
-
-                            Master's relevant topics
- 
- Thesis Title: "Design Optimization of MOS Devices Based on a More Accurate Description of Their Nonlinearities" - a project based on Europractice IC technology
-
-  - The main topics of the thesis are:
-* The impact of different biasing regions on the nonlinear behaviour of MOS capacitances in the MOS transistor model, evidenced as small-signal distortion
-* The switching of the MOS device: nonlinear behaviour studied as a cause-effect mechanism
-* Large signal distortion due to the swing between strong inversion and weak inversion or between strong inversion and velocity saturation
-
-- The main goals achieved in research and presented in the thesis are:
-* Differential amplifier compensation for small amount of distortion - techniques for a rail to rail swing
-* Case studies for the propagation of the various distortion sources for an optimized/non-optimized design in CMOS operational amplifiers, latched comparators and switched capacitor filters
-* Proven effects of nonlinearities based on total harmonic distortion (THD), periodic AC (PAC) and periodic steady-state (PSS) analyses for the above mentioned types of CMOS circuits
-
-
-Analog IC design, digital IC design, nonlinear circuits and systems, adaptive filtering, image processing 
-                                                       
-                                                      Dates 
-
-                 Title of qualification awarded
-
-  
-
-
-Name and type of organisation providing
-                             education and training                     
-
-2008-2012  
-
-Bachelor's Degree - Electronic Engineering and Telecommunications - Microelectronics, Optoelectronics and Nanotechnologies section
-G.P.A: 9.75/10 (Graduated second in the Microelectronics, Optoelectronics and Nanotechnologies section), 245 ECTS credits
-
-"Gheorghe Asachi" Technical University, Faculty of Electronics, Telecommunication and Information Technology, Microelectronics, optoelectronics and nanotechnologies section, Iasi, Romania
-                               
-                                       Principal subjects
-
-AnalogDigital
-- Signals and systems
-- Circuit theory
-- CAD of integrated circuits
-- Design of analog VLSI circuits
-- Analog integrated circuit design
-- Analog circuit synthesis
-- Modeling of electronic components
-- Materials physics for microelectronics
-- Integrated structures for specific applications
-- Microwave theory- Design of digital VLSI circuits
-- Design of reconfigurable digital VLSI circuits
-- Algorithms and parallel computational structures
-- Computer programming and programming languages
-- Hardware description languages
-- Computer architectures,  operating systems and computer networks                      
-                      Bachelor's thesis description  
-Thesis Title: "Noise in Relaxation Oscillators: Jitter Dependency on Slew-Rate"
- - The aim of the study was:
-* to calculate the equivalent input referred noise, considering the noise of the comparator and the noise of the external network;
-* to find a mathematical model of jitter;
-* to demonstrate the jitter's dependency on non-idealities: dependency on the slew rate of the comparator;
-* to define an equation for jitter due to the white noise of the circuit and the slew rate of the comparator;
-* to characterise the phase noise of the comparator-based hysteretic oscillator in the frequency domain and
-* to calculate the equivalent periodic noise.
-                                                        
-                                                       Dates
-
-                 Title of qualification awarded
-
-Name and type of organisation providing
-                             education and training  
-                  
- 2004-2008                                                   
- 
-High school Diploma - Graduation exam: GPA 9.1/10
-
-"Mihail Sadoveanu" High school, Mathematics and Computer Science Branch, Pascani, Iasi
-                                    
-                             Publications
-
-    
- "Aspects Concerning Cycle-To-Cycle Jitter in a Comparator Based Relaxation Oscillator", IEEE Semiconductor Conference (CAS), Sinaia, Vol. 2, P. 425-428, October 2012         University related projects - Design of a low pass switched capacitor filter
- I designed a low pass filter at transistor level using the concept of simulated resistance and I studied the effects of charge injection and applied offset optimization techniques.
-
-- Synchronization using a Colpitts oscillator
-The project was designed at system level in MATLAB/Simulink, being based on the nonlinear equation that defines the Colpitts oscillator. Two possible applications were verified: synchronization, using an oscillator as a transmitter and another one as receiver, and the modulation/demodulation process, where one of the state variables was altered by an external signal and then transmitted to a receiver that had to recover it.
-
-- Design of a CMOS operational amplifier
-I designed a folded cascode operational amplifier, starting from given specifications for gain, bandwidth, slew-rate and noise referred at the input. Also, layout, LVS and parasitic extraction were the final part of the project.. 
-
-- Design of an 64 bits static RAM CMOS memory cell
-Transistor level design and functionality analysis
-- Systolic implementation of a band pass digital IIR filter. Study and simulation of quantization errors 
-Matlab and Verilog design of an IIR filter, with a final implementation and testing on FPGA
-
-- Design of an 8-bit MIPS microprocessor
-Verilog behavioural and structural description of an 8-Bit MIPS microprocessor. 
-Testing using simulation benches in ModelSim, followed by FPGA implementation and testing
-
-- Back door functional verification of a digital system - YAPP router
-Use of System Verilog for the creation of agents for the I/O ports and the design of a testing environment comprised of complex verification scenarios, together with an access path towards the interior of the device under test (especially the internal registers).                           Awards
-
-                   - 4th Place at the "Tudor Tanasescu" Annual National Contest, Signals, Circuits and Systems section, March 2013
-
-- 5th Place at the "Tudor Tanasescu" Annual National Contest, Signals, Circuits and Systems section, March 2012
-
-- Participation at the Tudor Tanasescu" Annual National Contest, Signals, Circuits and Systems section, March 2011
-Personal skills and
-                               competencesMother tongue(s)RomanianOther language(s)UnderstandingSpeakingWritingListeningReadingSpoken interactionSpoken productionWritten productionEnglish
-          IELTS Academic Module assessment8C26B26.5C16.5C16B2Levels: A1/A2: Basic user - B1/B2: Independent user - C1/C2: Proficient user 
-IELTS Academic module, 7th of December 2013Social skills and competences
-
-Good written and verbal communication skills, sociable, good organizational skills, easily adaptable and able to work independently, good team-working skills, excellent public speaking and presentation skills
-Personal strengthsHighly efficient, excellent problem-solving skills, analytical thinker, patient, proactive, fast learner, creative, experimental skills
-Technical competencesCAD Simulators: Cadence circuit design tools (Schematic, Spectre, Virtuoso), Orcad , HSpice
-   Hardware description languages: Verilog (advanced level), VHDL (medium level),VHDL AMS(intermediate level), Veriloga (intermediate level), System Verilog(intermediate level)
-   Programing languages: C/C++ (both imperative and object-oriented programming, medium level), MATLAB/Simulink (advanced level), Maple (advanced level) 
-   Design environments: ModelSim, QuestaSim, LabView CVI, Microsoft Visual Studio, Mentor Graphics
-   Operating systems: Microsoft Windows, UNIX, AndroidExtra-curricular activities
-
-
-June-July 2013
-Part of the organizing committee of the IEEE International Symposium on Signals, Circuits and Systems organized by the "Gheorghe Asachi" Technical University of Iasi, Romania in collaboration with the IEEE Romania Section and the IEEE CAS Society.Referees
-Will be provided upon request.
-0Curriculum Vitae0Mihai-Valentin Gurzun
-
-Page 3 of 3
-
-

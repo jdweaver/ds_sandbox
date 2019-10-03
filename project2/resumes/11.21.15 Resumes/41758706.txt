@@ -1,194 +1,0 @@
-
-PERSONAL INFORMATIONNameDate of birthSurnameMarital statusNationalityCurrent positionE-MailMobile phone
-
-UNIVERSITY DEGREETechnical Engineer in Computer Systems, UPM, Madrid (Final mark 7.92 out of 10)
-2002
-
-
-PROFESSIONAL CAREERCompanyPeriodJob DescriptionBeginEndMonthsCardiff University
-
-(Research Assistant)06/09/10present53
-Analysis, design and development of new software applications for biodiversity scientists by:
-? Assisting with the design and specifications of the software architecture.
-? Carrying out much of the implementation, testing and deployment of the new software.
-? Creating user and technical documentation.
-? Supporting users requests and inquiries
-
-4D4Life project:
-? SOA architecture implemented with Tuscany SCA 2.0, jBPM and Drools.
-
-I4Life project:
-? Perl, PHP 5, Smarty,MySQL.
-
-EUBrazil OpenBio project: 
-SOAP web service implemented in Java porting an existing application developed in PERL and PHP and MySQL.
-
-BioVeL project: 
-? Ruby on Rails, Java, Taverna Workflow, R, SOAP and REST services, MySQL, etc.
-? Joomla, Scratchpad, Dropal
-8
-Review of the technologies and potential architectures that can be used for implementing a workbench that will enable software developers to take advantage of the reconfigurability of the cloud infrastructure (SDN,elasticity, ..) for real-time applications. 
-
-Switch project:
-? MARTE, SysML, TOSCA, PCM, ...
-? Languages & frameworks: Python, Django
-? Semantic modeling: OWL, RDF, SPARQL
-? Formal reasoning and validation: Time Petri Net
-Cibernos
-
-(Software Analyst)02/04/0718/08/0929
-Analysis, design and development of IT applications for Spanish Treasury Department.
-? Capturing user requirements and transforming them into use cases.
-? Designing and modelling the analysis classes.
-? Controlling and supporting the implementation of the software.
-? Developing the software.
-? Creating user and technical documentation. 
-? Making presentations.
-? Maintenance of legacy projects in PHP
-
-Tram@ project:
-? Vb.Net, ASP.Net 2.0, AJAX, Webservices, SQL Server 2005, XML, XSL, UML with MS Visio, Reporting Services and Digital signature.
-IECISA
-
-(Programmer Analyst)07/08/0601/04/078
-Develop a web project for Groupama Insurances: Click Seguros.
-? Implementing some use cases. 
-? Developing the software and testing unit. 
-? Controlling the integrity of the data between different environments.
-
-Click Seguros project:
-? Vb.Net, ASP.NET 2.0, AJAX,  WebServices, VS2005 Team Suite, XML, XSL, Crystal Reports, SQL Server 2005, UML with Enterprise Architect.
-Coprava
-
-(Programmer Analyst)
-19/07/0406/08/0626
-Develop web projects for Santander Bank: Bansatec, Bansacar and Bansalease.
-? Implementing new system requirements by  using novel technology.
-? Maintaining legacy software.
-
-Banscar and Postventa projects:
-? Vb.Net, ASP.NET 1.1, NET.Remoting, AJAX,  UML, WebServices, XML, XSL, Crystal Reports, CISC, AS/400, VB 6, SQL Server 2000.
-
-Bansatec project:
-? ASP, Vb 6.0, SQL Server 2000, ASP.NET 1.1, WebServices, XML.
-Freelance
-(All categories)01/11/0331/01/043
-Develop web portal for a cycling club.
-? Capturing user requirements and transforming into software specifications.
-? Developing the software
-? Deploying into a production server
-? Training users to undertake basic maintenance
-? Fixing bugs and adding new functionality.
-
-CicloBerja project:
-? HTML, JavaScript, CSS, PHP 4, MySQL
-
-Ifigenia
-
-(Junior Programmer)
-01/02/0230/06/0317
-Develop web sites: Enredate, UIMP and Islas Pitiusas by
-? Developing and testing the different modules of the applications 
-
-Enredate and UIMP projects:
-? HTML, ASP, Vb 6.0, SQL Server 2000
-
-Islas Pitiusas projects: 
-? HTML, JSP, Oracle
-Total----------------------144------------------------------------------------------------------------------------------------------
-
-
-SCIENTIFIC AND RESEARCH OUTPUTSPapers:
-* "EU-Brazil Open Data and Cloud Computing e-Infrastructure for Biodiversity", IWSG 2013
-* "Supporting Biodiversity Studies with the EUBrazilOpenBio Hybrid Data Infrastructure", Journal Concurrency and Computation: 
-Practice and Experience (CC-PE) (2014)
-* "ENM Components: a new set of web service-based workflow components for ecological niche modelling", Ecography (2015)
-* Dynamically Reconfigurable Workflows for Time-Critical Applications, Supercomputing Works (2015)
-
-Conferences and/or workshops given:
-• Advancing Biodiversity e-science innovation through Global Cooperation. EUBrazilOpenBio and The Virtual Herbarium of Plants and 
-Fungi of Brazil Joint workshop. Recife Sep 12
-• INTECOL 2013. London Aug 13 (Poster + booth)
-• BIH 2013. Rome Sep 13 (OpenBio workshop)
-• BioVeL training workshop for the development of biodiversity workflow using Taverna Worbench, Cardiff Nov 13
-• EOS course in Wallinford Feb 14 (1 day training in Taverna Workbench and workflows)
-• Joint GBIF France and BioVeL training workshop Mar 14
-• Joint 2014 Annual Meeting British Ecological Society and Société Française d'Ecologie Dec 14 (BioVeL booth)
-• 6th RDA Plenary Sep 15 (Presentation on Climate change data challenge during the plenary)
-
-Seminars given:
-* 2 informatics research seminars at COMSC, once about the design of software following a SOA architecture and other focus in the use 
-of Drools and BMPN
-* 3 biodiversity informatics group seminars at COMSC talling about SOA architecture, DWCA and worklflows development
-
-Projects and EC review meetings:
-• 4D4Life final meeting. Pragha Mar 11
-• i4Life final meeting. Reading Mar 12
-• BioVeL annual meetings: Budapest Oct 2013 and Paris Nov 2014.
-• SWTICH  meetings: Amsterdam Feb 15, Seville Jun 15 
-• EUOpenBio. EU Review meetings(demo presentations). Brussels Dec 12 and Dec 13.
-
-
-PROFESSIONAL TRAININGCourseCompanyDateHoursStrategic business analysisCardiff University201220Managing Finance ICardiff University201220First steps in ManagementCardiff University201120Managing People I and IICardiff University2010-201140Project Management Cardiff University201020IT Governance: ITIL, COBIT, CMMISUNION-CEIM200920ISO 20000SUNION-CEIM200925ITIL V3 Fundamentals SUNION-CEIM200920Preparation course CISCO certificate CCNAGlyndwr University2008-2009300Microsoft Project 2003: Project managementSUNION-CEIM200830J2EE5 and EJB 3SUNION-CEIM200890J2EE - Develop web, JSF and SpringSUNION-CEIM200860Administration of Bea Weblogic SUNION-CEIM200840Programme and develop advanced applications with J2EESUNION-CEIM200830Analysis and design with UML and Rational Rose 2003SUNION-CEIM200735XML-JAVA TechnologyUPM University2002225Analysis of Advanced IT Applications: e-commerce, INTERNET, INTRANET and JAVAUPM University2001200Programming in Internet with HTML and JAVAUPM University2001150
-IT KNOWLEDGEEnvironmentIT Languages & MethodologiesWeb programming* Languages: ASP, ASP.NET, Java, PHP, Perl and Ruby on Rails. 
-* Knowledge in HTML, DHTML, XHTML, JavaScript, AJAX, CSS and WML.
-* Distributed programming: COM+, Webservices, JSON-RPC, .Net Remoting, EJB.
-* Knowledge in XML: DTD, XML-Schema, XSL, XSLT, X-Path.
-* Web Servers: Apache, Tomcat, Bea WebLogic, Internet Information Server (IIS). 
-* Liferay web portal, Dojo, Yahoo User Interface
-.NET* IDE's: VS2003, VS2005 Team Suite and VS2008.
-* Languages: VB.Net, C#
-* Technologies: ASP.Net, ADO.Net, WebServices, Net Remoting, AJAX and Reporting Services.
-* Creation of web controls and user controls.
-* Use of  Microsoft Enterprise Library 3.1
-* CMS: Microsoft SharePoint.
-* Report designer: Cristal Report X, Microsoft Reporting
-* Test: Unit Test, Web Test, Load Test 
-* Team Foundation Server: Team Project, management of work items,...
-JAVA* IDE's: Eclipse, Netbeans
-* Applets, Servlets, JSP, JSTL, Facelets, JSF,
-* EJB 3, Spring
-* SOA, Tuscany SCA, Web services, JMS  
-* JDBC, Hibernate, JPA 
-* JUnit, AOP
-* Ant, Maven
-Database* Standard SQL, T-SQL and PL-SQL
-* SGDB: SQL Server 2005, Oracle 9i, MySQL, SQLIte and Multibase.
-* Stored procedures, jobs, dts, alerts, admin of users, index, ...
-Project management* Requirements analysis: Rational Requisite Pro, 
-* UML: Rational Rose 2003, Enterprise Architect, Microsoft Visio, Visual Paradigm
-* Knowledge in Design patterns.
-* MS Project 2003
-* ITIL, COBIT, ISO 20000Others:* Issue tracking systems: JIRA and TRAC
-* Source control code repositories: SVN, GitHub, Visual SourceSafe
-* Agile methodologies 
-
-
-LANGUAGESLanguageReading (1 to 10)Listening (1 to 10)Speaking (1 to 10)Writing (1 to 10)CertificatesEnglish9978CPE  Grade CSpanish10101010Native              1 = Low level	5 = Medium level		10 = High level
-
-
-ADDITIONAL INFORMATIONCollaborator with the Mathematics Department in my first year at UPM university.
-9.5 out of 10 in my dissertation on Molecular Computing: "Simulation of Melting Process over DNA chains by fusion" implemented in VB6. Certificates in English: BULATS (Grade C2 November 2011), CPE (June 2011), CAE (June 2010) and B2 CEFR level (June 2009). 
-Courses in Advanced and Proficiency General English (College Glan Hafren, 2009-2011) obtaining the  "Outstanding achievement award 09/10" 
-Course in stock exchange and financial markets (UNED - 35h).
-Course in workplace risks prevention at Informática El Corte Ingles
-Course in Time management and Presenting research orally at Cardiff University.
-Driver's license (category B).
-
-
-
-OUTSIDE WORK INTERESTSOutside of work I enjoy playing sports like football, basketball and volleyball, as well socializing with friends.
-I am interested in Astronomy, Physics, Biology and every science in general.
-References - Available on request
-             PERSONAL & PROFESSIONAL RECORD
-
-
-
-Updated:  03/10/15
-
-
-
-
-
-
-

@@ -1,63 +1,0 @@
-Professional ProfileInformation technologist with over 20 years of experience, focused on enterprise data, emerging technologies, and information technology ethics and privacy. * Analytical
-* Articulate
-* Conceptual
-* Curious* Driven
-* Enthusiastic 
-* Inquisitive
-* StrategicProfessional HighlightsEnterprise Data
-* Over 20 years of database design and development experience, in a wide range of industries. Projects include being a special advisor to Bellevue University IT Operations on enterprise management information and decision support systems and data governance, advising the Nebraska Department of Agriculture on the "Locate in 48" program electronic data interchange components, creation of a mobile-friendly event scheduling system for Microsoft Certified Trainers, creation of enterprise collaboration systems for Willow Creek Community Church and the Home Health Care unit of the Consumer Products division of Becton-Dickinson, as well as numerous contracts for small and medium-sized organizations, for example, St. Edward's University Professional Education Center, Conway/Milliken & Associates Call Center, D.S. Howard & Associates, a dry cleaning shop, a transportation company, a community mental health center, a real estate office, a bicycle component manufacturer, and several non-profit organizations, converting paper-based systems to automated data-driven transaction processing systems along with creation of customer relationship management systems. Performed data cleaning, data tabulation, and data reporting at Conway/Milliken & Associates.
-* Created and taught graduate-level enterprise data course focusing on business intelligence, comprising big data, data warehousing, data modeling, metadata, ETL, data mining, data analysis, OLAP, and data visualization, covering business case assessment, technical and non-technical infrastructure evaluation, disaster recovery/business continuity planning, scenario planning, data quality and governance, and privacy.
-* Created and taught graduate-level systems and analysis design course with a strong emphasis on enterprise data systems, including requirements discovery, project management, systems analysis, data modeling, database design, process modeling, application architecture, and feasibility analysis.
-* Served as the Database Community Forum Moderator for Element K Online
-* Microsoft certified in Enterprise Architecture.
-
-Emerging Technologies
-* Created and taught undergraduate and graduate-level emerging technologies courses focusing on the role emerging technologies play in information technology, comprising the relationship between innovation and emergence, analysis of the economic, social, and cultural effects of emerging technologies, relevance of lessons from the past to present and future situations, strategic models for supporting emerging technologies, integration of emerging technology into a sustaining technology system, and evaluation of success or failure. Connections to enterprise data and the Internet of Things are strongly emphasized.
-
-Information Technology Ethics
-* Created and taught undergraduate and graduate-level courses focusing on ethical issues surrounding information technology, comprising the individual's ethical rights and privileges and society's ethical rights and privileges. Topics covered include speech and expression, privacy and security, intellectual property concepts, laws, and practices, computer abuse and risk agents, and the social implications of technology. Students learn to formulate and defend solutions to information technology ethical dilemmas. 
-
-Publications and Presentations
-* "Under the Unfluence: The Dark Side of Influence", 10th Annual Nebraska Cyber Security Conference, Lincoln, NE, September 2015
-* Contributing Author:  Buytendijk, F., Editor (2014) . "Last Call For Datatopia...Boarding Now!:  Four Future Scenarios On The Role of Information and Technology in Society, Business and Personal Life, 2030", Gartner.
-* "Teaching Whistle-blowing and Other Controversial Ethical Topics", ACM SIGCAS for the ACM SIGCSE 2014 conference, Atlanta, GA, March 2014
-* Tutorial: "Copyright vs. 'Copywrong': Teaching Copyright Ethically", CCSC Eastern Conference - 29th Annual Regional Conference In Cooperation with ACM SIGCSE 2013, Ewing, NJ, November 2013
-* Research and Review Contribution: Buytendijk, F. and Heiser, J. (2013). "Maverick* Research: Ethics Are at the Center of the Nexus of Forces". Gartner. 
-* "The Ethics of Information", Nebraska Library Association College & University Spring Meeting 2013, Bellevue, NE, May 2013
-* "To Tweet: Perchance to Dream!", AITP Omaha Scholarship Banquet, Omaha, NE, May 2013
-* "To Tweet or Not To Tweet: A Social Media Question", Infotec 2013, Omaha, NE, April 2013
-* "Nifty Computing In Society Case Studies." With Netiva Caftori, Jim Huggins, Alfreda Dudley, and Dee Weikle, Birds of a Feather (BOF) by ACM SIGCAS for the ACM SIGCSE 2013 conference, Denver, CO, March 2013
-
-Professional Associations
-* ACM (Association for Computing Machinery)
-* ACM SIGCAS (Special Interest Group on Computers and Society) Vice Chair 2014-2017	
-* ACM SIGCSE (Special Interest Group on Computer Science Education)
-* IEEE (Institute of Electrical and Electronics Engineers)
-* IEEE Society on Social Implications of Technology
-* IEEE Computer Society
-* Society for Philosophy & Technology
-Work History* Associate Professor, College of Science & Technology, Bellevue University, Bellevue, NE 
-2006 - Present | Higher Education
-* Consultant, Geekesses dot Net, Chicago, IL/San Diego, CA/Austin, TX/Lincoln, NE 
-1995 - Present | Technology
-* Microsoft Certified Trainer, New Horizons Computer Learning Center, Chicago, IL 
-1995 - 1996 | Technology
-* Project Services Coordinator, DS Howard & Associates, Chicago, IL 
-1994 - 1995 | Market Research
-* Survent/Mentor Supervisor, Conway/Milliken & Associates, Chicago, IL 
-1991 - 1994 | Market ResearchEducation* Master of Arts European History
-University of Nebraska-Lincoln, Lincoln, NE
-* Bachelor of Arts Psychology
-University of Nebraska-Lincoln, Lincoln, NE
-
-
-
-
-
-
-
-
-
-
-
-

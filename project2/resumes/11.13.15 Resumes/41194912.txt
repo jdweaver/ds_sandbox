@@ -1,39 +1,0 @@
-
-
-EXPERIENCE
-XXXXXX - Specializes in data backup from small to large appliances.
-Manufacturing Operations Analyst
-Provide leadership in data analytics, Process Improvement, Vendor Management and Reporting.
-* Automated and deployed metrics to measure the manufacturing performance with VBA
-* Monitored and drive the reduction of COGS worth $120K through analysis and negotiation with contract manufacturer
-* Developed predictive data analytics model to understand the performance of deployed appliances using Tableau
-* Responsible for driving process improvement project to reduce monthly warranty costs
-XXXX, a subsidiary of XXXXX - manufacturer of HVAC Systems		XXXXXXX	 Lean Six Sigma Consultant, MBA consultant team	August XX - December XX Analyzed material movement and logistics from suppliers to the production facility as part of a five person process improvement team and implemented processes to evaluate inbound freight.
-* Utilized six sigma tools to analyze milk run routes between suppliers and warehouse resulting in cost savings of $250,000
-* Developed an excel-based model to design cost-saving milk run opportunities for various in-bound shipments
-* Developed an excel-based tool for production efficiency analysis that tracks daily schedule attainment by production line
-* Analyzed scheduling process to resolve information flows which limited throughput for one production line.
-XXXX - pioneer in manufacturing automation control.	XXXX
-Sourcing Intern	May 20XX - August 20XX
-Negotiated and coordinated with suppliers for procurement of parts and assisted with regular procurement duties. Worked with finance team to resolve weekly invoice issues in Syncada.
-* Trained corporate team in India on e-Auction and coordinated procurement for inventory worth $8 million.
-* Identified excess inventory worth $ 450,000 and developed a process to sell this inventory through a vendor.
-* Implemented & supported Kaizen initiatives, including Vendor Managed Inventory (VMI) systems, saving $40K annually.
-* Led a project to return faulty materials since 2011 to respective suppliers worth $30 K through SAP.
-* Reviewed, documented and updated Productivity metrics each month, improving monthly task planning.
-XXXXX - manufacturer of custom electromechanical controls	XXXXXX
-Technical Business Analyst	June 20XX - May 20XX
-Managed a team of four in development of automation projects. Acted as a liaison between the clients and development team. Gathered, analyzed and documented business requirements. Developed project plans, tracked project execution, managed changes, developed and executed test plans.
-* Facilitated Joint Application Development and Business Requirements documents sessions that improved the gaps in initial requirements  specifications.
-* Increased revenue by 15% after introducing quality management programs that increased customer satisfaction.
-* Reduced late deliveries of projects by 25% after introducing unit level testing during project development phase.
-XXXXX - global IT services provider, annual revenues exceed US$7billion		XXXXXXXXX System Engineer, assigned to retail account in XXXXX	May 20XX - May 20XX Developed and customized a non-traditional programming tool named "BMC remedy". Led team and ensured successful and on-time delivery of long-term deliverables. Experience in co-coordinating with business and IT in all phases of SDLC.
-* Helped generate $300,000 in revenues with client contract.
-* Solutions created for management and expansion of 50 store locations.
-EDUCATION
-XXXXX SCHOOL OF BUSINESS, University of XXXXX	XXXXX
-Master of Business Administration (MBA)	July 20XX - May XX
-XXXXXXXXXXXXXXXXXXX	XXXXX
-Bachelor of Technology, Major in Electronics, Minor in Telecommunication, GPA 3.9 / 4.0	August xx - May XX Student General Secretary.
-
-IT SKILLSApplicationsWord, Power point, Visio, SAP, MinitabProgrammingMainframes, BMC Remedy, PLC, C/C++Engineering/DesignAdobe Photoshop, ORCAD, Proteus (Basic)Data AnalysisMS SQL, Access, Excel, Tableau

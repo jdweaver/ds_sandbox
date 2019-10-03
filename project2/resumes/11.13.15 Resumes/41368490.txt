@@ -1,24 +1,0 @@
-EmploymentMay 2010 - Present	US Cable	Paramus, NJ
-Internet Programmer
-* Programmed upgrades, and bug fixes for an internal provisioning website, internal documentation tracking website, and IT specific wiki sites.
- Oct 2007 - June 2008	North Jersey Media Group 	Hackensack, NJ
-Internet Programmer
-* Designed and developed a Search page for the PDF Archive.
-* Converted a Performance Reporting System from Excel to PHP 5.
-* Aided in the redesigning  of the companies Change Management System.
-May 2001 - June 2007	IBM	Poughkeepsie, NY
-Software Engineer
-* Programmed for an external customer online help desk application;  both the generic code base and customizations for various customers.
-* Worked with teams overseas in area such as India and Japan, as well as sister teams within the company in order to accomplish NLS, and DBCS work.
-Education1998 - Dec 2001	SUNY New Paltz	New Paltz, NY
-Computer Science
-* Overall GPA of 3.6
-1997 - 1998	Monmouth University	West Long Branch, NJ
-Computer Science
-* Overall GPA of 3.77, In Major GPA of 3.71Skills
-                              
-* Knowledge of the basic functions of any programming language, and able to pick up new syntax quickly.
-* PHP, MySQL, Postgres SQL, JQuery, CSS, HTML, JavaScript, ASP, Windows Indexing, Windows Indexing query language, VB 6, ASP, VBScript,  Java, JSP, and ISF
-* Documented at all jobs, in many cases where there was no documentation to begin with; skilled in Microsoft Office.
-* Worked with Visual Studio, DB2, WebSphere, WSAD, Windows 2000 server, RAD, Request Center
-

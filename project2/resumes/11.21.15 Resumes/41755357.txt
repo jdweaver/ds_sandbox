@@ -1,36 +1,0 @@
-NAME NAME
-Profile
-A Technology Analyst at an Investment Bank interested in solving complex problems through the use of different technologies. 
-Education
-2010 - 2013UNIVERSITYBSc Hons Computer Science & Management Studies
-Classification: 2:12008 - 2010SCHOOL3 A-Levels, all grade B, (Maths, Computing, Economics)2006 - 2008SCHOOL2 GCSEs at grade A*; 5 at grade A and 3 at grade B 1999 - 2001SCHOOL1 GCSE at grade B
-Work Experience
-DATE - Present INVESTMENT BANK - Analyst
-Software Engineer in SUB team 
-* Rapidly built an in depth knowledge of the function of the business and the proprietary software used within the team
-* Delivered sophisticated tools to analyse large data sets for both analytics and regulatory purposes 
-* Maintained a good relationship with both users and other teams by handling queries in a timely manner
-* Active participant in a training and on-boarding committee for new graduates 
-Summer YEARINVESTMENT BANK, London - Summer Technology Analyst
-10 week internship working in the Technology division of the investment bank
-* Developed both technical and soft skills and acquired new knowledge through presentations and workshops given by industry experts
-* Delivered presentations to an international audience.
-Summer 2011COMPANY, Cambridge - Summer Internship
-Six week placement experiencing software development and testing at an electronic design and consultancy
-* Observed the software engineering process, from gaining requirements from clients to implementing the system
-* Helped develop software for a leading professional broadcast company
-* Experienced working in a team and learned about the importance good software practices and coding standards.
-* Given the responsibility to find bugs and test the performance of the software on various systems before it was debuted at IBC 2011 in Amsterdam, the largest tradeshow for the industry.
-* Utilised communication skills to develop and maintain successful working relationships with both internal and external staff
-* Attended an EMC testing centre and experienced various conformity tests on different hardware, gained skills to narrow down problems to find the causeTechnical Skills
-  
-* Programming Languages: Experience in Java, SQL, Javascript, HTML, Haskell
-* Database: Sybase, Access
-* Applications: Excel, Tableau, IntelliJ
-Interests
-* Sports - Running
-* Financial Technology - Attend lectures given by industry professionals and start ups
-* Travel - Trekked to the Mount Everest Base Camp (5364m) and Kala Patthar (5550m)
-References available on request
-Nationality: British			        	          				           Date of birth: 
-London, United Kingdom				 Mobile:	      			   Email: 
